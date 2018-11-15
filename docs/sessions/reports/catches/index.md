@@ -1,4 +1,4 @@
-# Index of catches
+# Index of catch reports
 
 ID | catch |
 ---|-------|

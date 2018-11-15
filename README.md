@@ -1,3 +1,3 @@
 # My Fishing Logbook
 
-[index](docs/index.md)
+[index](docs/readme.md)

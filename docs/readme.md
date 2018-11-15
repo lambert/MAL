@@ -1,3 +1,3 @@
 # Index
 
-[session reports](catches/index.md)
+[session reports](sessions/index.md)

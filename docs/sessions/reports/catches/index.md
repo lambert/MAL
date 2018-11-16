@@ -1,6 +1,6 @@
 # Index of catch reports
 
-ID | catch |
+catch | species |
 ---|-------|
 [19940814_0015](19940814_0015.md) | Dover Sole |
 [19941225_1400](19941225_1400.md) | Whiting |

@@ -1,6 +1,6 @@
 # Index of session reports
 
-ID | report |
+session | location |
 ---|-------|
 [19940813](reports/19940813.md) | Blankenberge (Belgium), Oosterstaketsel |
 [19941225](reports/19941225.md) | Blankenberge (Belgium), Oosterstaketsel |

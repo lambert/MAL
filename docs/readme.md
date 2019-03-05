@@ -4,3 +4,4 @@
 
 [catch reports](sessions/reports/catches/index.md)
 
+[rigs](rigs/README.md)

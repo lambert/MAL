@@ -14,4 +14,6 @@
 
 ### Surf casting rigs
 
+[Up and over rig](Up and over rig.md)
+
 ### Boat rigs

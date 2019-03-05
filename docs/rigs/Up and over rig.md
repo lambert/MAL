@@ -20,7 +20,7 @@
 
   * attach 30 lbs transparent monofilament to the rolling swivel, cut length as required
   
-  * sliding on an Aberdeen size 1/0 hook
+  * slide on an Aberdeen size 1/0 hook
   
   * attach an Aberdeen size 1/0 hook to the snood end
   

@@ -16,10 +16,26 @@
   
   * attach Rolling swivel to the other end
 
-## Snood
+## Snood for Cod (using Fresh blacks and squid wrap baits)
+
+  * attach 30 lbs transparent monofilament to the rolling swivel, cut length as required
+  
+  * slide on an Aberdeen size 1/0 ... 3/0 hook
+  
+  * attach an Aberdeen size 1/0 ... 5/0 hook to the snood end
+
+## Snood for Ray (using Sandeel baits)
 
   * attach 30 lbs transparent monofilament to the rolling swivel, cut length as required
   
   * slide on an Aberdeen size 1/0 hook
   
   * attach an Aberdeen size 1/0 hook to the snood end
+  
+  ## Snood for Ray (using Herring or Bluey baits)
+
+  * attach 30 lbs transparent monofilament to the rolling swivel, cut length as required
+  
+  * slide on an Aberdeen size 2/0 hook
+  
+  * attach an Aberdeen size 2/0 hook to the snood end

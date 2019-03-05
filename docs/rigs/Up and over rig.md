@@ -2,9 +2,9 @@
 
 ## Rig body
 
-  * 90 cm 70 lbs or 0.70 mm monofilament
+  * cut off 90 cm 70 lbs or 0.70 mm monofilament
 
-  * Rolling swivel with bait clip
+  * attach a Rolling swivel with bait clip on one end and slide on the following:
   
   * 1 cm 1.5 mm Silicone tubing
   
@@ -14,13 +14,13 @@
   
   * 8 mm round bead
   
-  * Rolling swivel
+  * attach Rolling swivel to the other end
 
 ## Snood
 
-  * 30 lbs transparent monofilament
+  * attach 30 lbs transparent monofilament to the rolling swivel, cut length as required
   
-  * sliding Aberdeen size 1/0 hook
+  * sliding on an Aberdeen size 1/0 hook
   
-  * Aberdeen size 1/0 hook
+  * attach an Aberdeen size 1/0 hook to the snood end
   

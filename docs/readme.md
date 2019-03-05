@@ -1,7 +1,7 @@
 # Index
 
-[session reports](sessions/index.md)
+[sessions](sessions/index.md)
 
-[catch reports](sessions/reports/catches/index.md)
+[catches](sessions/reports/catches/index.md)
 
 [rigs](rigs/README.md)

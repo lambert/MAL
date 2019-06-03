@@ -1,5 +1,7 @@
 # Bait
 
+## Storage:
+
 * [ ] Bait box #1.
 * [ ] Bait box #2.
 * [ ] Bait bag Tronixpro.

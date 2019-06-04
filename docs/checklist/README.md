@@ -1,7 +1,9 @@
 # Checklist index
 
-[General](./general.md)
+* [ ] [General](./general.md)
 
-[Flytying](./flytying.md)
+* [ ] [Flyfishing](./flyfishing.md)
 
-[Bait](./bait.md)
+* [ ] [Flytying](./flytying.md)
+
+* [ ] [Bait](./bait.md)

@@ -36,7 +36,7 @@
 * [ ] NYMPH.
 * [ ] BUZZERS.
 * [ ] DRY.
-* [ ] WET Snowbee.
+* [ ] WET (Snowbee).
 * [ ] BALTIC (Albatros).
 * [ ] BALTIC (green).
 * [ ] SALMON (Pool12).

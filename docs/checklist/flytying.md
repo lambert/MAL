@@ -6,11 +6,6 @@
 
 * [ ] Suitcase with contents:
 * [ ] Vice.
-* [ ] Goat hair assortment.
-* [ ] Dubbing assortment.
-* [ ] Feathers assortment.
-* [ ] Hooks.
-* [ ] Thread.
 * [ ] Threader.
 * [ ] Bobbin holder.
 * [ ] Tweezers.
@@ -19,9 +14,16 @@
 * [ ] Hackle plier.
 * [ ] Whip finisher.
 * [ ] Knot tying helpers.
+
+## Flytying Materials
+
+* [ ] Goat hair assortment.
+* [ ] Dubbing assortment.
+* [ ] Feathers assortment.
+* [ ] Hooks.
+* [ ] Thread.
 * [ ] Clear varnish.
 * [ ] Bugbond UVCR with UV torch.
-
 * [ ] Box with hooks and beads.
 * [ ] Box with feathers.
 * [ ] Box with dubbing and wool.

@@ -34,6 +34,7 @@
 ## Fly boxes: 
 
 * [ ] NYMPH.
+* [ ] BUZZERS.
 * [ ] DRY.
 * [ ] WET Snowbee.
 * [ ] BALTIC (Albatros).

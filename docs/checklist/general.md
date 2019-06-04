@@ -1,6 +1,6 @@
 # General checklist
 
-* [v] Ticked items are in the car.
+* [x] Ticked items are in the car.
 
 ## Safety
 

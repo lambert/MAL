@@ -1,5 +1,7 @@
 # Bait
 
+* [x] Ticked items are in the car.
+
 ## Storage:
 
 * [ ] Bait box #1.

@@ -5,8 +5,8 @@
 ## Flytying Equipment 
 
 * [ ] Suit case with contents:
-* [ ] Vice.
-* [ ] Goat hair assortment.
+   ** [ ] Vice.
+   ** [ ] Goat hair assortment.
 * [ ] Dubbing assortment.
 * [ ] Feathers assortment.
 * [ ] Hooks.

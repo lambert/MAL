@@ -6,4 +6,6 @@
 
 * [ ] [Flytying](./flytying.md)
 
+* [ ] [Pier and Beach](./pier.md)
+
 * [ ] [Bait](./bait.md)

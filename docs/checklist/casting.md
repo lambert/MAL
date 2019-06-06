@@ -11,12 +11,12 @@
 
 ## Reels: 
 
-* [ ] #1 Abu-Garcia 6500 C3CT Mag-Elite (0.31 mm).
-* [ ] #2 Abu-Garcia 6500 C3CT Mag-Elite (0.28 mm).
-* [ ] #3 Abu-Garcia 6500 C3CT Mag (0.35 mm).
-* [ ] #4 Abu-Garcia 5500 C3CT Mag-Elite (0.26 mm).
-* [ ] #1 Akios S-line 656 CTM (0.35 mm).
-* [ ] #2 Akios S-line 656 CTM (0.35 mm).
+* [ ] Abu-Garcia 6500 C3CT Mag-Elite (#1 0.31 mm).
+* [ ] Abu-Garcia 6500 C3CT Mag-Elite (#2 0.28 mm).
+* [ ] Abu-Garcia 6500 C3CT Mag (#3 0.35 mm).
+* [ ] Abu-Garcia 5500 C3CT Mag-Elite (#4 0.26 mm).
+* [ ] Akios S-line 656 CTM (#1 0.35 mm).
+* [ ] Akios S-line 656 CTM (#2 0.35 mm).
 
 ## Tackle box containing:
 
@@ -31,7 +31,7 @@
 * [ ] 150 gram sinkers.
 * [ ] 175 gram sinkers.
 
-## Assortiment box containing:
+### Assortiment box containing:
 
 * [ ] Split rings.
 * [ ] Fast clips.
@@ -49,6 +49,9 @@
 * [ ] Cash.
 * [ ] Foldable chair.
 * [ ] Balzer tripod.
+
+## Shelter:
+
 * [ ] Imax beach shelter.
 * [ ] Herrings.
 * [ ] Ground pins.

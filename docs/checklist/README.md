@@ -9,3 +9,5 @@
 * [ ] [Pier and Beach](./pier.md)
 
 * [ ] [Bait](./bait.md)
+
+* [ ] [Casting](./casting.md)

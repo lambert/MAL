@@ -74,25 +74,25 @@
 * [ ] Bait needles in PVC tube.
 * [ ] Cygnus buzzbar with two rests.
 
-## * [ ] Tub containing:
+## Tub containing:
 
 * [ ] Bait elastic.
 * [ ] Tea spoon.
 * [ ] Sponge.
 * [ ] Side cutter.
 
-## * [ ] IKEA side tray containing:
+## IKEA side tray containing:
 
 * [ ] Leg slider.
 * [ ] Butt cups.
 * [ ] Single rests.
 
-## * [ ] IKEA side tray containing:
+## IKEA side tray containing:
 
 * [ ] Headlamps.
 * [ ] Thumbies.
 
-## * [ ] Side tray containing:
+## Side tray containing:
 
 * [ ] Triple rest (new).
 * [ ] Triple rest (original).
@@ -110,7 +110,7 @@
 * [ ] Ball pen.
 * [ ] Bottle opener.
 
-Tub with:
+## Tub with:
 
 * [ ] Spool with line for rotten bottom Clear.
 * [ ] Spool 0.30 mm main line Clear.
@@ -124,7 +124,8 @@ Tub with:
 * [ ] Spool 0.35-0.70 mm tapered shock leaders Orange.
 * [ ] Spool 0.35-0.70 mm tapered shock leaders Yellow.
 
-* [ ] Tronixpro spoolholder:
+## Tronixpro spoolholder:
+
 * [ ] Spool 12 lbs Amnesia Clear snood.
 * [ ] Spool 15 lbs Amnesia Clear snood.
 * [ ] Spool 15 lbs Amnesia Black snood.
@@ -136,6 +137,8 @@ Tub with:
 * [ ] Spool 30 lbs Amnesia Clear snood.
 * [ ] Spool 40 lbs Amnesia Clear snood.
 
+## Rigs:
+
 * [ ] Tub with Pulley Down rigs.
 * [ ] Tub with Up and Over rigs.
 * [ ] Tub with Drop down rigs.
@@ -143,13 +146,15 @@ Tub with:
 * [ ] Tub with 3-hook flapper rigs.
 * [ ] Tub with Cod bashing rigs.
 
-* [ ] Tub with 100-140 gram weights:
+## Tub with 100-140 gram weights:
+
 * [ ] 100 gram DCA bomb.
 * [ ] 100 gram Piramide.
 * [ ] 125 gram DCA bomb.
 * [ ] 130 gram Breakaway long tail.
 
-* [ ] Tub with 150-175 gram weights:
+## Tub with 150-175 gram weights:
+
 * [ ] 5 oz Fishwithfinn.
 * [ ] 150 gram Breakaway Impact.
 * [ ] 150 gram Breakaway long tail.
@@ -162,16 +167,20 @@ Tub with:
 * [ ] 170 gram Gemini.
 * [ ] 175 gram Albatros long tail.
 
-* [ ] Tub with 190-210 gram weights:
+## Tub with 190-210 gram weights:
+
 * [ ] 190 gram Breakaway long tail.
 * [ ] 200 gram Breakaway Impact.
 * [ ] 200 gram DCA bomb.
 * [ ] 210 gram Breakaway long tail.
 
-* [ ] Bucket with concrete weights:
+## Bucket with concrete weights:
+
 * [ ] 50 gram cubes.
 * [ ] 85 gram cilinders.
 * [ ] 125 gram cilinders.
+
+## Rod stands :
 
 * [ ] Albatros sand spike (#1).
 * [ ] Albatros sand spike (#2).
@@ -182,6 +191,8 @@ Tub with:
 * [ ] Breakaway tripod (#2).
 * [ ] Imax FR tripod.
 
+## Shelter:
+
 * [ ] Beach shelter Imax:
 * [ ] Herrings (4x).
 * [ ] Ground pins (8x).
@@ -189,8 +200,9 @@ Tub with:
 * [ ] Extender (1x).
 * [ ] Sand/gravel bag (2x).
 
-* [ ] Box with Petromax lamp:
-* [ ] Lamp.
+## Box with Petromax lamp:
+
+* [ ] Petromax lamp.
 * [ ] Needle.
 * [ ] Keys.
 * [ ] Purified Petroleum.

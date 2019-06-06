@@ -12,7 +12,7 @@
 * [ ] 13ft DAM Carbon Surf (#1).
 * [ ] 13ft DAM Carbon Surf (#2).
 * [ ] 13ft 8" Zziplex Profile EVO Mk2.
-* [ ] Extension.
+* [ ] Extension (Zziplex Profile).
 * [ ] 13ft Zziplex Evolution CT.
 * [ ] 14ft Spro FFWD-S10 (#1).
 * [ ] 14ft Spro FFWD-S10 (#2).
@@ -24,15 +24,15 @@
 
 ## Fixed Spool reels:
 
-* [ ] Daiwa Emblem Pro 5000 #1.
-* [ ] Daiwa Emblem Pro 5000 #1 spare spool.
-* [ ] Daiwa Emblem Pro 5000 #2.
-* [ ] Daiwa Emblem Pro 5000 #2 spare spool.
-* [ ] Shakespeare Whisker Titan #1.
-* [ ] Shakespeare Whisker Titan #2.
+* [ ] Daiwa Emblem Pro 5000 (#1).
+* [ ] Daiwa Emblem Pro 5000 spare spool (#1).
+* [ ] Daiwa Emblem Pro 5000 (#2).
+* [ ] Daiwa Emblem Pro 5000 spare spool (#2).
+* [ ] Shakespeare Whisker Titan (#1).
+* [ ] Shakespeare Whisker Titan (#2).
 * [ ] Shakespeare Whisker Titan spare spool.
-* [ ] Roltec G9000 #1.
-* [ ] Roltec G9000 #2.
+* [ ] Roltec G9000 (#1).
+* [ ] Roltec G9000 (#2).
 * [ ] Roltec G9000 spare spool.
 * [ ] Penn Affinity 8000.
 * [ ] Penn Affinity 8000 spare spool.
@@ -43,16 +43,16 @@
 
 ## Multiplier reels:
 
-* [ ] #1 Multiplier reel Shimano TSMIIC (0.40 mm).
-* [ ] #2 Multiplier reel Shimano TSMIIC (0.40 mm).
-* [ ] #1 Multiplier reel Abu-Garcia 6500 C3CT Mag-Elite (0.31 mm).
-* [ ] #2 Multiplier reel Abu-Garcia 6500 C3CT Mag-Elite (0.28 mm).
-* [ ] #3 Multiplier reel Abu-Garcia 6500 C3CT Mag (0.35 mm tapered line).
-* [ ] #4 Multiplier reel Abu-Garcia 5500 C3CT Mag-Elite (0.26 mm).
-* [ ] #1 Multiplier reel Akios S-line 656 CTM (0.35 mm).
-* [ ] #2 Multiplier reel Akios S-line 656 CTM (0.35 mm tapered line).
+* [ ] Multiplier reel Shimano TSMIIC (#1 0.40 mm).
+* [ ] Multiplier reel Shimano TSMIIC (#2 0.40 mm).
+* [ ] Multiplier reel Abu-Garcia 6500 C3CT Mag-Elite (#1 0.31 mm).
+* [ ] Multiplier reel Abu-Garcia 6500 C3CT Mag-Elite (#2 0.28 mm).
+* [ ] Multiplier reel Abu-Garcia 6500 C3CT Mag (#3 0.35 mm tapered line).
+* [ ] Multiplier reel Abu-Garcia 5500 C3CT Mag-Elite (#4 0.26 mm).
+* [ ] Multiplier reel Akios S-line 656 CTM (#1 0.35 mm).
+* [ ] Multiplier reel Akios S-line 656 CTM (#2 0.35 mm tapered line).
 
-## Pier and Beach gear:
+## Tackle box:
 
 * [ ] Shakespeare Sherpa.
 * [ ] Shakespeare Seat box containing:
@@ -74,25 +74,25 @@
 * [ ] Bait needles in PVC tube.
 * [ ] Cygnus buzzbar with two rests.
 
-## Tub containing:
+### Tub containing:
 
 * [ ] Bait elastic.
 * [ ] Tea spoon.
 * [ ] Sponge.
 * [ ] Side cutter.
 
-## IKEA side tray containing:
+### IKEA side tray containing:
 
 * [ ] Leg slider.
 * [ ] Butt cups.
 * [ ] Single rests.
 
-## IKEA side tray containing:
+### IKEA side tray containing:
 
 * [ ] Headlamps.
 * [ ] Thumbies.
 
-## Side tray containing:
+### Side tray containing:
 
 * [ ] Triple rest (new).
 * [ ] Triple rest (original).
@@ -110,7 +110,7 @@
 * [ ] Ball pen.
 * [ ] Bottle opener.
 
-## Tub with:
+### Tub with:
 
 * [ ] Spool with line for rotten bottom Clear.
 * [ ] Spool 0.30 mm main line Clear.
@@ -124,7 +124,7 @@
 * [ ] Spool 0.35-0.70 mm tapered shock leaders Orange.
 * [ ] Spool 0.35-0.70 mm tapered shock leaders Yellow.
 
-## Tronixpro spoolholder:
+### Tronixpro spoolholder:
 
 * [ ] Spool 12 lbs Amnesia Clear snood.
 * [ ] Spool 15 lbs Amnesia Clear snood.
@@ -137,7 +137,7 @@
 * [ ] Spool 30 lbs Amnesia Clear snood.
 * [ ] Spool 40 lbs Amnesia Clear snood.
 
-## Rigs:
+### Rigs:
 
 * [ ] Tub with Pulley Down rigs.
 * [ ] Tub with Up and Over rigs.
@@ -146,14 +146,14 @@
 * [ ] Tub with 3-hook flapper rigs.
 * [ ] Tub with Cod bashing rigs.
 
-## Tub with 100-140 gram weights:
+### Tub with 100-140 gram weights:
 
 * [ ] 100 gram DCA bomb.
 * [ ] 100 gram Piramide.
 * [ ] 125 gram DCA bomb.
 * [ ] 130 gram Breakaway long tail.
 
-## Tub with 150-175 gram weights:
+### Tub with 150-175 gram weights:
 
 * [ ] 5 oz Fishwithfinn.
 * [ ] 150 gram Breakaway Impact.
@@ -167,7 +167,7 @@
 * [ ] 170 gram Gemini.
 * [ ] 175 gram Albatros long tail.
 
-## Tub with 190-210 gram weights:
+### Tub with 190-210 gram weights:
 
 * [ ] 190 gram Breakaway long tail.
 * [ ] 200 gram Breakaway Impact.
@@ -199,6 +199,7 @@
 * [ ] Lines (4x).
 * [ ] Extender (1x).
 * [ ] Sand/gravel bag (2x).
+* [ ] Umbrella.
 
 ## Box with Petromax lamp:
 

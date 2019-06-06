@@ -69,29 +69,30 @@
 * [ ] Rigwinder box with flapper and double runner rigs.
 * [ ] Foldable bucket.
 * [ ] Elastic cord for bucket.
-
-* [ ] Tub containing:
-* [ ] Bait elastic.
-* [ ] Tea spoon.
-* [ ] Sponge.
-* [ ] Side cutter.
-
 * [ ] Old towel.
 * [ ] Cutting board.
 * [ ] Bait needles in PVC tube.
 * [ ] Cygnus buzzbar with two rests.
 
-* [ ] IKEA side tray containing:
+## * [ ] Tub containing:
+
+* [ ] Bait elastic.
+* [ ] Tea spoon.
+* [ ] Sponge.
+* [ ] Side cutter.
+
+## * [ ] IKEA side tray containing:
+
 * [ ] Leg slider.
 * [ ] Butt cups.
 * [ ] Single rests.
 
-* [ ] IKEA side tray containing:
+## * [ ] IKEA side tray containing:
 
 * [ ] Headlamps.
 * [ ] Thumbies.
 
-* [ ] Side tray containing:
+## * [ ] Side tray containing:
 
 * [ ] Triple rest (new).
 * [ ] Triple rest (original).

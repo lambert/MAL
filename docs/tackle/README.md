@@ -1,7 +1,9 @@
 # Tackle
 
-[Gear](./gear.md)
+## Gear
 
-[Reels](./reels.md)
+## Reels
 
-[Rods](./rods.md)
+## Rods
+
+* Tronixpro Xenon Travel 12ft 6

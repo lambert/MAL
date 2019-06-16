@@ -7,7 +7,7 @@
 ## Rods
 
 * Penn Powerstix Pro 11ft 6"
-* Tronixpro Xenon Travel 12ft 6"
+* [Tronixpro Xenon Travel 12ft 6"](./Rods_Tronixpro_Xenon_Travel.md)
 * DAM Fighter Carbon Surft 13ft
 * Albatros Senator Carbon 13ft
 * Century Carbon Metal Mk1 13ft

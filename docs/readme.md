@@ -1,7 +1,9 @@
 # Index
 
-[sessions](sessions/index.md)
+[Sessions](sessions/index.md)
 
-[catches](sessions/reports/catches/index.md)
+[Catches](sessions/reports/catches/index.md)
 
-[rigs](rigs/README.md)
+[Rigs](rigs/README.md)
+
+[Tackle](tackle/README.md)

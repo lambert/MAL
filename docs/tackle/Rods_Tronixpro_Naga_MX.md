@@ -4,6 +4,8 @@
 
 November 24, 2016  by Mike Thrussell Jnr
 
+![pic_0](pics/Rods_Tronixpro_Naga_MX_0.jpg)
+
 Whilst we’re well known for our high end continental style rods such as the Medusa
 and the Cobra, an out and out, traditional style beachcaster is not something we’ve
 done … until now!
@@ -24,7 +26,7 @@ However, he didn’t, he took a totally different tack, he wanted to build a rod
 that the majority of anglers would use … a traditional, two piece 14 ft beachcaster
 complete with reducer and capable of launching leads between 5 and 8 ounces.
 
-[pic_1](pics/Rods_Tronixpro_Naga_MX_1.jpg)
+![pic_1](pics/Rods_Tronixpro_Naga_MX_1.jpg)
 
 Finished in a fetching shade of deep red, complimented by red and silver whippings
 and a lighter red shrink wrap which covers the lower third of the butt section,
@@ -45,7 +47,7 @@ A powerful rod that retains loads of power, has a lovely supple tip and will giv
 any top end beachcaster a run for its money … and it costs a lot less too !
 – Joe Arch
 
-[pic_2](pics/Rods_Tronixpro_Naga_MX_2.jpg)
+![pic_2](pics/Rods_Tronixpro_Naga_MX_2.jpg)
 
 Purposefully, the colour scheme of the Naga MX has been designed with night fishing
 in mind.
@@ -56,7 +58,7 @@ The silver stainless Fuji K Alconite guides, red with silver detail whipping and
 almost metallic red blank colour allow you to see the rod in low light levels.
 Whether that be moonlight, street lighting or any other far off, surrounding light.
 
-[pic_3](pics/Rods_Tronixpro_Naga_MX_3.jpg)
+![pic_3](pics/Rods_Tronixpro_Naga_MX_3.jpg)
 
 Constructed of lightweight 40 ton carbon the Naga MX features a slim diameter blank
 with maximum strength and minimal weight.
@@ -84,7 +86,7 @@ the Naga MX with me to give me that extra confidence.
 Once it was landed, it wasn’t quite the 20 lber I was hoping for but a cracking
 fish all the same of just shy of 16lbs – Mario Asprou
 
-[pic_4](pics/Rods_Tronixpro_Naga_MX_4.jpg)
+![pic_4](pics/Rods_Tronixpro_Naga_MX_4.jpg)
 
 The highly tuned blank has been designed to get you casting to maximum fishing
 distances with ease.
@@ -100,7 +102,7 @@ It can handle pretty much anything you can throw at it with ease.
 In the right hands, the rod is an exceptional casting tool that has the capability
 to reach extreme distances.
 
-[pic_5](pics/Rods_Tronixpro_Naga_MX_5.jpg)
+![pic_5](pics/Rods_Tronixpro_Naga_MX_5.jpg)
 
 Over 18 months of field testing has proven the rod in as many situations as possible.
 From standard, British style beach fishing to snaggy rock marks across Britain,

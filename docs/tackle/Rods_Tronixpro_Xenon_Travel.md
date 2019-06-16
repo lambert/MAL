@@ -1,5 +1,7 @@
 # Tronixpro Xenon Travel
 
+![pic_0](pics/Rods_Tronixpro_Xenon_Travel_0.jpg)
+
 With airlines charging more for taking excess luggage, including large rod tubes, the
 Xenon Travel is the perfect travelling companion for the worldwide angler.
 It breaks down into six sections, meaning it will fit easily into most hold luggage

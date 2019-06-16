@@ -4,7 +4,7 @@
 
 ## Rods:
 
-* [ ] 12ft 8" Tronixpro Xenon Travel.
+* [ ] 12ft 6" Tronixpro Xenon Travel.
 * [ ] 13ft Century Carbon Metal (#C1625).
 * [ ] 13ft Century Carbon Metal (#8D27).
 * [ ] 13ft Albatros Senator Carbon (#1).

@@ -34,7 +34,7 @@ By year:
 
 session | location |
 ---|-------|
-** 1994 ** | |
+**1994** | |
 [19940813](reports/19940813.md) | Blankenberge (Belgium), Oosterstaketsel |
 [19941225](reports/19941225.md) | Blankenberge (Belgium), Oosterstaketsel |
 [19941226](reports/19941226.md) | Blankenberge (Belgium), Oosterstaketsel |
@@ -43,13 +43,13 @@ session | location |
 [19950401](reports/19950401.md) | IJmuiden |
 ** 2019 ** | |
 [20190412](reports/20190421.md) | Velsen-Noord |
-[20190423](reports/20190423.md) | Bouillon (B) |
-[20190424](reports/20190424.md) | Vallee de Rabais, Virton (B) |
+[20190423](reports/20190423.md) | Bouillon (Belgium) |
+[20190424](reports/20190424.md) | Virton (Belgium), Vallee de Rabais |
 [20190502](reports/20190502.md) | IJmuiden |
 [20190510](reports/20190510.md) | IJmuiden |
 [20190524](reports/20190524.md) | Velsen-Noord |
 [20190529](reports/20190529.md) | Velsen-Noord |
-[20190608](reports/20190608.md) | Herne Bay (UK) |
-[20190609](reports/20190609.md) | MS Lady Ann, Ramsgate (UK) |
+[20190608](reports/20190608.md) | Herne Bay (United Kingdom) |
+[20190609](reports/20190609.md) | Ramsgate (United Kingdom), MS Lady Ann |
 [20190617](reports/20190617.md) | Velsen-Noord |
 

@@ -42,7 +42,18 @@ session | location |
 [19950401](reports/19950401.md) | IJmuiden |
 [19950401](reports/19950401.md) | IJmuiden |
 **2019** | |
-[20190412](reports/20190421.md) | Velsen-Noord |
+[20190103](reports/20190103.md) | Wijk aan Zee |
+[20190106](reports/20190106.md) | Castricum aan Zee |
+[20190215](reports/20190215.md) | Hornsea (United Kingdom) |
+[20190216](reports/20190216.md) | Withernsea (United Kingdom) |
+[20190217](reports/20190217.md) | Withernsea (United Kingdom) |
+[20190218](reports/20190218.md) | Mappleton (United Kingdom) |
+[20190223](reports/20190223.md) | Velsen-Noord |
+[20190308](reports/20190308.md) | Hythe (United Kingdom) |
+[20190309](reports/20190309.md) | Littlestone (United Kingdom) |
+[20190322](reports/20190322.md) | Velsen-Noord |
+[20190323](reports/20190323.md) | Velsen-Noord |
+[20190421](reports/20190421.md) | Velsen-Noord |
 [20190423](reports/20190423.md) | Bouillon (Belgium) |
 [20190424](reports/20190424.md) | Virton (Belgium), Vallee de Rabais |
 [20190502](reports/20190502.md) | IJmuiden |

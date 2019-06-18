@@ -38,10 +38,10 @@ session | location |
 [19940813](reports/19940813.md) | Blankenberge (Belgium), Oosterstaketsel |
 [19941225](reports/19941225.md) | Blankenberge (Belgium), Oosterstaketsel |
 [19941226](reports/19941226.md) | Blankenberge (Belgium), Oosterstaketsel |
-** 1995 ** | |
+**1995** | |
 [19950401](reports/19950401.md) | IJmuiden |
 [19950401](reports/19950401.md) | IJmuiden |
-** 2019 ** | |
+**2019** | |
 [20190412](reports/20190421.md) | Velsen-Noord |
 [20190423](reports/20190423.md) | Bouillon (Belgium) |
 [20190424](reports/20190424.md) | Virton (Belgium), Vallee de Rabais |

@@ -40,7 +40,6 @@ session | location |
 [19941226](reports/19941226.md) | Blankenberge (Belgium), Oosterstaketsel |
 **1995** | |
 [19950401](reports/19950401.md) | IJmuiden |
-[19950401](reports/19950401.md) | IJmuiden |
 **2019** | |
 [20190103](reports/20190103.md) | Wijk aan Zee |
 [20190106](reports/20190106.md) | Castricum aan Zee |

@@ -1,8 +1,8 @@
 # Index
 
-[Sessions](sessions/index.md)
+[Sessions](sessions/README.md)
 
-[Catches](sessions/reports/catches/index.md)
+[Catches](sessions/reports/catches/README.md)
 
 [Rigs](rigs/README.md)
 

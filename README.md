@@ -1,3 +1,3 @@
 # My Angling Logbook
 
-[index](docs/readme.md)
+[index](docs/README.md)

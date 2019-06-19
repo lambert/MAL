@@ -40,26 +40,27 @@ session | location |
 [19941226](reports/19941226.md) | Blankenberge (Belgium), Oosterstaketsel |
 **1995** | |
 [19950401](reports/19950401.md) | IJmuiden |
+**2018** | |
 **2019** | |
-[20190103](reports/20190103.md) | Wijk aan Zee |
-[20190106](reports/20190106.md) | Castricum aan Zee |
-[20190215](reports/20190215.md) | Hornsea (United Kingdom) |
-[20190216](reports/20190216.md) | Withernsea (United Kingdom) |
-[20190217](reports/20190217.md) | Withernsea (United Kingdom) |
-[20190218](reports/20190218.md) | Mappleton (United Kingdom) |
-[20190223](reports/20190223.md) | Velsen-Noord |
-[20190308](reports/20190308.md) | Hythe (United Kingdom) |
-[20190309](reports/20190309.md) | Littlestone (United Kingdom) |
-[20190322](reports/20190322.md) | Velsen-Noord |
-[20190323](reports/20190323.md) | Velsen-Noord |
-[20190421](reports/20190421.md) | Velsen-Noord |
-[20190423](reports/20190423.md) | Bouillon (Belgium) |
-[20190424](reports/20190424.md) | Virton (Belgium), Vallee de Rabais |
-[20190502](reports/20190502.md) | IJmuiden |
-[20190510](reports/20190510.md) | IJmuiden |
-[20190524](reports/20190524.md) | Velsen-Noord |
-[20190529](reports/20190529.md) | Velsen-Noord |
-[20190608](reports/20190608.md) | Herne Bay (United Kingdom) |
-[20190609](reports/20190609.md) | Ramsgate (United Kingdom), MS Lady Ann |
-[20190617](reports/20190617.md) | Velsen-Noord |
+[20190103](reports/template.md) | Wijk aan Zee |
+[20190106](reports/template.md) | Castricum aan Zee |
+[20190215](reports/template.md) | Hornsea (United Kingdom) |
+[20190216](reports/template.md) | Withernsea (United Kingdom) |
+[20190217](reports/template.md) | Withernsea (United Kingdom) |
+[20190218](reports/template.md) | Mappleton (United Kingdom) |
+[20190223](reports/template.md) | Velsen-Noord |
+[20190308](reports/template.md) | Hythe (United Kingdom) |
+[20190309](reports/template.md) | Littlestone (United Kingdom) |
+[20190322](reports/template.md) | Velsen-Noord |
+[20190323](reports/template.md) | Velsen-Noord |
+[20190421](reports/template.md) | Velsen-Noord |
+[20190423](reports/template.md) | Bouillon (Belgium) |
+[20190424](reports/template.md) | Virton (Belgium), Vallee de Rabais |
+[20190502](reports/template.md) | IJmuiden |
+[20190510](reports/template.md) | IJmuiden |
+[20190524](reports/template.md) | Velsen-Noord |
+[20190529](reports/template.md) | Velsen-Noord |
+[20190608](reports/template.md) | Herne Bay (United Kingdom) |
+[20190609](reports/template.md) | Ramsgate (United Kingdom), MS Lady Ann |
+[20190617](reports/template.md) | Velsen-Noord |
 

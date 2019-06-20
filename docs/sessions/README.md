@@ -41,6 +41,13 @@ session | location |
 **1995** | |
 [19950401](reports/19950401.md) | IJmuiden |
 **2018** | |
+[20180101](reports/template.md) | Velsen-Zuid |
+[20180102](reports/template.md) | Velsen-Noord |
+[20180106](reports/template.md) | Velsen-Noord |
+[20180114](reports/template.md) | Velsen-Zuid |
+[20180209](reports/template.md) | Hornsea (United Kingdom) |
+[20180210](reports/template.md) | Kilnsea (United Kingdom) |
+[20180211](reports/template.md) | Tunstall (United Kingdom) |
 **2019** | |
 [20190103](reports/template.md) | Wijk aan Zee |
 [20190106](reports/template.md) | Castricum aan Zee |

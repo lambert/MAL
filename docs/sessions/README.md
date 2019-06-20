@@ -62,5 +62,5 @@ session | location |
 [20190529](reports/template.md) | Velsen-Noord |
 [20190608](reports/template.md) | Herne Bay (United Kingdom) |
 [20190609](reports/template.md) | Ramsgate (United Kingdom), MS Lady Ann |
-[20190617](reports/template.md) | Velsen-Noord |
+[20190617](reports/20190617.md) | Velsen-Noord |
 

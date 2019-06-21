@@ -41,33 +41,42 @@ session | location |
 **1995** | |
 [19950401](reports/19950401.md) | IJmuiden |
 **2018** | |
-[20180101](reports/template.md) | Velsen-Zuid |
-[20180102](reports/template.md) | Velsen-Noord |
-[20180106](reports/template.md) | Velsen-Noord |
-[20180114](reports/template.md) | Velsen-Zuid |
-[20180209](reports/template.md) | Hornsea (United Kingdom) |
-[20180210](reports/template.md) | Kilnsea (United Kingdom) |
-[20180211](reports/template.md) | Tunstall (United Kingdom) |
+[20180101]() | Velsen-Zuid |
+[20180102]() | Velsen-Noord |
+[20180106]() | Velsen-Noord |
+[20180114]() | Velsen-Zuid |
+[20180209]() | Hornsea (United Kingdom) |
+[20180210]() | Kilnsea (United Kingdom) |
+[20180211]() | Tunstall (United Kingdom) |
+[20180324]() | Velsen-Noord |
+[20180401]() | Velsen-Noord |
+[20180413]() | IJmuiden |
+[20180415]() | Velsen-Noord |
+[20180427]() | IJmuiden |
+[20180502]() | Reculver (United Kingdom) |
+[20180503]() | Herne Bay (United Kingdom) |
+[20180503]() | Reculver (United Kingdom) |
+[20180504]() | Sandwich Bay (United Kingdom) |
 **2019** | |
-[20190103](reports/template.md) | Wijk aan Zee |
-[20190106](reports/template.md) | Castricum aan Zee |
-[20190215](reports/template.md) | Hornsea (United Kingdom) |
-[20190216](reports/template.md) | Withernsea (United Kingdom) |
-[20190217](reports/template.md) | Withernsea (United Kingdom) |
-[20190218](reports/template.md) | Mappleton (United Kingdom) |
-[20190223](reports/template.md) | Velsen-Noord |
-[20190308](reports/template.md) | Hythe (United Kingdom) |
-[20190309](reports/template.md) | Littlestone (United Kingdom) |
-[20190322](reports/template.md) | Velsen-Noord |
-[20190323](reports/template.md) | Velsen-Noord |
-[20190421](reports/template.md) | Velsen-Noord |
-[20190423](reports/template.md) | Bouillon (Belgium) |
-[20190424](reports/template.md) | Virton (Belgium), Vallee de Rabais |
-[20190502](reports/template.md) | IJmuiden |
-[20190510](reports/template.md) | IJmuiden |
-[20190524](reports/template.md) | Velsen-Noord |
-[20190529](reports/template.md) | Velsen-Noord |
-[20190608](reports/template.md) | Herne Bay (United Kingdom) |
-[20190609](reports/template.md) | Ramsgate (United Kingdom), MS Lady Ann |
+[20190103]() | Wijk aan Zee |
+[20190106]() | Castricum aan Zee |
+[20190215]() | Hornsea (United Kingdom) |
+[20190216]() | Withernsea (United Kingdom) |
+[20190217]() | Withernsea (United Kingdom) |
+[20190218]() | Mappleton (United Kingdom) |
+[20190223]() | Velsen-Noord |
+[20190308]() | Hythe (United Kingdom) |
+[20190309]() | Littlestone (United Kingdom) |
+[20190322]() | Velsen-Noord |
+[20190323]() | Velsen-Noord |
+[20190421]() | Velsen-Noord |
+[20190423]() | Bouillon (Belgium) |
+[20190424]() | Virton (Belgium), Vallee de Rabais |
+[20190502]() | IJmuiden |
+[20190510]() | IJmuiden |
+[20190524]() | Velsen-Noord |
+[20190529]() | Velsen-Noord |
+[20190608]() | Herne Bay (United Kingdom) |
+[20190609]() | Ramsgate (United Kingdom), MS Lady Ann |
 [20190617](reports/20190617.md) | Velsen-Noord |
 

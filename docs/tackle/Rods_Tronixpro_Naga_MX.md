@@ -151,7 +151,7 @@ Reel Seat: Tronixpro Coasters
 Rod Bag: Yes, hard wearing cloth rod bag
 Butt Cap: Yes, Fuji butt cap for casting with your reel up
 
-Price: £329.99
+Price: Â£329.99
 
 For more information on the Tronixpro Naga MX please click here, to find your nearest
 stockist, please visit our store locator.
@@ -237,7 +237,7 @@ A half pendulum to give some momentum and distance had the lead firing out to go
 distances.
 A full pendulum demonstrated that the rod is a serious casting tool too.
 Launching into the cast you can feel the power begin to unfold and release as the rod
-catapults a 5½oz lead towards the horizon.
+catapults a 5Â½oz lead towards the horizon.
 The forgiving action means you don't have to be a technical casting wizard to get it to
 sing, and anglers can concentrate on their fishing rather than their casting.
 The bite detection is excellent.
@@ -263,9 +263,3 @@ Vital Stats
  Reel seat: Tronixpro Coasters
  Rod bag: Hard-wearing cloth rod bag
  Butt cap: Fuji butt cap for casting with your reel up
-
-Contact:
- Tronixpro
- T: 01903 732567
- www.tronixfishing.com
- RRP: £329.99

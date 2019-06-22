@@ -1,13 +1,13 @@
 # Checklist index
 
-* [ ] [General](./general.md)
+[General](general.md)
 
-* [ ] [Flyfishing](./flyfishing.md)
+[Flyfishing](flyfishing.md)
 
-* [ ] [Flytying](./flytying.md)
+[Flytying](flytying.md)
 
-* [ ] [Pier and Beach](./pier.md)
+[Pier and Beach](pier.md)
 
-* [ ] [Bait](./bait.md)
+[Bait](bait.md)
 
-* [ ] [Casting](./casting.md)
+[Casting](casting.md)

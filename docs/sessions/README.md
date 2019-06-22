@@ -76,7 +76,7 @@ session | location |
 [20190510]() | IJmuiden |
 [20190524](reports/20190524.md) | Velsen-Noord |
 [20190529](reports/20190529.md) | Velsen-Noord |
-[20190608]() | Herne Bay (United Kingdom) |
-[20190609]() | Ramsgate (United Kingdom), MS Lady Ann |
+[20190608](reports/20190608.md) | Herne Bay (United Kingdom) |
+[20190609](reports/20190609.md) | Ramsgate (United Kingdom), MS Lady Ann |
 [20190617](reports/20190617.md) | Velsen-Noord |
 

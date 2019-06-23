@@ -1,5 +1,8 @@
 # Baltic fly box
 
+My Baltic fly box is a small size type with compartiments, each having a
+lid.
+
 Pattern | Amount |
 --------|--------|
 Borste Orm #6 UF | |

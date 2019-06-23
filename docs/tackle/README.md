@@ -1,8 +1,41 @@
 # Tackle
 
-## Gear
+## Hooks
+
+## Rigs
+
+## Sinkers
+
+## Line
 
 ## Reels
+
+### Fixed spool reels:
+
+* Shakespeare Whisker Titan (x2, + spare spool x1)
+* Roltec G9000 (x2, + spare spool x1)
+* Daiwa Samurai (+ spare spool)
+* Daiwa Crossfire (+ spare spool)
+* Daiwa Emblem Pro 5000 (x2, + spare spool x2)
+* Penn Affinity 8000 (+ spare spool)
+* Penn Battle II 4000
+* Penn Affinity II 8000 Long Cast
+
+### Multiplier reels:
+
+* Multiplier reel Shimano TSMIIC (x2)
+* Multiplier reel Abu-Garcia 6500 C3CT Mag-Elite (x2)
+* Multiplier reel Abu-Garcia 6500 C3CT Mag
+* Multiplier reel Abu-Garcia 5500 C3CT Mag-Elite
+* Multiplier reel Akios S-line 656 CTM (x2)
+
+### Fly fishing reels:
+
+* AFTMA #5/6 reel Abu-Garcia Diplomat
+* AFTMA #7/8 reel Tica
+* AFTMA #4/6 reel Okuma Airframe (+ spare spools (x3)
+* AFTMA #7/9 reel Okuma Airframe (+ spare spools (x3)
+* AFTMA #7/8 reel Shakespeare Sigma (+ spare spool)
 
 ## Rods
 
@@ -38,7 +71,7 @@
 * Shakespeare Ugly-Stick 20 lbs (6ft6")
 * DAM Para Boat 500 (9ft)
 * DAM Hypron 250 (9ft)
-* Abu-Garcia Suveran Uptide (9ft9")
+* Abu-Garcia Suveran Uptider (9ft9")
 
 ### Carp rods:
 
@@ -46,7 +79,7 @@
 * Mitchell Star Carp (12ft)
 * DAM Andy Little Carp Fighter (11ft)
 
-### Fly rods:
+### Fly fishing rods:
 
 * AFTMA #5/6 Abu-Garcia Diplomat (9ft)
 * AFTMA #7/8 Ron Thompson Steelhead Pro (9ft, salt water)
@@ -62,4 +95,6 @@
 * Balzer twin tip 9ft)
 * Albatros (7ft)
 * Cormoran (8ft)
+
+## Gear
 

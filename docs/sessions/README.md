@@ -42,16 +42,16 @@ session | location |
 [19950401](reports/19950401.md) | IJmuiden |
 **2018** | |
 [20180101]() | Velsen-Zuid |
-[20180102]() | Velsen-Noord |
-[20180106]() | Velsen-Noord |
+[20180102]() | Velsen-Noord, Noordpier |
+[20180106]() | Velsen-Noord, Noordpier |
 [20180114]() | Velsen-Zuid |
 [20180209]() | Hornsea (United Kingdom) |
 [20180210]() | Kilnsea (United Kingdom) |
 [20180211]() | Tunstall (United Kingdom) |
-[20180324]() | Velsen-Noord |
-[20180401]() | Velsen-Noord |
+[20180324]() | Velsen-Noord, Noordpier |
+[20180401]() | Velsen-Noord, Noordpier |
 [20180413]() | IJmuiden |
-[20180415]() | Velsen-Noord |
+[20180415]() | Velsen-Noord, Noordpier |
 [20180427]() | IJmuiden |
 [20180502]() | Reculver (United Kingdom) |
 [20180503]() | Herne Bay (United Kingdom) |
@@ -64,19 +64,21 @@ session | location |
 [20190216]() | Withernsea (United Kingdom) |
 [20190217]() | Withernsea (United Kingdom) |
 [20190218]() | Mappleton (United Kingdom) |
-[20190223]() | Velsen-Noord |
+[20190223]() | Velsen-Noord, Noordpier |
 [20190308]() | Hythe (United Kingdom) |
 [20190309]() | Littlestone (United Kingdom) |
-[20190322]() | Velsen-Noord |
-[20190323]() | Velsen-Noord |
-[20190421]() | Velsen-Noord |
+[20190322]() | Velsen-Noord, Noordpier |
+[20190323]() | Velsen-Noord, Noordpier |
+[20190421]() | Velsen-Noord, Noordpier |
 [20190423]() | Bouillon (Belgium) |
 [20190424]() | Virton (Belgium), Vallee de Rabais |
-[20190502]() | IJmuiden |
-[20190510]() | IJmuiden |
-[20190524](reports/20190524.md) | Velsen-Noord |
-[20190529](reports/20190529.md) | Velsen-Noord |
+[20190502]() | IJmuiden, Spuisluizen |
+[20190510]() | IJmuiden, Spuisluizen |
+[20190524](reports/20190524.md) | Velsen-Noord, Averijhaven |
+[20190529](reports/20190529.md) | Velsen-Noord, Averijhaven |
 [20190608](reports/20190608.md) | Herne Bay (United Kingdom) |
 [20190609](reports/20190609.md) | Ramsgate (United Kingdom), MS Lady Ann |
-[20190617](reports/20190617.md) | Velsen-Noord |
+[20190617](reports/20190617.md) | Velsen-Noord, Averijhaven |
+[20190627]() | Velsen-Noord, Averijhaven |
+[20190629]() | Oostvoorne, Oostvoornsemeer |
 

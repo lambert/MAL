@@ -81,4 +81,5 @@ session | location |
 [20190617](reports/20190617.md) | Velsen-Noord, Averijhaven |
 [20190627]() | Velsen-Noord, Averijhaven |
 [20190629]() | Oostvoorne, Oostvoornsemeer |
+[20190705]() | IJmuiden, MS Marion |
 

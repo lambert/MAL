@@ -79,7 +79,7 @@ session | location |
 [20190608](reports/20190608.md) | Herne Bay (United Kingdom) |
 [20190609](reports/20190609.md) | Ramsgate (United Kingdom), MS Lady Ann |
 [20190617](reports/20190617.md) | Velsen-Noord, Averijhaven |
-[20190627]() | Velsen-Noord, Averijhaven |
+[20190627](reports/20190627.md) | Velsen-Noord, Averijhaven |
 [20190629]() | Oostvoorne, Oostvoornsemeer |
 [20190705]() | IJmuiden, MS Marion |
 

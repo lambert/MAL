@@ -88,11 +88,11 @@
 * AFTMA #5/6 Shakespeare Odessey (8ft6")
 * AFTMA #7/8 Shakespeare Sigma Fly (10ft)
 
-### Spinning rods:
+### Spin rods:
 
 * Shakespeare telecopic (6ft)
 * Rozemeijer Cas&Jig (8ft)
-* Balzer twin tip 9ft)
+* Balzer Double Strike twin tip (9ft)
 * Albatros (7ft)
 * Cormoran (8ft)
 

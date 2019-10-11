@@ -14,7 +14,7 @@
 
 ### Surf casting rigs
 
-3-hook flapper rig
+[3-hook Flapper rig](3-hook_flapper_rig.md)
 
 [Up and over rig](Up_and_over_rig.md)
 

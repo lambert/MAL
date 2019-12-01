@@ -1,9 +1,29 @@
 # Angling venues
 
-## Edinburgh
+## Netherlands
 
-## North Yorkshire
+### Groningen
 
-## East Yorkshire
+### Friesland
 
-## Kent
+### Noord Holland
+
+### Zuid Holland
+
+### Zeeland
+
+## United Kingdom
+
+### Edinburgh
+
+### North Yorkshire
+
+### East Yorkshire
+
+### Kent
+
+## Belgium
+
+## France
+
+## Denmark

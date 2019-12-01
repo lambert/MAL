@@ -7,3 +7,5 @@
 [Rigs](rigs/README.md)
 
 [Tackle](tackle/README.md)
+
+[Venues](venues/README.md)

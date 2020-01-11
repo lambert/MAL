@@ -70,3 +70,34 @@ This stops the wings slipping out.
 
 ## Tying the fly
 
+![1](1.jpg)
+
+Run the tying thread down the shank to the bend.
+
+Select two large cock hackles — one brown, the other grizzle.
+
+![2](2.jpg)
+
+Tear a few fibres from each feather and place them all together so that the tips are level.
+
+Catch them in at the bend to form the tail.
+
+![3](3.jpg)
+
+Take a pinch of grey fur — rabbit or muskrat underfur is ideal.
+
+Dub it on to the tying thread to form a thin, slightly tapered rope.
+
+![4](4.jpg)
+
+Starting right at the base of the tail wind the dubbed fur over the shank in close turns.
+
+Ensure that no gaps are formed.
+
+![5](5.jpg)
+
+Carry the body along the shank until three-quarters of its length has been covered.
+
+Select two small, wellmarked grizzle hackles of equal size.
+
+![6](6.jpg)

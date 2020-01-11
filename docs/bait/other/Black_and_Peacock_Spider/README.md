@@ -79,6 +79,6 @@ If you wish you can varnish the body before wrapping the Herl.
 
 Wrap the hackle and tie off.
 
-![6](6.jpg]
+![6](6.jpg)
 
 Form a neat head and whip finish for the completed fly.

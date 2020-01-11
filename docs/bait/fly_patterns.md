@@ -4114,7 +4114,7 @@ location: NYMPH Leaf #4, Row 4, Middle
 
 ------
 
-description: Shad Head Red/White #4/0 Spro
+description: Shad Head Red/White #4/0 [Spro]
 
 category: Pike
 
@@ -4134,7 +4134,7 @@ location: Tupperware
 
 ------
 
-description: Shad Head Orange/Green #4/0 Spro
+description: Shad Head Orange/Green #4/0 [Spro]
 
 category: Pike
 

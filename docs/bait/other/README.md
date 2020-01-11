@@ -24,4 +24,4 @@
 
 ## Northern Spider fly patterns
 
-- The Black ad Peacock spider
+- The Black and Peacock spider

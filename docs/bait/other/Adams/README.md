@@ -38,9 +38,7 @@ It can be used to target individual rising fish or used as a search pattern when
 
 ## How to tie
 
-.
-
-### What you will need.
+What you will need:
 
 - Vice.
 
@@ -68,7 +66,7 @@ When tying in hackle-point wings, always fold the bare stems and bind them down 
 
 This stops the wings slipping out.
 
-## Tying the fly
+### Tying the fly
 
 ![1](1.jpg)
 

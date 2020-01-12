@@ -4,6 +4,8 @@
 
 - [The Adams River fly](Adams/README.md)
 
+- [The Aphid/Green Midge](Aphid_Green_Midge/README.md)
+
 ## Wet fly patterns
 
 ## Classic wet fly patterns

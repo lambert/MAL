@@ -8,6 +8,8 @@
 
 - [The CDC Sedge](CDC_Sedge/README.md)
 
+- [The CDC Sedge Hatcher](CDC_Sedge_Hatcher/README.md)
+
 ## Wet fly patterns
 
 ## Classic wet fly patterns

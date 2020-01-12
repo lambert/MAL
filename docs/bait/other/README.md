@@ -6,6 +6,8 @@
 
 - [The Aphid/Green Midge](Aphid_Green_Midge/README.md)
 
+- [The CDC Sedge](CDC_Sedge/README.md)
+
 ## Wet fly patterns
 
 ## Classic wet fly patterns

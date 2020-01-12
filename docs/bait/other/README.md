@@ -2,6 +2,8 @@
 
 ## Dry fly patterns
 
+- [The Adams River fly](Adams/README.md)
+
 ## Wet fly patterns
 
 ## Classic wet fly patterns

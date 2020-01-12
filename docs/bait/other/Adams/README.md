@@ -101,3 +101,44 @@ Carry the body along the shank until three-quarters of its length has been cover
 Select two small, wellmarked grizzle hackles of equal size.
 
 ![6](6.jpg)
+
+Strip the fibres from the stems of both hackles to leave two short points.
+
+Both should be slightly longer than the hook shank.
+
+![7](7.jpg)
+
+Place the tips together, shiny sides in.
+
+This procedure means that the tips curve away from one another.
+
+Catch them in at the front of the body.
+
+![8](8.jpg)
+
+Secure the tips with tight thread turns.
+
+Pull them upright then draw the bare stems between the tips.
+
+This helps divide them and fixes them securely in place.
+
+![9](9.jpg)
+
+Remove the waste ends of the hackle stems then select a brown and a grizzle cock hackle.
+
+These should have exactly the same fibre length.
+
+![10](10.jpg)
+
+Remove the soft, waste fibres from the base of both hackles before catching them in together behind the wing.
+
+![11](11.jpg)
+
+Take hold of both hackles with hackle pliers and wind on three turns behind the wing then two or three in front.
+
+![12](12.jpg)
+
+Secure the hackle tips at the eye with tying thread then remove the excess.
+
+Build a small, neat head and cast off the thread with a whip finish.
+

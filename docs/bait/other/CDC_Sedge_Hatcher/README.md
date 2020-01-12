@@ -51,7 +51,7 @@ What you will need:
 
 ### Tying the fly
 
-![1}(1.jpg)
+![1](1.jpg)
 
 Start with a hook.
 

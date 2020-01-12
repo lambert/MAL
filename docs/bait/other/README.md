@@ -28,4 +28,4 @@
 
 ## Northern Spider fly patterns
 
-- [The Black and Peacock spider](Black_and_Peacock_Spider/README.md)
+- [The Black and Peacock Spider](Black_and_Peacock_Spider/README.md)

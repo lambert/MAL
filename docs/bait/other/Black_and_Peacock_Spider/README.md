@@ -1,6 +1,6 @@
-# The Black and Peacock Spider Fly.
+# The Black and Peacock Spider
 
-## Introduction.
+## Introduction
 
 ![main](main.jpg)
 
@@ -8,19 +8,19 @@ This is the Black and Peacock Spider.
 
 A deadly fly at times and easy to tie.
 
-## Where to fish.
+## Where to fish
 
 .
 
-## When to fish.
+## When to fish
 
 .
 
-## How to fish.
+## How to fish
 
 .
 
-## How to tie.
+## How to tie
 
 What you will need.\:
 
@@ -44,11 +44,11 @@ What you will need.\:
 
 - Cement: .
 
-### Tying tip.
+### Tying tip
 
 .
 
-### Tying the fly.
+### Tying the fly
 
 ![1](1.jpg)
 

@@ -24,8 +24,6 @@ Cast it so that it drops off a leaf onto the water !
 
 ## How to tie.
 
-.
-
 What you will need:
 
 - Vice.

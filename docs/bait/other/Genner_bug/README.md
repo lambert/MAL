@@ -6,7 +6,7 @@ Source: Global Fly Fisher.
 
 ## Introduction
 
-![main]()
+![main](main.jpg)
 
 The name of this fly comes from the name of its birthplace, Genner Bugt or Genner Bay, in the southern part of Denmark.
 

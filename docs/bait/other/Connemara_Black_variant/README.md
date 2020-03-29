@@ -31,7 +31,7 @@ Source: Phil (http://www.riverdaleflyfishing.co.uk).
 
 - Whip finish tool.
 
-- Hook: FM competition black nickel size 12.
+- Hook: FM competition black nickel # 12.
 
 - Thread: Black.
 

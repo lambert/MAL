@@ -1,4 +1,4 @@
-# The ... Fly
+# The Devaux Sedge (variant) Fly
 
 Originator: murtol.
 
@@ -113,5 +113,3 @@ Wind the hackle to the eye and tie off.
 ![13](13.jpg)
 
 Trim the waste, whip finish and varnish.
-
-Whip finish.

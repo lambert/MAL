@@ -1,4 +1,4 @@
-# The Genner-bug Fly
+# The Genner Bug Fly
 
 Originator: Martin Joergensen.
 

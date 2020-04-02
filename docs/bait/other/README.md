@@ -28,6 +28,8 @@
 
 ## Baltic fly patterns
 
+- [The Genner Bug](Genner_bug/README.md)
+
 ## Cold saltwater fly patterns
 
 ## Northern Spider fly patterns

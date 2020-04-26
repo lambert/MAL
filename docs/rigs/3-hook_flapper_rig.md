@@ -2,7 +2,7 @@
 
 ## Rig body
 
-  * cut off 90 .. 150 cm 70 lbs or 0.70 mm monofilament (length of rig body depending on snood length)
+  * cut off 90 .. 150 cm 0.70 mm monofilament (length of rig body depending on snood length)
 
   * attach a Rolling swivel on one end and slide on the following:
 
@@ -40,7 +40,7 @@
 
 ## Snoods
 
-  * attach 15 lbs transparent monofilament to the rolling swivel, cut length as required
+  * attach 0.30 ... 0.35 mm transparent monofilament to the rolling swivel, cut length as required
   
   * add beads, bling, sequins or bait stopper as required
 

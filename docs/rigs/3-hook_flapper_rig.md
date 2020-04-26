@@ -31,10 +31,18 @@
   * 0.70 mm crimp
 
   * attach Rolling swivel with lock to the other end
+  
+  * position top roling swivel for snood, beads and crimps approximately 10 cm from top rolling swivel and apply pressure to crimp as required to lock in place
+  
+  * divide remaining rig body by three for positioning middle and lower swivel for snoods, and apply pressure to crimps to lock in place
+  
+  * attach snoods (see below)
 
 ## Snoods
 
   * attach 15 lbs transparent monofilament to the rolling swivel, cut length as required
+  
+  * add beads, bling, sequins or bait stopper as required
 
   * attach an Aberdeen size 8 ... 4 hook to the snood end
   

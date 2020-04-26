@@ -10,6 +10,13 @@
 
 ## Reels
 
+### Boat reels:
+
+* Abu-Garcia 7000i
+* Penn 210LH GTi
+* Penn 310 GTi
+* Penn Warfare 15
+
 ### Fixed spool reels:
 
 * Shakespeare Whisker Titan (x2, + spare spool x1)
@@ -18,6 +25,7 @@
 * Daiwa Crossfire (+ spare spool)
 * Daiwa Emblem Pro 5000 (x2, + spare spool x2)
 * Penn Affinity 8000 (+ spare spool)
+* Penn Affinity II 8000
 * Penn Battle II 4000
 * Penn Affinity II 8000 Long Cast
 

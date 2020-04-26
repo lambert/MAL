@@ -2,7 +2,7 @@
 
 ## Rig body
 
-  * cut off 90 .. 150 cm 0.70 mm monofilament (length of rig body depending on snood length)
+  * cut off 90 .. 150 cm of 0.70 mm monofilament (length of rig body depending on snood length)
 
   * attach a Rolling swivel on one end and slide on the following:
 
@@ -32,7 +32,7 @@
 
   * attach Rolling swivel with lock to the other end
   
-  * position top roling swivel for snood, beads and crimps approximately 10 cm from top rolling swivel and apply pressure to crimp as required to lock in place (do pinch the crimp in the middle of the crimp as to prevent nicking the monofilament with edges of the crimp, and thus weakening the strength of the snood)
+  * position top roling swivel for snood, beads and crimps approximately 10 cm from top rolling swivel and apply pressure to crimp as required to lock in place (do pinch the crimp with a crimping tool as to prevent nicking the monofilament with edges of the crimp, and thus weakening the strength of the snood)
   
   * divide remaining rig body by three for positioning middle and lower swivel for snoods, and apply pressure to crimps to lock in place
   

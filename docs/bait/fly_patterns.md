@@ -64,26 +64,6 @@ location: NYMPH Leaf #3, Row 1, Left
 
 ------
 
-description: Baetis CDC Sedge Hatcher (variant) #12 [BT]
-
-originator: Sigve Monsen
-
-category: Dry
-
-hook: Grey Matzo Shrimp BL #12
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel sm
-
-body: Nature Spirit Cul De Canard 9. Baetis
-
-mfg: Bert Timmerman
-
-location: DRY Leaf #1, Row 6, Left
-
-------
-
 description: Beaded Buzzer Lilac Rocailles #10 [BT]
 
 category: Nymph
@@ -1028,26 +1008,6 @@ location: NYMPH Leaf #1, Row 4, Left
 
 ------
 
-description: Caddis Green CDC Sedge Hatcher (variant) #12 [BT]
-
-originator: Sigve Monsen
-
-category: Dry
-
-hook: Grey Matzo Shrimp BL #12
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel sm
-
-body: Nature Spirit Cul De Canard 20. Caddis Green
-
-mfg: Bert Timmerman
-
-location: DRY Leaf #1, Row 5, Left
-
-------
-
 description: Camel Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph
@@ -1373,6 +1333,138 @@ wing: Natural CDC Puff
 mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 3, Right
+
+------
+
+description: CDC Sedge Hatcher (Baetis variant) #12 [BT]
+
+originator: Sigve Monsen
+
+category: Dry
+
+hook: Grey Matzo Shrimp BL #12
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel sm
+
+body: Nature Spirit Cul De Canard 9. Baetis (wrapped)
+
+wing: Nature Spirit Cul De Canard 9. Baetis
+
+mfg: Bert Timmerman
+
+location: DRY Leaf #1, Row 6, Left
+
+------
+
+description: CDC Sedge Hatcher (Baetis variant) #14 [BT]
+
+originator: Sigve Monsen
+
+category: Dry
+
+hook: Grey Matzo Shrimp BL #14
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel sm
+
+body: Nature Spirit Cul De Canard 9. Baetis (wrapped)
+
+wing: Nature Spirit Cul De Canard 9. Baetis
+
+mfg: Bert Timmerman
+
+location: DRY Leaf #1, Row 6, Center
+
+------
+
+description: CDC Sedge Hatcher (Baetis variant) #16 [BT]
+
+originator: Sigve Monsen
+
+category: Dry
+
+hook: Grey Matzo Shrimp BL #16
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel sm
+
+body: Nature Spirit Cul De Canard 9. Baetis (wrapped)
+
+wing: Nature Spirit Cul De Canard 9. Baetis
+
+mfg: Bert Timmerman
+
+location: DRY Leaf #1, Row 6, Right
+
+------
+
+description: CDC Sedge Hatcher (Caddis Green variant) #12 [BT]
+
+originator: Sigve Monsen
+
+category: Dry
+
+hook: Grey Matzo Shrimp BL #12
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel sm
+
+body: Nature Spirit Cul De Canard 20. Caddis Green (wrapped)
+
+wing: Nature Spirit Cul De Canard 20. Caddis Green
+
+mfg: Bert Timmerman
+
+location: DRY Leaf #1, Row 5, Left
+
+------
+
+description: CDC Sedge Hatcher (Caddis Green variant) #14 [BT]
+
+originator: Sigve Monsen
+
+category: Dry
+
+hook: Grey Matzo Shrimp BL #14
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel sm
+
+body: Nature Spirit Cul De Canard 20. Caddis Green (wrapped)
+
+wing: Nature Spirit Cul De Canard 20. Caddis Green
+
+mfg: Bert Timmerman
+
+location: DRY Leaf #1, Row 5, Center
+
+------
+
+description: CDC Sedge Hatcher (Caddis Green variant) #16 [BT]
+
+originator: Sigve Monsen
+
+category: Dry
+
+hook: Grey Matzo Shrimp BL #16
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel sm
+
+body: Nature Spirit Cul De Canard 20. Caddis Green (wrapped)
+
+wing: Nature Spirit Cul De Canard 20. Caddis Green
+
+mfg: Bert Timmerman
+
+location: DRY Leaf #1, Row 5, Right
 
 ------
 

@@ -6,4 +6,4 @@
 
 ### Fly patterns
 
-- [My Fly Patterns](fly_patterns.md)
+- [Flies, Damned Flies and Statistics](fly_patterns.md)

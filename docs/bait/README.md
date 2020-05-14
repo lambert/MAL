@@ -8,4 +8,4 @@
 
 - [Flies, Damned Flies and Statistics](other/README.md)
 
-- [Recipes](flypatterns.md)
+- [Recipes](fly_patterns.md)

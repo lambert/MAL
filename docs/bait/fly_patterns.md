@@ -2,7 +2,7 @@
 
 Below is a list of fly pattern recipes in alphabetical order.
 
-<hr>
+---
 
 description: Aqua tag #14 [BT]
 
@@ -22,7 +22,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 1, Left
 
-<hr>
+---
 
 description: Aqua tag (Gold Bead weighted) #12 [BT]
 
@@ -42,7 +42,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row, Right
 
-------
+---
 
 description: Aqua tag (Gold Bead) #14 [BT]
 
@@ -62,7 +62,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 1, Left
 
-------
+---
 
 description: Beaded Buzzer Lilac Rocailles #10 [BT]
 
@@ -78,7 +78,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Beaded Buzzer Lilac Rocailles #12 [BT]
 
@@ -94,7 +94,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Beaded Buzzer Lilac Rocailles (Tungsten Bead) #12 [BT]
 
@@ -112,7 +112,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Beaded Buzzer Red Frosted Rocailles #10 [BT]
 
@@ -128,7 +128,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Beaded Buzzer Red Frosted Rocailles #12 [BT]
 
@@ -144,7 +144,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Beaded Buzzer Red Frosted Rocailles (Tungsten Bead) #10 [BT]
 
@@ -162,7 +162,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Beaded Buzzer Red Frosted Rocailles (Tungsten Bead) #12 [BT]
 
@@ -180,7 +180,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 description: Bibio #8 [BT]
 
@@ -202,7 +202,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #2, Row 1, Left
 
-------
+---
 
 description: Bibio #10 [BT]
 
@@ -224,7 +224,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #2, Row 1, Middle
 
-------
+---
 
 description: Bibio #12 [BT]
 

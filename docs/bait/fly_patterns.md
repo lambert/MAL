@@ -2,27 +2,19 @@
 
 Below is a list of fly pattern recipes in alphabetical order.
 
-------
+---
 
 description: Aqua tag #14 [BT]
-
 originator: unknown
-
 category: Nymph
-
 hook: Grey Matzo Dry fly BL #14
-
 thread: UNI-Thread Black 6/0
-
 tail: Aqua wool
-
 body: Peacock herl
-
 mfg: Bert Timmerman
-
 location: NYMPH Leaf #2, Row 1, Left
 
-------
+---
 
 description: Aqua tag (Gold Bead weighted) #12 [BT]
 

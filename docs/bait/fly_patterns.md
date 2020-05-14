@@ -2,7 +2,7 @@
 
 Below is a list of fly pattern recipes in alphabetical order.
 
----
+<hr>
 
 description: Aqua tag #14 [BT]
 
@@ -22,8 +22,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 1, Left
 
-
----
+<hr>
 
 description: Aqua tag (Gold Bead weighted) #12 [BT]
 

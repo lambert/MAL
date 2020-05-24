@@ -64,6 +64,26 @@ location: NYMPH Leaf #3, Row 1, Left
 
 ---
 
+description: Bead-Head Nymph (Olive or Heptageneid) #12-#20
+
+category: Nymph
+
+hook: size #12
+
+bead: Black Tungsten 1.5 to 4 mm
+
+thread: Tan 8/0
+
+tail: Natural Mallard CdC fibres, Cock Pheasant tail, Grizzle Cock or Coq de Leon fibres
+
+body: Cock Pheasant tail or dubbed Hare's Ear with copper wire or yellow dyed stripped Peacock qull coated with UV-resin or Superglue
+
+thorax: Dubbed dark Hare's Ear
+
+location: tying list
+
+---
+
 description: Beaded Buzzer Lilac Rocailles #10 [BT]
 
 category: Nymph

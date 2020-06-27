@@ -4292,6 +4292,32 @@ location: WET
 
 ------
 
+description: Small Olive CDC Jig Head Nymph
+
+originator: Davie McPhail
+
+category: Nymph
+
+hook: Fulling Mill Jig Force size 16 or Hanak H450 BL
+
+bead: 2.5 mm gold tungsten bead
+
+thread: Uni-8/0 Olive
+
+legs: Natural Grey CDC Feather dyed Yellow
+
+tail: Whiting Coq de Leon Fibres
+
+rib: 1/0 Uni-Neon Thread Chartreuse
+
+body: Natural Grey CDC Feather dyed Yellow
+
+thorax: Diamond-Brite Hare's Ear Dubbing or Similar.
+
+location: tbd
+
+------
+
 description: Stinchar Stoat #4 [BT]
 
 category: Salmon

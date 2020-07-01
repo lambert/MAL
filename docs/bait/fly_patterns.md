@@ -388,6 +388,34 @@ location: Pool12
 
 ------
 
+description: Black Adult Midge (Duck Fly)
+
+category: Dry
+
+originator: Davy McPhail
+
+hook: Fulling Mill Czech Nymph size 14
+
+thread: Uni-8/0 White
+
+rib: Small Silver Wire
+
+tag: White Thread
+
+body: Dyed Black Pheasant Tail Fibres
+
+thorax_cover: UTC Large Opal Mirage Tinsel
+
+thorax: Gol-Brite No.4 Flu Red Floss and Black Seals Fur or Sub mixed with a little Rainbow Lite-Brite or Similar
+
+wing: Indian Grizzle or Cree dyed Grey
+
+hackle: Dyed Black Hen.
+
+location: tying list
+
+------
+
 description: Black and Grey Streamer #4 [HP]
 
 category: Salmon

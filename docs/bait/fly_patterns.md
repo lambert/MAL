@@ -390,7 +390,7 @@ location: Pool12
 
 description: Black Adult Midge (Duck Fly)
 
-category: Dry
+category: Wet
 
 originator: Davy McPhail
 

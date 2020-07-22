@@ -6,6 +6,6 @@
 
 ### Fly patterns
 
-- [Flies, Damned Flies and Statistics](other/README.md)
+- [Flies, Damned Flies and Statistics](flies/README.md)
 
-- [Recipes](fly_patterns.md)
+- [Recipes](flies/fly_patterns.md)

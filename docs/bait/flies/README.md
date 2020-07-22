@@ -12,6 +12,8 @@
 
 ## Wet fly patterns
 
+- [The Connemara Black variant](Connemara_Black_variant/README.md)
+
 ## Classic wet fly patterns
 
 ## Nymph fly patterns

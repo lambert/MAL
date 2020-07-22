@@ -3080,6 +3080,34 @@ location: Nymph Leaf #4, Row 6, Right
 
 ------
 
+description: Olive Adult Midge
+
+originator: Davy McPhail
+
+category: Wet
+
+hooh: TMC 2487 #14
+
+thread: Uni 8/0 Chartreuse
+
+rib: Fine Silver Wire
+
+tag: Chartreuse Uni 8/0 thread
+
+body: Olive Bleached and Dyed Pheasant Tail from Veniards
+
+thorax_cover: Large Opal Mirage Tinsel
+
+thorax: No.6 Orange Glo-Brite Floss or Similar and Olive Rabbit and Lite-Brite Mixed
+
+wing_tips: White or Grey Cock Hackle Points
+
+hackle: Whiting Light Dun Hen
+
+location: tying list
+
+------
+
 description: Olive CDC Sedge #16 [HP]
 
 category: Dry

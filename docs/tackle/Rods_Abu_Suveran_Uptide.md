@@ -63,7 +63,7 @@ Key Features:
 
 - Number of sections: 2
 
-- Length Closed: 205 cm
+- Travel Length: 205 cm
 
 - Rod Weight: 514 gram
 

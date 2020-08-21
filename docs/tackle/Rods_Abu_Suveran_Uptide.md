@@ -1,5 +1,7 @@
 # Abu Garcia Suveran Uptide Rod
 
+![fig_1](Rods_Abu_Suveran_Uptide.jpg)
+
 Anglers around the world have trusted Abu Garcia to put their equipment through the toughest tests for
 generations; as a result, their designs are incredibly reliable and durable.
 Their innovative products are crafted and designed specifically for anglers like yourself, so you can

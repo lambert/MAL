@@ -51,7 +51,7 @@ because the sea isn’t co-operating, because your rod is on your side.
 
 Key Features:
 
-- Length: 9.9FT / 297cm
+- Length: 9.9 ft. / 297 cm
 
 - Multi-dynamic IM6 Carbon blank
 
@@ -63,8 +63,8 @@ Key Features:
 
 - Number of sections: 2
 
-- Length Closed: 205cm
+- Length Closed: 205 cm
 
-- Rod Weight: 514g
+- Rod Weight: 514 gram
 
 - Casting Weight: 5 - 10 oz.

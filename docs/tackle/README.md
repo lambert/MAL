@@ -79,7 +79,7 @@
 * Shakespeare Ugly-Stick 20 lbs (6ft6")
 * DAM Para Boat 500 (9ft)
 * DAM Hypron 250 (9ft)
-* Abu-Garcia Suveran Uptider (9ft9")
+* [Abu-Garcia Suveran Uptider (9ft9")](Rods_Abu_Suveran_Uptide.md)
 
 ### Carp rods:
 

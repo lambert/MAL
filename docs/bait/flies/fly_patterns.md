@@ -1870,6 +1870,30 @@ location: NYMPH Leaf #4, Row 2, Right
 
 ------
 
+description: Flash Jujubee #18
+
+originator: Charlie Craven
+
+category: Nymph
+
+hook: TMC 2488 #18
+
+thread: TMC 16/0 White (under body)
+
+abdomen: Superhair (choice of color, two strand of primary color, one strand of contrasting rib color)
+
+thread: TMC 16/0 Black (thorax thread)
+
+thorax: Flash Opal Mirage Tinsel
+
+wing: White Flouro-Fiber (3x left, 3x right)
+
+mfg: Bert Timmerman
+
+location: tying list
+
+------
+
 description: Floating Green Geany #4/0 Scierra
 
 category: Pike

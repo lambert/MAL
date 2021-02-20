@@ -3552,6 +3552,30 @@ location: DRY Leaf #4, Row 1, Right
 
 ------
 
+description: Poison Tung #16
+
+originator: Charlie Craven
+
+category: Nymph
+
+Hook: TMC 2487 or 2488 #16
+
+Bead: 2mm Silver Tungsten Bead
+
+Thread: Uni-thread, Gray
+
+Rib: Blue Lagartun or UTC Wire, Fine/SM
+
+Body: Tying Thread
+
+Head: Ice Dub, Uv Gray Or Lavender
+
+mfg: Bert Timmerman
+
+location: tying list
+
+------
+
 description: Purple and Fluo Yellow Dog Nobbler (weighted) #6 [BT]
 
 category: Streamer

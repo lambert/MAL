@@ -4656,6 +4656,62 @@ location: WET Leaf #3, Row 5, Left
 
 ------
 
+description: Teifi-Towy Sea Trout
+
+category: Wet
+
+originator: Steffan Jones
+
+hook: TMC long shank #6-8
+
+thread: Hot Orange
+
+tail: Red hackle fibers
+
+body: Silver holographic Braid
+
+hackle: Royal Blue Schlappen
+
+hackle: Teal
+
+wing: Peacock Eye
+
+head: Hot Orange
+
+mfg: Bert Timmerman
+
+location: tying list
+
+------
+
+description: Teifi-Towy Sea Trout late season
+
+category: Wet
+
+originator: Steffan Jones
+
+hook: TMC long shank #6-8
+
+thread: Black
+
+tail: Red hackle fibers
+
+body: Silver holographic Braid
+
+hackle: Purple Schlappen
+
+hackle: Teal
+
+wing: Peacock Eye
+
+head: Black
+
+mfg: Bert Timmerman
+
+location: tying list
+
+------
+
 description: Thunder Stoat #4 [BT]
 
 category: Salmon

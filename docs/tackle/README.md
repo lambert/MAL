@@ -58,7 +58,7 @@
 * Century Carbon Metal Mk1 (13ft, x2)
 * Zziplex Profile EVO Mk2 (13ft8")
 * Zziplex Evolution CT (13ft)
-* [Tronixpro Naga MX (14ft)](Rods_Tronixpro_Naga_MX.md)
+* [Tronixpro Naga MX (14ft)](rods/Rods_Tronixpro_Naga_MX.md)
 
 #### Continental style rods:
 
@@ -70,7 +70,7 @@
 
 #### Travel rods:
 
-* [Tronixpro Xenon Travel (12ft6")](Rods_Tronixpro_Xenon_Travel.md)
+* [Tronixpro Xenon Travel (12ft6")](rods/Rods_Tronixpro_Xenon_Travel.md)
 
 ### Boat rods:
 
@@ -79,7 +79,7 @@
 * Shakespeare Ugly-Stick 20 lbs (6ft6")
 * DAM Para Boat 500 (9ft)
 * DAM Hypron 250 (9ft)
-* [Abu-Garcia Suveran Uptider (9ft9")](Rods_Abu_Suveran_Uptide.md)
+* [Abu-Garcia Suveran Uptider (9ft9")](rods/Rods_Abu_Suveran_Uptide.md)
 
 ### Carp rods:
 

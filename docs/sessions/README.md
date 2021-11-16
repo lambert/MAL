@@ -32,3 +32,4 @@ By year:
 [2019](reports/year/2019.md)
 
 [2020](reports/year/2020.md)
+[2021](reports/year/2021.md)

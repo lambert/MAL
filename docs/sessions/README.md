@@ -1,6 +1,4 @@
-# Index of session reports
-
-By year:
+# Index of session reports by year
 
 [1994](reports/year/1994.md)
 [1995](reports/year/1995.md)

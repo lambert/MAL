@@ -5554,7 +5554,47 @@ thorax: Uni-Thread Black 8/0
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #4, Row 3, Right
+location: BUZZER Leaf #4, Row 6, Left
+
+------
+
+description: Yellow Thread Larva #14 [BT]
+
+category: Buzzer
+
+hook: Grey Matzo Shrimp BL #14
+
+thread: UNI-Thread Yellow 8/0
+
+rib: twisted UNI-Thread Black 8/0
+
+body: Uni-Thread Yellow 8/0
+
+thorax: Uni-Thread Black 8/0
+
+mfg: Bert Timmerman
+
+location: BUZZER Leaf #4, Row 6, Middle
+
+------
+
+description: Yellow Thread Larva #16 [BT]
+
+category: Buzzer
+
+hook: Grey Matzo Shrimp BL #16
+
+thread: UNI-Thread Yellow 8/0
+
+rib: twisted UNI-Thread Black 8/0
+
+body: Uni-Thread Yellow 8/0
+
+thorax: Uni-Thread Black 8/0
+
+mfg: Bert Timmerman
+
+location: BUZZER Leaf #4, Row 6, Right
 
 ------
 

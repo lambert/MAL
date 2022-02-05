@@ -20,7 +20,19 @@
 
 ## North American fly patterns
 
+- [The Montana Bucktail](Montana_Bucktail/README.md)
+
+- [The October Caddis](October_Caddis/README.md)
+
+- [The X-Caddis](X_Caddis/README.md)
+
+- [The White Moth](White_Moth_plain/README.md)
+
 ## Salmon fly patterns
+
+## Stealhead fly patterns
+
+- [The Twist of Lemon](Twist_of_Lemon/README.md)
 
 ## Seatrout fly patterns
 

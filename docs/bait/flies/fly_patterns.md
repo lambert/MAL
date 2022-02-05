@@ -1770,6 +1770,30 @@ location: Albatros vliegendoos
 
 ------
 
+description: Efterårsfluen (Autumn Fly)
+
+category: Baltic
+
+originator:Henrik Brangstrup
+
+hook: Partridge CS54 #2-8
+
+thread: Red 8/0
+
+tail: Red golden pheasant fibers and a bit of flash
+
+rib: Oval silver tinsel, medium fine
+
+body: Hare's wool (originally cat or muskrat)
+
+body hackle: Grizzly
+
+front hackle: Red golden pheasant breast feather
+
+location: tying list
+
+------
+
 description: EP Kutling #6 [UF]
 
 category: Streamer
@@ -2718,6 +2742,66 @@ location: DRY Leaf #4, Row 2, Middle
 
 ------
 
+description: HVK Klinkhamer BWO
+
+originator: Hans Van Klinken
+
+hook: Daiichi 1167 #8 - #10
+
+thread: Semperfli Nano Silk 50D
+
+post: Semperfli Cream Polyyarn
+
+body: Fly Rite #10 BWO Dubbing
+
+rib: Semperfli Spyder Thread Yellow
+
+thorax: Semperfli Straggle String SF0050 Black
+
+mfg: The Essential Fly
+
+------
+
+description: HVK Klinkhamer Dark Olive
+
+originator: Hans Van Klinken
+
+hook: Daiichi 1167 #8 - #14
+
+thread: Semperfli Nano Silk 50D
+
+post: Semperfli Cream Polyyarn
+
+body: Fly Rite #26 Adams Grey Dubbing
+
+rib: Semperfli Spyder Thread Yellow
+
+thorax: Semperfli Straggle String SF0050 Black
+
+mfg: The Essential Fly
+
+------
+
+description: HVK Klinkhamer March Brown
+
+originator: Hans Van Klinken
+
+hook: Daiichi 1167 #8 - #14
+
+thread: Semperfli Nano Silk 50D
+
+post: Semperfli Cream Polyyarn
+
+body: Fly Rite #30 March Brown Dubbing
+
+rib: Semperfli Spyder Thread Yellow
+
+thorax: Semperfli Straggle String SF0050 Black
+
+mfg: The Essential Fly
+
+------
+
 description: Herring Hairwing #12 [BT]
 
 hook: Grey Matzo Nymph BL #12
@@ -3104,13 +3188,63 @@ location: Nymph Leaf #4, Row 6, Right
 
 ------
 
+description: Montana Bucktail
+
+originator: unknown
+
+category: Dry
+
+hook: #6 - 10 dry fly
+
+thread: Uni 8/0 Red or Orange
+
+tail: Golden Pheasant tippets
+
+rib: Small wire 
+
+body: Orange floss
+
+hackle: Grizzly, palmered
+
+wing: Deer hair
+
+location: tying list
+
+------
+
+description: October Caddis
+
+originator: unknown
+
+category: Dry
+
+hook: #8 - 12 Dry Fly (straight or curved)
+
+thread: Orange or Rusty brown
+
+body: Rusty orange rabit
+
+underwing: natural or Tan Z-lon
+
+wing: Elk hair (or deer hair)
+
+hackle: Brown dry fly
+
+head: tying thread.
+
+cement: .
+
+location: tying list
+
+------
+
 description: Olive Adult Midge
 
 originator: Davy McPhail
 
 category: Wet
 
-hooh: TMC 2487 #14
+hook: TMC 2487 #14
 
 thread: Uni 8/0 Chartreuse
 
@@ -4820,6 +4954,30 @@ location: BUZZER
 
 ------
 
+description Twist of Lemon
+
+category: Steelhead
+
+hook: 6-2 Bartleet salmon fly hook
+
+thread: Yellow/white and Black
+
+tag: Narrow flat silver tinsel
+
+body: Oval silver tinsel and yellow floss twisted
+
+thorax: Red flash dubbing
+
+hackle: Yellow hen hackle
+
+head: Black
+
+cement: .
+
+location: tying list
+
+------
+
 description: Undertaker (variant) #6 [BT]
 
 category: Salmon
@@ -4865,6 +5023,32 @@ category: Streamer
 mfg: Bert Timmerman
 
 location: tbd
+
+------
+
+description: White Moth
+
+category: Dry Fly
+
+hook: #12 - 18 dry fly
+
+thread: White
+
+tail: White hackle fibres
+
+rib: Copper wire, small
+
+body: Mink underfur (substitue rabit or synthetic)
+
+wing: White hackle tips
+
+hackle: White dry fly
+
+head: tying thread.
+
+cement: .
+
+location: tying list
 
 ------
 
@@ -5114,6 +5298,30 @@ mfg: Bert Timmerman
 
 ------
 
+description: X-Caddis
+
+originator: Craig Matthew and John Juracek
+
+category: dry fly
+
+hook: #12 - 18 dry fly
+
+thread: Olive, or to match body
+
+shuck: Z-lon or Antron synthetic fibres
+
+body: fur or synthetic dubbing (olive, tan or dun)
+
+wing: Yearling elk or deer hair
+
+head: tying thread.
+
+cement: ...
+
+location: tying list
+
+------
+
 description: Yellow Body Quill buzzer (Tungsten Bead) #12 [BT]
 
 category: Nymph
@@ -5327,6 +5535,26 @@ seller: Van Tol
 barcode: 5_706301_617545
 
 location: Tupperware
+
+------
+
+description: Yellow Thread Larva #12 [BT]
+
+category: Buzzer
+
+hook: Grey Matzo Shrimp BL #12
+
+thread: UNI-Thread Yellow 8/0
+
+rib: twisted UNI-Thread Black 8/0
+
+body: Uni-Thread Yellow 8/0
+
+thorax: Uni-Thread Black 8/0
+
+mfg: Bert Timmerman
+
+location: NYMPH Leaf #4, Row 3, Right
 
 ------
 

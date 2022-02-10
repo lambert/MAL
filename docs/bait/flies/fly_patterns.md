@@ -4202,6 +4202,26 @@ location: NYMPH Leaf #4, Row 2, Left
 
 ------
 
+description: Red Tag Once and Away #18
+
+originator: Hans van Klinken
+
+category: Emerger
+
+hook: Partridge Klinkhamer GRS 15ST #18
+
+thread: Semplerfli Nanosilk, black
+
+body: UNI 8/0 tying thread, red
+
+thorax: A couple of peacock herl
+
+wing: 3-4 small, natural or brown CDC feathers
+
+location: tying list
+
+------
+
 description: Red Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph

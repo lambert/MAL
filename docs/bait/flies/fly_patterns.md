@@ -4846,6 +4846,66 @@ location: tying list
 
 ------
 
+description: Thread Larvae Yellow #12 [BT]
+
+category: Buzzer
+
+hook: Grey Matzo Shrimp BL #12
+
+thread: UNI-Thread Yellow 8/0
+
+rib: twisted UNI-Thread Black 8/0
+
+body: Uni-Thread Yellow 8/0
+
+thorax: Uni-Thread Black 8/0
+
+mfg: Bert Timmerman
+
+location: BUZZER Leaf #4, Row 6, Left
+
+------
+
+description: Thread Larvae Yellow #14 [BT]
+
+category: Buzzer
+
+hook: Grey Matzo Shrimp BL #14
+
+thread: UNI-Thread Yellow 8/0
+
+rib: twisted UNI-Thread Black 8/0
+
+body: Uni-Thread Yellow 8/0
+
+thorax: Uni-Thread Black 8/0
+
+mfg: Bert Timmerman
+
+location: BUZZER Leaf #4, Row 6, Middle
+
+------
+
+description: Thread Larvae Yellow #16 [BT]
+
+category: Buzzer
+
+hook: Grey Matzo Shrimp BL #16
+
+thread: UNI-Thread Yellow 8/0
+
+rib: twisted UNI-Thread Black 8/0
+
+body: Uni-Thread Yellow 8/0
+
+thorax: Uni-Thread Black 8/0
+
+mfg: Bert Timmerman
+
+location: BUZZER Leaf #4, Row 6, Right
+
+------
+
 description: Thunder Stoat #4 [BT]
 
 category: Salmon
@@ -5535,66 +5595,6 @@ seller: Van Tol
 barcode: 5_706301_617545
 
 location: Tupperware
-
-------
-
-description: Yellow Thread Larva #12 [BT]
-
-category: Buzzer
-
-hook: Grey Matzo Shrimp BL #12
-
-thread: UNI-Thread Yellow 8/0
-
-rib: twisted UNI-Thread Black 8/0
-
-body: Uni-Thread Yellow 8/0
-
-thorax: Uni-Thread Black 8/0
-
-mfg: Bert Timmerman
-
-location: BUZZER Leaf #4, Row 6, Left
-
-------
-
-description: Yellow Thread Larva #14 [BT]
-
-category: Buzzer
-
-hook: Grey Matzo Shrimp BL #14
-
-thread: UNI-Thread Yellow 8/0
-
-rib: twisted UNI-Thread Black 8/0
-
-body: Uni-Thread Yellow 8/0
-
-thorax: Uni-Thread Black 8/0
-
-mfg: Bert Timmerman
-
-location: BUZZER Leaf #4, Row 6, Middle
-
-------
-
-description: Yellow Thread Larva #16 [BT]
-
-category: Buzzer
-
-hook: Grey Matzo Shrimp BL #16
-
-thread: UNI-Thread Yellow 8/0
-
-rib: twisted UNI-Thread Black 8/0
-
-body: Uni-Thread Yellow 8/0
-
-thorax: Uni-Thread Black 8/0
-
-mfg: Bert Timmerman
-
-location: BUZZER Leaf #4, Row 6, Right
 
 ------
 

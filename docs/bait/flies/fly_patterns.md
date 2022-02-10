@@ -4222,6 +4222,26 @@ location: tying list
 
 ------
 
+description: Red Tag Spider #10
+
+originator: Martin Joergensen (sort of)
+
+category: Wet Fly
+
+hook: Wet fly down eye size 10-14
+
+thread: Semplerfli Nanosilk, black
+
+body: UNI 8/0 tying thread, red
+
+thorax: A couple of peacock herl
+
+hackle: Light brown hen hackle
+
+location: tying list
+
+------
+
 description: Red Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph

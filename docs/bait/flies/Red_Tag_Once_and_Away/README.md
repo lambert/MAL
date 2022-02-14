@@ -31,7 +31,7 @@ Source: https://globalflyfisher.com/patterns/red-tag-odyssey#node-68443.
 
 - Whip finish tool.
 
-- Hook: artridge Klinkhamer GRS 15ST #18.
+- Hook: Partridge Klinkhamer GRS 15ST #18.
 
 - Thread: Semplerfli Nanosilk, black.
 

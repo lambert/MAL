@@ -18,4 +18,6 @@
 
 [Up and over rig](Up_and_over_rig.md)
 
+[Wishbone Drop Down rig](Wishbone_drop_down_rig.md)
+
 ### Boat rigs

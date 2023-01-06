@@ -62,6 +62,10 @@
 
 #### North Yorkshire
 
+##### Cayton Bay
+
+##### Scarborough
+
 #### East Yorkshire
 
 #### Kent

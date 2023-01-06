@@ -12,9 +12,15 @@
 
 ### Zeeland
 
-## United Kingdom
+## Belgium
 
-### Edinburgh
+## Denmark
+
+## France
+
+## Germany
+
+## Great Britain
 
 ### North Yorkshire
 
@@ -22,8 +28,8 @@
 
 ### Kent
 
-## Belgium
+## Luxembourg
 
-## France
+## Scotland
 
-## Denmark
+### Edinburgh

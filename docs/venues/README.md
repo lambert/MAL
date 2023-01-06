@@ -68,6 +68,19 @@
 
 ### Scotland
 
+#### Dumfries and Galloway
+
+##### Auchencairn
+
+##### Kircudbright
+
+##### Stranrear
+
 #### Edinburgh
 
 ##### Granton
+
+#### North Ayrshire
+
+##### Troon
+

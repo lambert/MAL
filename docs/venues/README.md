@@ -68,6 +68,16 @@
 
 #### East Yorkshire
 
+##### Hornsea
+
+##### Kilnsea
+
+##### Mappleton
+
+##### Tunstall
+
+##### Withernsea
+
 #### Kent
 
 ### Scotland

@@ -4,7 +4,7 @@ Below is a list of fly pattern recipes in alphabetical order.
 
 ---
 
-description: Aqua tag #14 [BT]
+## Aqua tag #14 [BT]
 
 originator: unknown
 
@@ -24,7 +24,7 @@ location: NYMPH Leaf #2, Row 1, Left
 
 ---
 
-description: Aqua tag (Gold Bead weighted) #12 [BT]
+## Aqua tag (Gold Bead weighted) #12 [BT]
 
 category: Nymph
 
@@ -44,7 +44,7 @@ location: NYMPH Leaf #3, Row, Right
 
 ---
 
-description: Aqua tag (Gold Bead) #14 [BT]
+## Aqua tag (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -64,7 +64,37 @@ location: NYMPH Leaf #3, Row 1, Left
 
 ---
 
-description: Bead-Head Nymph (Olive or Heptageneid) #12-#20
+## Autumn Emerger Caddis #10
+
+originator:
+
+source: [Davy McPhail](https://www.youtube.com/watch?v=wUAVfEYxH_o)
+
+category: Emerger
+
+hook: Fulling Mill Short Shank Specials #10
+
+thread: Rusty Brown 8/0 Uni-Thread
+
+rib: Double Strand of the Rusty Brown Uni-8/0
+
+body: FNF Double Decker Seals Fur
+
+legs: 6 Pre-Knotted Pheasant Tail Fibres
+
+hackle: Natural Brown Cock
+
+horns: Bronze Mallard Fibres
+
+thorax: Dark Brown Seals Fur with a UV Dubbing mixed together
+
+head: tying thread
+
+location: tying list
+
+---
+
+## Bead-Head Nymph (Olive or Heptageneid) #12-#20
 
 category: Nymph
 
@@ -84,7 +114,7 @@ location: tying list
 
 ---
 
-description: Beaded Buzzer Lilac Rocailles #10 [BT]
+## Beaded Buzzer Lilac Rocailles #10 [BT]
 
 category: Nymph
 
@@ -100,7 +130,7 @@ location: BUZZER
 
 ---
 
-description: Beaded Buzzer Lilac Rocailles #12 [BT]
+## Beaded Buzzer Lilac Rocailles #12 [BT]
 
 category: Nymph
 
@@ -116,7 +146,7 @@ location: BUZZER
 
 ---
 
-description: Beaded Buzzer Lilac Rocailles (Tungsten Bead) #12 [BT]
+## Beaded Buzzer Lilac Rocailles (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -134,7 +164,7 @@ location: BUZZER
 
 ---
 
-description: Beaded Buzzer Red Frosted Rocailles #10 [BT]
+## Beaded Buzzer Red Frosted Rocailles #10 [BT]
 
 category: Nymph
 
@@ -150,7 +180,7 @@ location: BUZZER
 
 ---
 
-description: Beaded Buzzer Red Frosted Rocailles #12 [BT]
+## Beaded Buzzer Red Frosted Rocailles #12 [BT]
 
 category: Nymph
 
@@ -166,7 +196,7 @@ location: BUZZER
 
 ---
 
-description: Beaded Buzzer Red Frosted Rocailles (Tungsten Bead) #10 [BT]
+## Beaded Buzzer Red Frosted Rocailles (Tungsten Bead) #10 [BT]
 
 category: Nymph
 
@@ -184,7 +214,7 @@ location: BUZZER
 
 ---
 
-description: Beaded Buzzer Red Frosted Rocailles (Tungsten Bead) #12 [BT]
+## Beaded Buzzer Red Frosted Rocailles (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -202,7 +232,7 @@ location: BUZZER
 
 ---
 
-description: Bibio #8 [BT]
+## Bibio #8 [BT]
 
 category: Wet
 
@@ -224,7 +254,7 @@ location: WET Leaf #2, Row 1, Left
 
 ---
 
-description: Bibio #10 [BT]
+## Bibio #10 [BT]
 
 category: Wet
 
@@ -246,7 +276,7 @@ location: WET Leaf #2, Row 1, Middle
 
 ---
 
-description: Bibio #12 [BT]
+## Bibio #12 [BT]
 
 category: Wet
 
@@ -268,7 +298,7 @@ location: tying list
 
 ------
 
-description: Bibio #14 [BT]
+## Bibio #14 [BT]
 
 category: Wet
 
@@ -290,7 +320,7 @@ location: tying list
 
 ------
 
-description: Bibio Marci (variant) #10 [BT]
+## Bibio Marci (variant) #10 [BT]
 
 category: Dry
 
@@ -314,7 +344,7 @@ location: DRY Leaf #1, Row 4, Left
 
 ------
 
-description: Bibio Marci (variant) #12 [BT]
+## Bibio Marci (variant) #12 [BT]
 
 category: Dry
 
@@ -338,7 +368,7 @@ location: DRY Leaf #1, Row 4, Middle
 
 ------
 
-description: Bibio Marci (variant) #14 [BT]
+## Bibio Marci (variant) #14 [BT]
 
 category: Dry
 
@@ -362,7 +392,7 @@ location: tying list
 
 ------
 
-description: Big Intervale (variant) #6 [BT]
+## Big Intervale (variant) #6 [BT]
 
 category: Salmon
 
@@ -388,11 +418,13 @@ location: Pool12
 
 ------
 
-description: Black Adult Midge (Duck Fly)
+## Black Adult Midge (Duck Fly)
 
 category: Wet
 
-originator: Davy McPhail
+originator:
+
+source: [Davy McPhail](https://www.youtube.com/watch?v=WsZHCbZBVxo)
 
 hook: Fulling Mill Czech Nymph size 14
 
@@ -416,7 +448,7 @@ location: tying list
 
 ------
 
-description: Black and Grey Streamer #4 [HP]
+## Black and Grey Streamer #4 [HP]
 
 category: Salmon
 
@@ -432,7 +464,7 @@ location: Pool12
 
 ------
 
-description: Black and Orange Streamer #4 [HP]
+## Black and Orange Streamer #4 [HP]
 
 category: Salmon
 
@@ -452,7 +484,7 @@ location: Pool12
 
 ------
 
-description: Black and Orange Streamer (winged) #4 [HP]
+## Black and Orange Streamer (winged) #4 [HP]
 
 category: Salmon
 
@@ -474,7 +506,7 @@ loaction: Pool12
 
 ------
 
-description: Black Hairwing #8 [BT]
+## Black Hairwing #8 [BT]
 
 category: Wet
 
@@ -492,7 +524,7 @@ location: WET Leaf #4, Row 4, Left
 
 ------
 
-description: Black Hairwing #10 [BT]
+## Black Hairwing #10 [BT]
 
 category: Wet
 
@@ -504,13 +536,47 @@ body: Black thread
 
 hackle: Black cock hackle
 
+head: thread
+
+cement: .
+
 mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 4, Middle
 
 ------
 
-description: Black Zebra Midge Pupa (Black Bead) #14 [BT]
+## Black Sheep #2 [BT]
+
+hook: TMC 7999 #2
+
+thread: UNI-Thread Black 6/0
+
+tag: UNI Silver Medium
+
+rib: UNI Silver Medium
+
+body: 3 layers of black wool
+
+hackle: Blue schwappen
+
+wing: Yellow bucktail 1.5x hook length
+
+wing: Black bucktail 1.5x hook length
+
+eyes: Jungle cock.
+
+head: thread
+
+cement: .
+
+mfg: Bert Timmerman
+
+location: tying list
+
+------
+
+## Black Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph
 
@@ -532,7 +598,7 @@ location: NYMPH Leaf #3, Row 3, Right
 
 ------
 
-description: Black Pennell (bead head) #8 [BT]
+## Black Pennell (bead head) #8 [BT]
 
 originator: H. Cholmondeley Pennell
 
@@ -558,7 +624,7 @@ location: WET Leaf #1, Row 1, Left
 
 ------
 
-description: Black Pennell #10 [BT]
+## Black Pennell #10 [BT]
 
 originator: H. Cholmondeley Pennell
 
@@ -582,7 +648,7 @@ location: WET Leaf #1, Row 5, Middle
 
 ------
 
-description: Black Stonefly #14 [HA]
+## Black Stonefly #14 [HA]
 
 category: Dry
 
@@ -594,7 +660,7 @@ location: NYMPH Leaf #4, Row 3, Left
 
 ------
 
-description: Black Streamer # [HF]
+## Black Streamer # [HF]
 
 category: Streamer
 
@@ -608,7 +674,7 @@ location: unknown
 
 ------
 
-description: Black Zebra Midge Pupa (Gold Bead) #14 [BT]
+## Black Zebra Midge Pupa (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -630,7 +696,7 @@ location: NYMPH Leaf #3, Row 3, Left
 
 ------
 
-description: Black Zebra Midge Pupa (Yellow Bead) #14 [BT]
+## Black Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
 category: Nymph
 
@@ -652,7 +718,7 @@ location: NYMPH Leaf #3, Row 3, Middle
 
 ------
 
-description: Blue and White Sandeel Surf Candy #2 [HP]
+## Blue and White Sandeel Surf Candy #2 [HP]
 
 category: Salt
 
@@ -674,7 +740,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Blue and White tail and Purple UV #6 [BT]
+## Blue and White tail and Purple UV #6 [BT]
 
 category: Streamer
 
@@ -692,7 +758,7 @@ location:
 
 ------
 
-description: Blue Charm #6 [BT]
+## Blue Charm #6 [BT]
 
 category: Salmon
 
@@ -718,7 +784,7 @@ location: Pool12
 
 ------
 
-description: Blue Stoat #4 [BT]
+## Blue Stoat #4 [BT]
 
 category: Salmon
 
@@ -744,7 +810,7 @@ location: Pool12
 
 ------
 
-description: Borsteormen Olive/Brown #6 [UF]
+## Borsteormen Olive/Brown #6 [UF]
 
 category: Baltic
 
@@ -760,7 +826,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Brown and Yellow Matuka #12 [HA]
+## Brown and Yellow Matuka #12 [HA]
 
 category: Streamer
 
@@ -782,7 +848,7 @@ location: WET Leaf #2, Row 5, Left
 
 ------
 
-description: Brown Corixa (variant) # [RS]
+## Brown Corixa (variant) # [RS]
 
 category: Dry
 
@@ -794,7 +860,7 @@ location: unknown
 
 ------
 
-description: Brown Hairwing #10 [BT]
+## Brown Hairwing #10 [BT]
 
 category: Spider
 
@@ -812,7 +878,7 @@ location: WET Leaf #4, Row 5, Middle
 
 ------
 
-description: Brown Hen (palmered) #6 [BT]
+## Brown Hen (palmered) #6 [BT]
 
 category: Dry
 
@@ -828,7 +894,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Brown Hen (palmered) #14 [BT]
+## Brown Hen (palmered) #14 [BT]
 
 category: Dry
 
@@ -844,7 +910,7 @@ location: tying list
 
 ------
 
-description: Brown Hen and Claret #10 [BT]
+## Brown Hen and Claret #10 [BT]
 
 category: Wet
 
@@ -868,7 +934,7 @@ location: WET Leaf #1, Row 2, Left
 
 ------
 
-description: Brown Hen and Orange (palmered) #10 [BT]
+## Brown Hen and Orange (palmered) #10 [BT]
 
 category: Dry
 
@@ -886,7 +952,7 @@ location: WET Leaf #4, Row 6, Left
 
 ------
 
-description: Brown Hen and Orange (palmered) #12 [BT]
+## Brown Hen and Orange (palmered) #12 [BT]
 
 category: Dry
 
@@ -904,7 +970,7 @@ location: WET Leaf #4, Row 6, Middle
 
 ------
 
-description: Brown Hen and Red (Northern Spider style) #10 [BT]
+## Brown Hen and Red (Northern Spider style) #10 [BT]
 
 category: Spider
 
@@ -958,7 +1024,7 @@ location: tying list
 
 ------
 
-description: Brown Hen and Yellow (Northern Spider style) #10 [BT]
+## Brown Hen and Yellow (Northern Spider style) #10 [BT]
 
 category: Spider
 
@@ -976,7 +1042,7 @@ location: WET Leaf #4, Row 1, Left
 
 ------
 
-description: Brown Hen and Yellow (Northern Spider style) #12 [BT]
+## Brown Hen and Yellow (Northern Spider style) #12 [BT]
 
 category: Spider
 
@@ -994,7 +1060,7 @@ location: WET Leaf #4, Row 1, Middle
 
 ------
 
-description: Brown Hen and Yellow (Northern Spider style) #14 [BT]
+## Brown Hen and Yellow (Northern Spider style) #14 [BT]
 
 category: Spider
 
@@ -1012,7 +1078,7 @@ location: tying list
 
 ------
 
-description: Brown Pennell (variant) #10 [BT]
+## Brown Pennell (variant) #10 [BT]
 
 originator: H. Cholmondeley Pennell
 
@@ -1036,7 +1102,7 @@ location: WET Leaf #1, Row 6, Middle
 
 ------
 
-description: Bug (weighted) #14 [BT]
+## Bug (weighted) #14 [BT]
 
 hook: #14
 
@@ -1056,7 +1122,7 @@ location: NYMPH Leaf #1, Row 4, Left
 
 ------
 
-description: Camel Zebra Midge Pupa (Black Bead) #14 [BT]
+## Camel Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph
 
@@ -1078,7 +1144,7 @@ location: NYMPH Leaf #3, Row 1, Right
 
 ------
 
-description: Camel Zebra Midge Pupa (Gold Bead) #14 [BT]
+## Camel Zebra Midge Pupa (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -1100,7 +1166,7 @@ location: NYMPH Leaf #3, Row 1, Left
 
 ------
 
-description: Camel Zebra Midge Pupa (Yellow Bead) #14 [BT]
+## Camel Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
 category: Nymph
 
@@ -1122,7 +1188,7 @@ location: NYMPH Leaf #3, Row 1, Middle
 
 ------
 
-description: Carrot Nymph (Gold Bead) #12 [BT]
+## Carrot Nymph (Gold Bead) #12 [BT]
 
 category: Nymph
 
@@ -1140,7 +1206,7 @@ location: NYMPH Leaf #4, Row 1, Middle
 
 ------
 
-description: Cassius #6 [BT]
+## Cassius #6 [BT]
 
 category: Salmon
 
@@ -1164,7 +1230,7 @@ location: Pool12
 
 ------
 
-description: CDC Dun Light Yellow #12 [HP]
+## CDC Dun Light Yellow #12 [HP]
 
 category: Dry
 
@@ -1186,7 +1252,7 @@ location: wishlist
 
 ------
 
-description: CDC Dun Light Yellow #16 [HP]
+## CDC Dun Light Yellow #16 [HP]
 
 category: Dry
 
@@ -1208,7 +1274,7 @@ location: wishlist
 
 ------
 
-description: CDC F-fly Black #16 [BT]
+## CDC F-fly Black #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1230,7 +1296,7 @@ location: DRY Leaf #4, Row 5, Left
 
 ------
 
-description: CDC F-fly Black (thin) #16 [BT]
+## CDC F-fly Black (thin) #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1252,7 +1318,7 @@ location: DRY Leaf #4, Row 5, Right
 
 ------
 
-description: CDC F-fly Bordeaux #16 [BT]
+## CDC F-fly Bordeaux #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1274,7 +1340,7 @@ location: DRY Leaf #4, Row 4, Left
 
 ------
 
-description: CDC F-fly Bordeaux (thin) #16 [BT]
+## CDC F-fly Bordeaux (thin) #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1296,7 +1362,7 @@ location: DRY Leaf #4, Row 4, Right
 
 ------
 
-description: CDC F-fly Camel #16 [BT]
+## CDC F-fly Camel #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1318,7 +1384,7 @@ location: DRY Leaf #4, Row 6, Left
 
 ------
 
-description: CDC F-fly Camel (thin) #16 [BT]
+## CDC F-fly Camel (thin) #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1340,7 +1406,7 @@ location: DRY Leaf #4, Row 6, Right
 
 ------
 
-description: CDC F-fly Olive #16 [BT]
+## CDC F-fly Olive #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1362,7 +1428,7 @@ location: DRY Leaf #4, Row 3, Right
 
 ------
 
-description: CDC F-fly Olive (thin) #16 [BT]
+## CDC F-fly Olive (thin) #16 [BT]
 
 originator: Marjan Fratnic
 
@@ -1384,7 +1450,7 @@ location: DRY Leaf #4, Row 3, Right
 
 ------
 
-description: CDC Sedge Hatcher (Baetis variant) #12 [BT]
+## CDC Sedge Hatcher (Baetis variant) #12 [BT]
 
 originator: Sigve Monsen
 
@@ -1406,7 +1472,7 @@ location: DRY Leaf #1, Row 6, Left
 
 ------
 
-description: CDC Sedge Hatcher (Baetis variant) #14 [BT]
+## CDC Sedge Hatcher (Baetis variant) #14 [BT]
 
 originator: Sigve Monsen
 
@@ -1428,7 +1494,7 @@ location: DRY Leaf #1, Row 6, Center
 
 ------
 
-description: CDC Sedge Hatcher (Baetis variant) #16 [BT]
+## CDC Sedge Hatcher (Baetis variant) #16 [BT]
 
 originator: Sigve Monsen
 
@@ -1450,7 +1516,7 @@ location: DRY Leaf #1, Row 6, Right
 
 ------
 
-description: CDC Sedge Hatcher (Caddis Green variant) #12 [BT]
+## CDC Sedge Hatcher (Caddis Green variant) #12 [BT]
 
 originator: Sigve Monsen
 
@@ -1472,7 +1538,7 @@ location: DRY Leaf #1, Row 5, Left
 
 ------
 
-description: CDC Sedge Hatcher (Caddis Green variant) #14 [BT]
+## CDC Sedge Hatcher (Caddis Green variant) #14 [BT]
 
 originator: Sigve Monsen
 
@@ -1494,7 +1560,7 @@ location: DRY Leaf #1, Row 5, Center
 
 ------
 
-description: CDC Sedge Hatcher (Caddis Green variant) #16 [BT]
+## CDC Sedge Hatcher (Caddis Green variant) #16 [BT]
 
 originator: Sigve Monsen
 
@@ -1516,7 +1582,7 @@ location: DRY Leaf #1, Row 5, Right
 
 ------
 
-description: CDC Sedge #12 [BT]
+## CDC Sedge #12 [BT]
 
 category: Dry
 
@@ -1536,7 +1602,7 @@ location: DRY Leaf #1, Row 1, Left
 
 ------
 
-description: Chantry #10 [BT]
+## Chantry #10 [BT]
 
 category: Wet
 
@@ -1558,7 +1624,7 @@ location: WET Leaf #1, Row 1, Middle
 
 ------
 
-description: Clynelish (no tail variant) #4 [BT]
+## Clynelish (no tail variant) #4 [BT]
 
 category: Salmon
 
@@ -1582,7 +1648,7 @@ location: Pool12
 
 ------
 
-description: Danish Pastry #2 [BT]
+## Danish Pastry #2 [BT]
 
 originator: Martin Joergensen
 
@@ -1608,7 +1674,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Den Blå Frede #6 [BT]
+## Den Blå Frede #6 [BT]
 
 category: Baltic
 
@@ -1636,7 +1702,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Den Blå Frede (light) #6 [BT]
+## Den Blå Frede (light) #6 [BT]
 
 category: Baltic
 
@@ -1660,7 +1726,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Den Grå Frede #6 [BT]
+## Den Grå Frede #6 [BT]
 
 category: Baltic
 
@@ -1688,7 +1754,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Disco Magnus #6 [BT]
+## Disco Magnus #6 [BT]
 
 category: Baltic
 
@@ -1716,7 +1782,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Double Legs (variant) #10 [BT]
+## Double Legs (variant) #10 [BT]
 
 category: Emerger
 
@@ -1742,7 +1808,7 @@ location: WET Leaf #2, Row 3, Left
 
 ------
 
-description: Efterårsfluen #6 [UF]
+## Efterårsfluen #6 [UF]
 
 category: Baltic
 
@@ -1770,7 +1836,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Efterårsfluen (Autumn Fly)
+## Efterårsfluen (Autumn Fly)
 
 category: Baltic
 
@@ -1790,11 +1856,11 @@ body hackle: Grizzly
 
 front hackle: Red golden pheasant breast feather
 
-location: tying list
+location: Albatros vliegendoos
 
 ------
 
-description: EP Kutling #6 [UF]
+## EP Kutling #6 [UF]
 
 category: Streamer
 
@@ -1812,7 +1878,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: EZ Nymph #12 [BT]
+## EZ Nymph #12 [BT]
 
 category: Nymph
 
@@ -1830,7 +1896,7 @@ location: NYMPH Leaf #1, Row 5, Left
 
 ------
 
-description: EZ Nymph (Gold Bead) #12 [BT]
+## EZ Nymph (Gold Bead) #12 [BT]
 
 category: Nymph
 
@@ -1852,7 +1918,7 @@ location: NYMPH Leaf #3, Row 5, Left
 
 ------
 
-description: EZ Nymph (weighted) #12 [BT]
+## EZ Nymph (weighted) #12 [BT]
 
 category: Nymph
 
@@ -1872,7 +1938,7 @@ location: NYMPH Leaf #1, Row 5, Right
 
 ------
 
-description: Fire Orange Zebra Midge Pupa (Green Bead) #16 [BT]
+## Fire Orange Zebra Midge Pupa (Green Bead) #16 [BT]
 
 category: Nymph
 
@@ -1894,7 +1960,7 @@ location: NYMPH Leaf #4, Row 2, Right
 
 ------
 
-description: Flash Jujubee #18
+## Flash Jujubee #18
 
 originator: Charlie Craven
 
@@ -1918,7 +1984,7 @@ location: tying list
 
 ------
 
-description: Floating Green Geany #4/0 Scierra
+## Floating Green Geany #4/0 Scierra
 
 category: Pike
 
@@ -1938,7 +2004,7 @@ location: Tupperware
 
 ------
 
-description: Fluo Green Wooly Bugger (Tungsten Gold Bead) #4 [BT]
+## Fluo Green Wooly Bugger (Tungsten Gold Bead) #4 [BT]
 
 category: Pike
 
@@ -1960,7 +2026,7 @@ location:
 
 ------
 
-description: Forårsfluen #6 [UF]
+## Forårsfluen #6 [UF]
 
 category: Baltic
 
@@ -1988,7 +2054,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Genner Bug (Fire Orange variant) #8 [BT]
+## Genner Bug (Fire Orange variant) #8 [BT]
 
 category: Baltic
 
@@ -2012,7 +2078,7 @@ location: WET Leaf #3, Row 1, Left
 
 ------
 
-description: Glödhäck (variant) #6 [BT]
+## Glödhäck (variant) #6 [BT]
 
 category: Baltic
 
@@ -2042,7 +2108,7 @@ location: Pool12
 
 ------
 
-description: Golden Olive CDC emerger #12 [BT]
+## Golden Olive CDC emerger #12 [BT]
 
 category: Emerger
 
@@ -2062,7 +2128,7 @@ mfg: Bert Timmerman
 
 ------
 
-description: Golden Olive CDC emerger #14 [BT]
+## Golden Olive CDC emerger #14 [BT]
 
 category: Emerger
 
@@ -2084,7 +2150,7 @@ location: DRY Leaf #2, Row 1, Middle
 
 ------
 
-description: Golden Olive CDC emerger #16 [BT]
+## Golden Olive CDC emerger #16 [BT]
 
 category: Emerger
 
@@ -2104,7 +2170,7 @@ mfg: Bert Timmerman
 
 ------
 
-description: Grannom (Green Highlander variant) #12 [BT]
+## Grannom (Green Highlander variant) #12 [BT]
 
 category: Emerger
 
@@ -2128,7 +2194,7 @@ location: DRY Leaf #3, Row 6, Left
 
 ------
 
-description: Grannom (Green Highlander variant) #14 [BT]
+## Grannom (Green Highlander variant) #14 [BT]
 
 category: Emerger
 
@@ -2152,7 +2218,7 @@ location: DRY Leaf #3, Row 6, Middle
 
 ------
 
-description: Grannom (Green Highlander variant) #16 [BT]
+## Grannom (Green Highlander variant) #16 [BT]
 
 category: Emerger
 
@@ -2176,7 +2242,7 @@ location: DRY Leaf #3, Row 6, Right
 
 ------
 
-description: Grannom (Neon Chartreuse variant) #12 [BT]
+## Grannom (Neon Chartreuse variant) #12 [BT]
 
 category: Emerger
 
@@ -2200,7 +2266,7 @@ location: DRY Leaf #3, Row 5, Left
 
 ------
 
-description: Grannom (Neon Chartreuse variant) #14 [BT]
+## Grannom (Neon Chartreuse variant) #14 [BT]
 
 category: Emerger
 
@@ -2224,7 +2290,7 @@ location: DRY Leaf #3, Row 5, Middle
 
 ------
 
-description: Grannom (Neon Chartreuse variant) #16 [BT]
+## Grannom (Neon Chartreuse variant) #16 [BT]
 
 category: Emerger
 
@@ -2248,7 +2314,43 @@ location: DRY Leaf #3, Row 5, Right
 
 ------
 
-description: Gray Marlow #8 [BT]
+## Gravel Bed Wet Fly #14
+
+category: Wet
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=n95suy20dgY)
+
+hook: Fulling Mill Ultimate Dry or All-Pupose Medium Size 14
+
+thread: Grey Pearsalls Silk or Uni-8/0 Grey
+
+wing: Woodcock
+
+hackle: Dyed Black Cock or Hen
+
+location: tying list
+
+------
+
+## Gravel Bed Wet Fly #16
+
+category: Wet
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=n95suy20dgY)
+
+hook: Fulling Mill Ultimate Dry or All-Pupose Medium Size 16
+
+thread: Grey Pearsalls Silk or Uni-8/0 Grey
+
+wing: Woodcock
+
+hackle: Dyed Black Cock or Hen
+
+location: tying list
+
+------
+
+## Gray Marlow #8 [BT]
 
 category: Wet
 
@@ -2270,7 +2372,7 @@ location: tying list
 
 ------
 
-description: Gray Marlow #10 [BT]
+## Gray Marlow #10 [BT]
 
 category: Wet
 
@@ -2292,7 +2394,7 @@ location: WET Leaf #1, Row 3, Middle
 
 ------
 
-description: Gray Marlow #12 [BT]
+## Gray Marlow #12 [BT]
 
 category: Wet
 
@@ -2314,7 +2416,7 @@ location: tying list
 
 ------
 
-description: Grayling Nymph Pearl White (Black Bead) #14 [BT]
+## Grayling Nymph Pearl White (Black Bead) #14 [BT]
 
 category: Nymph
 
@@ -2334,7 +2436,7 @@ location: NYMPH Leaf #3, Row 5, Right
 
 ------
 
-description: Grayling Nymph Pearl Yellow (Black Bead) #14
+## Grayling Nymph Pearl Yellow (Black Bead) #14
 
 category: Nymph
 
@@ -2354,7 +2456,7 @@ location: NYMPH Leaf #3, Row 5, Middle
 
 ------
 
-description: Green Bead Diawl Bach #10 [BT]
+## Green Bead Diawl Bach #10 [BT]
 
 category: Nymph
 
@@ -2376,7 +2478,7 @@ location: NYMPH Leaf #1, Row 3, Right
 
 ------
 
-description: Green Lantern (variant) #6 [BT]
+## Green Lantern (variant) #6 [BT]
 
 category: Salmon
 
@@ -2406,7 +2508,7 @@ location: Pool12
 
 ------
 
-description: Green Sinker #2/0 Scierra
+## Green Sinker #2/0 Scierra
 
 category: Pike
 
@@ -2438,7 +2540,7 @@ location: Tupperware
 
 ------
 
-description: Green Tag (Yellow Bead) #14 [BT]
+## Green Tag (Yellow Bead) #14 [BT]
 
 category: Nymph
 
@@ -2458,7 +2560,7 @@ location: NYMPH Leaf #3, Row 1, Middle
 
 ------
 
-description: Green Tag (Green Bead) #14 [??]
+## Green Tag (Green Bead) #14 [??]
 
 category: Nymph
 
@@ -2476,7 +2578,7 @@ location: NYMPH Leaf #3, Row 1, Left-midden
 
 ------
 
-description: Green Tag (Green Bead) #14 [BT]
+## Green Tag (Green Bead) #14 [BT]
 
 category: Nymph
 
@@ -2496,7 +2598,7 @@ location: NYMPH Leaf #3, Row 1, Left-midden
 
 ------
 
-description: Green Tag (hackle) #14 [BT]
+## Green Tag (hackle) #14 [BT]
 
 category: Dry
 
@@ -2516,7 +2618,7 @@ location: NYMPH Leaf #2, Row 2, Right
 
 ------
 
-description: Green Wolly Chenille #10 [BT]
+## Green Wolly Chenille #10 [BT]
 
 hook: TMC 100SP-BL #10
 
@@ -2528,7 +2630,7 @@ mfg: Bert Timmerman
 
 ------
 
-description: Green Zonker #2/0 Scierra
+## Green Zonker #2/0 Scierra
 
 category: Pike
 
@@ -2556,7 +2658,7 @@ location: Tupperware
 
 ------
 
-description: Green Zulu # [??]
+## Green Zulu # [??]
 
 hook: 
 
@@ -2570,7 +2672,7 @@ hackle: black hen
 
 ------
 
-description: Grey Shrimp # [HF]
+## Grey Shrimp # [HF]
 
 category: Salt
 
@@ -2580,7 +2682,7 @@ seller: Handy Fish
 
 ------
 
-description: Grizzly CDC Sedge #12 [HP]
+## Grizzly CDC Sedge #12 [HP]
 
 category: Dry
 
@@ -2600,7 +2702,7 @@ location: DRY Leaf #1, Row 2, Left
 
 ------
 
-description: Grizzly CDC Sedge #16 [HP]
+## Grizzly CDC Sedge #16 [HP]
 
 category: Dry
 
@@ -2620,7 +2722,7 @@ location: DRY Leaf #1, Row 2, Right
 
 ------
 
-description: Grizzly Palmer Streamer #6 [BT]
+## Grizzly Palmer Streamer #6 [BT]
 
 category: Streamer
 
@@ -2636,7 +2738,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Grizzly Palmer #12 [BT]
+## Grizzly Palmer #12 [BT]
 
 category: Dry
 
@@ -2652,7 +2754,7 @@ location: DRY Leaf #3, Row 1, Left
 
 ------
 
-description: Groene Harder #10 [BT]
+## Groene Harder #10 [BT]
 
 category: Salt
 
@@ -2672,7 +2774,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Grøn Multe #10 [BT]
+## Grøn Multe #10 [BT]
 
 category: Baltic
 
@@ -2690,7 +2792,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Hairwing Mayfly (Light Olive variant) #10 [BT]
+## Hairwing Mayfly (Light Olive variant) #10 [BT]
 
 category: Dry
 
@@ -2716,7 +2818,7 @@ location: DRY Leaf #4, Row 2, Left
 
 ------
 
-description: Hairwing Mayfly (Light Olive variant) #12 [BT]
+## Hairwing Mayfly (Light Olive variant) #12 [BT]
 
 category: Dry
 
@@ -2742,7 +2844,7 @@ location: DRY Leaf #4, Row 2, Middle
 
 ------
 
-description: HVK Klinkhamer BWO
+## HVK Klinkhamer BWO
 
 originator: Hans Van Klinken
 
@@ -2762,7 +2864,7 @@ mfg: The Essential Fly
 
 ------
 
-description: HVK Klinkhamer Dark Olive
+## HVK Klinkhamer Dark Olive
 
 originator: Hans Van Klinken
 
@@ -2782,7 +2884,7 @@ mfg: The Essential Fly
 
 ------
 
-description: HVK Klinkhamer March Brown
+## HVK Klinkhamer March Brown
 
 originator: Hans Van Klinken
 
@@ -2800,9 +2902,37 @@ thorax: Semperfli Straggle String SF0050 Black
 
 mfg: The Essential Fly
 
+location: tying list
+
 ------
 
-description: Herring Hairwing #12 [BT]
+## Helen's Special #8
+
+category: Salmon fly (Dollaghan and Sea-Trout patterns)
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=pwaeBvx0CE0)
+
+hook: Size 8 Osprey double
+
+tag: Glo Bright Floss No3 (Red)
+
+theard: Uni 8/0 Black 
+
+rib: Ultra wire Silver wire BR
+
+body: Silver Holographic
+
+wing: Peacock neck feather (Blue)
+
+over wing: Red bucktail 
+
+throat: Orange cock hackle fibers
+
+location: tying list
+
+------
+
+## Herring Hairwing #12 [BT]
 
 hook: Grey Matzo Nymph BL #12
 
@@ -2822,7 +2952,7 @@ location: NYMPH Leaf #4, Row 2, Left
 
 ------
 
-description: Herring Nymph with Chartreuse tail #12 [BT]
+## Herring Nymph with Chartreuse tail #12 [BT]
 
 category: Nymph
 
@@ -2844,7 +2974,7 @@ location: NYMPH Leaf #4, Row 1, Left
 
 ------
 
-description: Hot Orange Nosed Magnus,#6 [BT]
+## Hot Orange Nosed Magnus,#6 [BT]
 
 category: Baltic
 
@@ -2874,7 +3004,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Hot Pink Copper Jane Jig Nymph (Pink Bead) #12 [BT]
+## Hot Pink Copper Jane Jig Nymph (Pink Bead) #12 [BT]
 
 category: Nymph
 
@@ -2894,7 +3024,7 @@ location: NYMPH Leaf #4, Row 6, Left
 
 ------
 
-description: Hot Pink Tag Jig Nymph (Tungsten Bead) #12 [BT]
+## Hot Pink Tag Jig Nymph (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -2914,7 +3044,7 @@ location: NYMPH Leaf #4, Row 5, Left
 
 ------
 
-description: Hot Pink Tag Nymph (Tungsten Bead) #14 [BT]
+## Hot Pink Tag Nymph (Tungsten Bead) #14 [BT]
 
 category: Nymph
 
@@ -2934,7 +3064,7 @@ location: NYMPH Leaf #?, Row
 
 ------
 
-description: Hot Pink Tag Nymph (Tungsten Bead) #16 [BT]
+## Hot Pink Tag Nymph (Tungsten Bead) #16 [BT]
 
 category: Nymph
 
@@ -2954,7 +3084,7 @@ location: NYMPH Leaf #?, Row
 
 ------
 
-description: Hot Pink Zebra Nymph (Tungsten Bead) #12 [BT]
+## Hot Pink Zebra Nymph (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -2976,7 +3106,7 @@ location: NYMPH Leaf #4, Row 3, Right
 
 ------
 
-description: Hot Pink Zebra Nymph (Tungsten Bead) #14 [BT]
+## Hot Pink Zebra Nymph (Tungsten Bead) #14 [BT]
 
 category: Nymph
 
@@ -2998,7 +3128,7 @@ location: NYMPH Leaf #?, Row
 
 ------
 
-description: Hot Pink Zebra Nymph (Tungsten Bead) #16 [BT]
+## Hot Pink Zebra Nymph (Tungsten Bead) #16 [BT]
 
 category: Nymph
 
@@ -3020,7 +3150,7 @@ location: NYMPH Leaf #?, Row
 
 ------
 
-description: Klympen (variant) #6 [BT]
+## Klympen (variant) #6 [BT]
 
 category: Baltic
 
@@ -3044,7 +3174,32 @@ location: Groene vliegendoos
 
 ------
 
-description: Low Water Baetis #14 [BT]
+## Lady Caroline (variant) [BT]
+
+category: Salmon and steelhead hairwing
+
+hook:
+
+tail: Golden Pheasant red-breast, a few strands only.
+
+body: Brown and olive-green Berlin wool mixed together in proportion of
+one part olive-green, two parts brown.
+
+rib: From separate starting points, of gold tinsel (narrow), gold twist,
+and silver twist, wound the usual way, an equal distance apart.
+
+hackle: Grey Heron, from tail (tied in at the point as usual) wound
+alongside gold tinsel.
+
+throat: Golden Pheasant red-breast, two turns.
+
+wings: Two strips of Mallard showing brown points and light roots.
+
+location: tying list
+
+------
+
+## Low Water Baetis #14 [BT]
 
 category: Dry
 
@@ -3066,7 +3221,7 @@ location: DRY Leaf #3, Row 4, Middle
 
 ------
 
-description: Mallard Magnus #6 [UF]
+## Mallard Magnus #6 [UF]
 
 category: Baltic
 
@@ -3096,7 +3251,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Martin's Mundane Crazy Dane (GP variant) #6 [BT]
+## Martin's Mundane Crazy Dane (GP variant) #6 [BT]
 
 originator: Martin Joergensen
 
@@ -3118,7 +3273,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Martin's Mundane Crazy Dane (PH variant) #6 [BT]
+## Martin's Mundane Crazy Dane (PH variant) #6 [BT]
 
 originator: Martin Joergensen
 
@@ -3140,7 +3295,55 @@ location: Groene vliegendoos
 
 ------
 
-description: Mickey Finn #6 [HF]
+## Martini Cadis Emerger #16-#20
+
+category: Emerger
+
+originator:
+
+source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=G159LNX8bsc)
+
+hook:  TMC 2488 size #16-#20
+
+thread:  8/0 Brown or Olive Dun
+
+dubbing: Body Is Any Olive or Tan Dubbing 
+
+under Wing:  Tan Yarn
+
+over Wing:  Brown Hackle Fibers from Saddle Hackle
+
+head:  Dark Brown Dubbing
+
+location: tying list
+
+------
+
+## Medicine (variant) #6
+
+category: Sea trout
+
+originator: Hugh Falkus
+
+source: [Davy McPhail](https://www.youtube.com/watch?v=F8rlSOM82HI)
+
+hook: TMC 7999 #6
+
+thread: Uni Fire Orange 8/0
+
+body: Uni Mylar #12 3/64" Silver
+
+hackle: Veniard Saddle Hackle Teal Blue
+
+wing: Bronze Mallard Shoulder
+
+head: tying thread (Uni Fire Orange 8/0)
+
+location: Salmon2
+
+------
+
+## Mickey Finn #6 [HF]
 
 category: Streamer
 
@@ -3162,7 +3365,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Micro Baetis Nymph White (variant) #16 [BT]
+## Micro Baetis Nymph White (variant) #16 [BT]
 
 originator: Lucian Vasies
 
@@ -3188,7 +3391,7 @@ location: Nymph Leaf #4, Row 6, Right
 
 ------
 
-description: Montana Bucktail
+## Montana Bucktail
 
 originator: unknown
 
@@ -3212,7 +3415,53 @@ location: tying list
 
 ------
 
-description: October Caddis
+## Mustard Green Drake Emerger #14
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=ZJWmnmfu908)
+
+category: Emerger
+
+hook: Fulling Mill Czech Nymph size 14
+
+thread: Uni-8/0 Olive Dun
+
+shuck: Summer Duck Sub Fibres
+
+body: Olive Seals Fur or Sub
+
+hackle: Dark Dun Hen
+
+thorax: Olive Seals Fur or Sub
+
+location: tying list
+
+------
+
+## Neep #8
+
+originator: Paul Marshall and Gene Young
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=_UNeSkW2TRI)
+
+category: Salmon
+
+hook: size #8 Double 
+
+thread: Uni 8/0 Black 
+
+tag: Glo Bright No 12 
+
+tail: Silver braid brushed out 
+
+body: Silver Braid 
+
+wing: Yellow arctic fox then grey squirrel dyed black with peacock sword fibres on top 
+
+throat: Hen hackle fibres dyed brown
+
+------
+
+## October Caddis
 
 originator: unknown
 
@@ -3238,9 +3487,11 @@ location: tying list
 
 ------
 
-description: Olive Adult Midge
+## Olive Adult Midge
 
-originator: Davy McPhail
+originator:
+
+source: [Davy McPhail](https://www.youtube.com/watch?v=GrpUqv8gh5o)
 
 category: Wet
 
@@ -3266,7 +3517,7 @@ location: tying list
 
 ------
 
-description: Olive CDC Sedge #16 [HP]
+## Olive CDC Sedge #16 [HP]
 
 category: Dry
 
@@ -3286,7 +3537,7 @@ location: DRY Leaf #1, Row 3, Right
 
 ------
 
-description: Olive Zebra Midge Pupa (Black Bead) #14 [BT]
+## Olive Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph
 
@@ -3308,7 +3559,7 @@ location: NYMPH Leaf #3, Row 2, Right
 
 ------
 
-description: Olive Zebra Midge Pupa (Gold Bead) #14 [BT]
+## Olive Zebra Midge Pupa (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -3330,7 +3581,7 @@ location: NYMPH Leaf #3, Row 2, Left
 
 ------
 
-description: Olive Zebra Midge Pupa (Yellow Bead) #14 [BT]
+## Olive Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
 category: Nymph
 
@@ -3352,7 +3603,7 @@ location: NYMPH Leaf #3, Row 2, Middle
 
 ------
 
-description: Olive and White Sandeel Surf Candy #4 [HP]
+## Olive and White Sandeel Surf Candy #4 [HP]
 
 category: Salt
 
@@ -3376,7 +3627,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Olive Yellow Grub (Gold Bead) #12 [BT]
+## Olive Yellow Grub (Gold Bead) #12 [BT]
 
 category: Nymph
 
@@ -3396,7 +3647,7 @@ location: NYMPH Leaf #3, Row 6, Right
 
 ------
 
-description: Olive Yellow Grub (Gold Bead) #14 [BT]
+## Olive Yellow Grub (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -3416,7 +3667,7 @@ location: NYMPH Leaf #3, Row 6, Left
 
 ------
 
-description: Olive Yellow Mayfly grub #12 [BT]
+## Olive Yellow Mayfly grub #12 [BT]
 
 category: Nymph
 
@@ -3436,7 +3687,7 @@ location: NYMPH Leaf #2, Row 5, Right
 
 ------
 
-description: Orange and Blue Nymph (Gold Bead) #14 [BT]
+## Orange and Blue Nymph (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -3456,7 +3707,7 @@ location: NYMPH Leaf #4, Row 1, Right
 
 ------
 
-description: Orange and Red Salmon Streamer #4 [HP]
+## Orange and Red Salmon Streamer #4 [HP]
 
 category: Salmon
 
@@ -3472,7 +3723,7 @@ location: Pool12
 
 ------
 
-description: Orange IJssel Nymph (weighted) #12 [BT]
+## Orange IJssel Nymph (weighted) #12 [BT]
 
 category: Nymph
 
@@ -3494,7 +3745,7 @@ location: NYMPH Leaf #2, Row 1, Right
 
 ------
 
-description: Orange Witch #6 [BT]
+## Orange Witch #6 [BT]
 
 category: Salmon
 
@@ -3522,7 +3773,7 @@ location: Pool12
 
 ------
 
-description: Orange Zonker #2/0 Scierra
+## Orange Zonker #2/0 Scierra
 
 category: Pike
 
@@ -3550,7 +3801,7 @@ location: Tupperware
 
 ------
 
-descripton: Pattegrisen Pink #4 [UF]
+## Pattegrisen Pink #4 [UF]
 
 category: Baltic
 
@@ -3568,7 +3819,7 @@ location: Groene vliegendoos
 
 ------
 
-description: Peach Streamer #6 [BT]
+## Peach Streamer #6 [BT]
 
 category: Streamer
 
@@ -3582,7 +3833,83 @@ location: Groene vliegendoos
 
 ------
 
-description: Peacock Herl Grub #14 [BT]
+## Peacock and Black (variant)
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
+
+category: Wet
+
+hook: Kamasan B175 size 8
+
+thread: Uni 8/0 Black
+
+tag: Glo bright floss No. 12
+
+rib: Glo bright floss No. 12
+
+body: Peacock herl dyed green
+
+hackle: Black hen
+
+cheeks: Goose biots dyed lime green
+
+location: tying list
+
+------
+
+## Peacock and Black (Chinese Red variant) #8 [BT]
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
+
+category: Wet
+
+hook: TMC-100 SP-BL size 8
+
+thread: Uni 8/0 Black
+
+tag: Uni Floss Chinese Red
+
+rib: Uni Floss Chinese Red
+
+body: Peacock herl natural
+
+hackle: Black hen
+
+cheeks: Veniard Goose biots dyed Red
+
+mfg: Bert Timmerman
+
+location: Wet fly box ?
+
+------
+
+## Peacock and Black (Neon Chartreuse variant) #8 [BT]
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
+
+category: Wet
+
+hook: TMC-100 SP-BL size 8
+
+thread: Uni 8/0 Black
+
+tag: Uni Floss Neon Chartreuse
+
+rib: Uni Floss Neon Chartreuse
+
+body: Peacock herl natural
+
+hackle: Black hen
+
+cheeks: Veniard Goose biots dyed Chartreuse
+
+mfg: Bert Timmerman
+
+location: Wet fly box ?
+
+------
+
+## Peacock Herl Grub #14 [BT]
 
 category: Nymph
 
@@ -3598,7 +3925,7 @@ location: NYMPH Leaf #2, Row 5, Left
 
 ------
 
-description: Pheasant Tail Nymph #14 [BT]
+## Pheasant Tail Nymph #14 [BT]
 
 category: Nymph
 
@@ -3618,7 +3945,7 @@ location: NYMPH Leaf #1, Row 6, Right
 
 ------
 
-description: Pheasant Tail Peacock Herl Nymph #12 [BT]
+## Pheasant Tail Peacock Herl Nymph #12 [BT]
 
 category: Nymph
 
@@ -3638,7 +3965,7 @@ location: NYMPH Leaf #1, Row 6, Left
 
 ------
 
-description: Phil White's Adult Midge #14 [BT]
+## Phil White's Adult Midge #14 [BT]
 
 originator: Phil White
 
@@ -3662,7 +3989,7 @@ location: DRY Leaf #4, Row 1, Left
 
 ------
 
-description: Phil White's Adult Midge #16 [BT]
+## Phil White's Adult Midge #16 [BT]
 
 originator: Phil White
 
@@ -3686,7 +4013,7 @@ location: DRY Leaf #4, Row 1, Middle
 
 ------
 
-description: Phil White's Adult Midge #18 [BT]
+## Phil White's Adult Midge #18 [BT]
 
 originator: Phil White
 
@@ -3710,7 +4037,7 @@ location: DRY Leaf #4, Row 1, Right
 
 ------
 
-description: Poison Tung #16
+## Poison Tung #16
 
 originator: Charlie Craven
 
@@ -3734,7 +4061,7 @@ location: tying list
 
 ------
 
-description: Purple and Fluo Yellow Dog Nobbler (weighted) #6 [BT]
+## Purple and Fluo Yellow Dog Nobbler (weighted) #6 [BT]
 
 category: Streamer
 
@@ -3754,7 +4081,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Purple and Orange Dog Nobbler #8 [HT]
+## Purple and Orange Dog Nobbler #8 [HT]
 
 category: Streamer
 
@@ -3774,7 +4101,33 @@ location: Albatros vliegendoos
 
 ------
 
-description: Purple and Red Salmon Streamer #4 [HP]
+## Purple and Orange Shrimp
+
+originator : [Scott Jackson](https://www.youtube.com/watch?v=aRyMKORAASQ)
+
+category: Salmon
+
+hook: Double size 10
+
+thread: Uni 8/0 Purple 
+
+tag: Oval silver tinsel
+
+rib: Oval silver tinsel
+
+tail: A mix of purple and claret bucktail 
+
+body: Glo bright floss No 15
+
+wing: GP tippet dyed orange 
+
+front hackle: Purple hen
+
+location: tying list
+
+------
+
+## Purple and Red Salmon Streamer #4 [HP]
 
 category: Salmon
 
@@ -3790,7 +4143,7 @@ location: Pool12
 
 ------
 
-description: Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #12 [BT]
+## Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #12 [BT]
 
 category: Emerger
 
@@ -3812,7 +4165,7 @@ location: DRY Leaf #3, Row 6, Left
 
 ------
 
-description: Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #14 [BT]
+## Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #14 [BT]
 
 category: Emerger
 
@@ -3834,7 +4187,7 @@ location: DRY Leaf #3, Row 6, Middle
 
 ------
 
-description: Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #16 [BT]
+## Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #16 [BT]
 
 category: Emerger
 
@@ -3856,7 +4209,7 @@ location: DRY Leaf #3, Row 6, Right
 
 ------
 
-description: Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #12 [BT]
+## Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #12 [BT]
 
 category: Emerger
 
@@ -3876,7 +4229,7 @@ location: DRY Leaf #3, Row 5, Left
 
 ------
 
-description: Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #14 [BT]
+## Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #14 [BT]
 
 category: Emerger
 
@@ -3896,7 +4249,7 @@ location: DRY Leaf #2, Row 5, Middle
 
 ------
 
-description: Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #16 [BT]
+## Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #16 [BT]
 
 category: Emerger
 
@@ -3916,7 +4269,7 @@ location: DRY Leaf #3, Row 5, Right
 
 ------
 
-description: Quill Body Midge Emerger (Golden Olive) #12 [BT]
+## Quill Body Midge Emerger (Golden Olive) #12 [BT]
 
 category: Emerger
 
@@ -3936,7 +4289,7 @@ location: DRY Leaf #2, Row 4, Left
 
 ------
 
-description: Quill Body Midge Emerger (Golden Olive) #14 [BT]
+## Quill Body Midge Emerger (Golden Olive) #14 [BT]
 
 category: Emerger
 
@@ -3956,7 +4309,7 @@ location: DRY Leaf #2, Row 4, Middle
 
 ------
 
-description: Quill Body Midge Emerger (Golden Olive) #16 [BT]
+## Quill Body Midge Emerger (Golden Olive) #16 [BT]
 
 category: Emerger
 
@@ -3976,7 +4329,7 @@ location: DRY Leaf #2, Row 4, Right
 
 ------
 
-description: Quill Body Midge Emerger (Golden Olive no tail) #14 [BT]
+## Quill Body Midge Emerger (Golden Olive no tail) #14 [BT]
 
 category: Emerger
 
@@ -3994,7 +4347,7 @@ location: DRY Leaf #2, Row 4, Middle
 
 ------
 
-description: Quill Body Midge Emerger (Pink no tail) #12 [BT]
+## Quill Body Midge Emerger (Pink no tail) #12 [BT]
 
 category: Emerger
 
@@ -4012,7 +4365,7 @@ location: DRY Leaf #2, Row 2, Left
 
 ------
 
-description: Quill Body Midge Emerger (Pink no tail) #14 [BT]
+## Quill Body Midge Emerger (Pink no tail) #14 [BT]
 
 category: Emerger
 
@@ -4030,7 +4383,7 @@ location: DRY Leaf #2, Row 2, Middle
 
 ------
 
-description: Quill Body Midge Emerger (Pink no tail) #16 [BT]
+## Quill Body Midge Emerger (Pink no tail) #16 [BT]
 
 category: Emerger
 
@@ -4048,7 +4401,7 @@ location: DRY Leaf #2, Row 2, Right
 
 ------
 
-description: Red Bead Diawl Bach #10 [BT]
+## Red Bead Diawl Bach #10 [BT]
 
 category: Nymph
 
@@ -4070,7 +4423,7 @@ location: NYMPH Leaf #1, Row 3, Left
 
 ------
 
-description: Red Body Quill buzzer (Gold Bead) #12 [BT]
+## Red Body Quill buzzer (Gold Bead) #12 [BT]
 
 category: Nymph
 
@@ -4090,7 +4443,7 @@ location: NYMPH
 
 ------
 
-description: Red Tag #14 [BT]
+## Red Tag #14 [BT]
 
 category: Nymph
 
@@ -4108,7 +4461,7 @@ location: NYMPH Leaf #2, Row 4, Left
 
 ------
 
-description: Red Tag (Gold Bead) #14 [BT]
+## Red Tag (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -4126,7 +4479,7 @@ location: NYMPH Leaf #3, Row 6, Middle
 
 ------
 
-description: Red Tag (Gold Bead and weighted) #14 [BT]
+## Red Tag (Gold Bead and weighted) #14 [BT]
 
 category: Nymph
 
@@ -4144,7 +4497,7 @@ location: NYMPH Leaf #3, Row 4, Right
 
 ------
 
-description: Red Tag (hackle) #14 [BT]
+## Red Tag (hackle) #14 [BT]
 
 category: Dry
 
@@ -4164,7 +4517,7 @@ location: NYMPH Leaf #2, Row 4, Right
 
 ------
 
-description: Red Tag (hackle) #14 [HA]
+## Red Tag (hackle) #14 [HA]
 
 category: Dry
 
@@ -4182,7 +4535,7 @@ location: NYMPH Leaf #2, Row 4, Right
 
 ------
 
-description: Red Tag (hackle and wings) #14 [HA]
+## Red Tag (hackle and wings) #14 [HA]
 
 category: Dry
 
@@ -4202,7 +4555,7 @@ location: NYMPH Leaf #4, Row 2, Left
 
 ------
 
-description: Red Tag Once and Away #18
+## Red Tag Once and Away #18
 
 originator: Hans van Klinken
 
@@ -4222,7 +4575,7 @@ location: tying list
 
 ------
 
-description: Red Tag Spider #10
+## Red Tag Spider #10
 
 originator: Martin Joergensen (sort of)
 
@@ -4242,7 +4595,7 @@ location: tying list
 
 ------
 
-description: Red Zebra Midge Pupa (Black Bead) #14 [BT]
+## Red Zebra Midge Pupa (Black Bead) #14 [BT]
 
 category: Nymph
 
@@ -4264,7 +4617,7 @@ location: NYMPH Leaf #3, Row 4, Right
 
 ------
 
-description: Red Zebra Midge Pupa (Gold Bead) #14 [BT]
+## Red Zebra Midge Pupa (Gold Bead) #14 [BT]
 
 category: Nymph
 
@@ -4286,7 +4639,7 @@ location: NYMPH Leaf #3, Row 4, Left
 
 ------
 
-description: Red Zebra Midge Pupa (Yellow Bead) #14 [BT]
+## Red Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
 category: Nymph
 
@@ -4308,7 +4661,7 @@ location: NYMPH Leaf #3, Row 4, Middle
 
 ------
 
-description: Red IJssel Nymph (weighted) #10 [BT]
+## Red IJssel Nymph (weighted) #10 [BT]
 
 category: Nymph
 
@@ -4328,7 +4681,7 @@ location: NYMPH Leaf #2, Row 3, Right
 
 ------
 
-description: Red IJssel Nymph (weighted) #12 [BT]
+## Red IJssel Nymph (weighted) #12 [BT]
 
 category: Nymph
 
@@ -4348,7 +4701,7 @@ location: NYMPH  2, Row 3, Middle
 
 ------
 
-description: Red IJssel Nymph (weighted) #14 [BT]
+## Red IJssel Nymph (weighted) #14 [BT]
 
 category: Nymph
 
@@ -4368,9 +4721,9 @@ location: NYMPH Leaf #2, Row 3, Left
 
 ------
 
-description: Roman Moser's Balloon Caddis #10
+## Roman Moser's Balloon Caddis #10
 
-originator: Roman Moser (http://www.romanmoser.com)
+originator: [Roman Moser](http://www.romanmoser.com)
 
 hook: Kamasan B170 #10
 
@@ -4386,9 +4739,9 @@ thorax: Ginger Caddis Dubbing
 
 ------
 
-description: Roman Moser's Balloon Caddis #12
+## Roman Moser's Balloon Caddis #12
 
-originator: Roman Moser (http://www.romanmoser.com)
+originator: [Roman Moser](http://www.romanmoser.com)
 
 hook: Kamasan B170 #12
 
@@ -4404,7 +4757,7 @@ thorax: Ginger Caddis Dubbing
 
 ------
 
-description: Romy's Sand shrimp (Pink variant) #12 [BT]
+## Romy's Sand shrimp (Pink variant) #12 [BT]
 
 originator: Colin McLeod
 
@@ -4428,7 +4781,7 @@ location: NYMPH Leaf #4, Row 5, Right
 
 ------
 
-description: Romy's Sand shrimp (Red-brown variant) #12 [BT]
+## Romy's Sand shrimp (Red-brown variant) #12 [BT]
 
 originator: Colin McLeod
 
@@ -4452,7 +4805,7 @@ location: NYMPH Leaf #4, Row 5, Middle
 
 ------
 
-description: S&D Grub Czech Nymph Chartreuse (Parrott's) #12 [BT]
+## S&D Grub Czech Nymph Chartreuse (Parrott's) #12 [BT]
 
 originator: Steve Parrott
 
@@ -4478,7 +4831,7 @@ location: NYMPH Leaf #4, Row 4, Left
 
 ------
 
-description: S&D Grub Czech Nymph Chartreuse (Parrott's) #14 [BT]
+## S&D Grub Czech Nymph Chartreuse (Parrott's) #14 [BT]
 
 originator: Steve Parrott
 
@@ -4504,7 +4857,7 @@ location: NYMPH Leaf #4, Row 4, Middle
 
 ------
 
-description: Shad Head Red/White #4/0 [Spro]
+## Shad Head Red/White #4/0 [Spro]
 
 category: Pike
 
@@ -4524,7 +4877,7 @@ location: Tupperware
 
 ------
 
-description: Shad Head Orange/Green #4/0 [Spro]
+## Shad Head Orange/Green #4/0 [Spro]
 
 category: Pike
 
@@ -4544,7 +4897,7 @@ location: Tupperware
 
 ------
 
-description: Silver Stoat #6  [BT]
+## Silver Stoat #6  [BT]
 
 category: Salmon
 
@@ -4570,9 +4923,11 @@ location: WET
 
 ------
 
-description: Small Olive CDC Jig Head Nymph
+## Small Olive CDC Jig Head Nymph
 
-originator: Davie McPhail
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=uZzDoujFWZ8)
 
 category: Nymph
 
@@ -4592,11 +4947,81 @@ body: Natural Grey CDC Feather dyed Yellow
 
 thorax: Diamond-Brite Hare's Ear Dubbing or Similar.
 
-location: tbd
+location: tying list
 
 ------
 
-description: Stinchar Stoat #4 [BT]
+## Smoke fly (variant) #12
+
+category: Wet
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=SfJhO9sOh60)
+
+hook: Fulling Mill All-Purpose Medium #12
+
+thread: Uni-8/0 Black 
+
+rib: Fine Silver Wire
+
+body: Peacock Sword Tail (3 strands)
+
+hackle: Light Dun Hen (1 turn)
+
+head: Peacock Sword Tail (3 strands)
+
+location: tying list
+
+------
+
+## Soft Hackle Caddis Wet Fly #12
+
+category: Wet 
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=xLG3Jb6iKRs)
+
+hook: Fulling Mill All-Purpose Medium size 12
+
+thread: Yellow 
+
+body: Bleached Ginger Squirrel Dubbing
+
+hackle: Hen Pheasant Covert
+
+horns: Grey Fibres from the Bronze Mallard Feather
+
+head: Black Squirrel Dubbing
+
+location: tying list
+
+------
+
+## SR-71 Midge #16-#26
+
+category: Midge
+
+originator:
+
+source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=Chg3dy44T70)
+
+hook: Daiichi 1110 size #18–#26
+
+thread:  Danville 6/0 (70 Denier) 
+
+body:  Thread
+
+rib:  Hopper Juan's Slim Rib, Clear over Thread
+
+head:  Black Thread or colored with Marker.
+
+location: tying list
+
+------
+
+## Stinchar Stoat #4 [BT]
 
 category: Salmon
 
@@ -4622,7 +5047,7 @@ location: Pool12
 
 ------
 
-description: Stoats Tail #4 [BT]
+## Stoats Tail #4 [BT]
 
 category: Salmon
 
@@ -4648,7 +5073,7 @@ location: Pool12
 
 ------
 
-description: Stoats Tail #10 [BT]
+## Stoats Tail #10 [BT]
 
 category: Wet
 
@@ -4670,7 +5095,7 @@ location: WET Leaf #1, Row 4, Middle
 
 ------
 
-description: Stoats Tail #12 [BT]
+## Stoats Tail #12 [BT]
 
 category: Wet
 
@@ -4688,11 +5113,35 @@ hackle: Black Cock
 
 mfg: Bert Timmerman
 
-location: tbd
+location: tying list
 
 ------
 
-description: Talisker Touchdown (variant) #8 [BT]
+## Stuck In The Shuck Midge #16-24
+
+originator: [Charlie Craven](https://www.youtube.com/watch?v=9FS_Tqxf4t8)
+
+category: Dry
+
+hook: TMC 101 #16-24
+
+thread: Black 8/0 UNI
+
+shuck: Amber Darlon
+
+shellback: White Macrame Yarn or Flouro-Fiber
+
+abdomen:Black 8/0 UNI
+
+hackle: Grizzly Rooster Neck
+
+thorax: Peacock Herl
+
+location: tying list
+
+------
+
+## Talisker Touchdown (variant) #8 [BT]
 
 originator: Martin Joergensen/Henning Eskol
 
@@ -4708,7 +5157,7 @@ rib: UNI-French Silver Oval tinsel Md
 
 body: Orange Hare Dub (Davy Wooton SLF)
 
-beard_hackle: Red Golden Pheasant feather
+beard hackle: Red Golden Pheasant feather
 
 wing: Yellow Golden Pheasant feather
 
@@ -4722,7 +5171,7 @@ location: WET V?R?
 
 ------
 
-description: Tan and Pearl White Mudshrimp #12 [BT]
+## Tan and Pearl White Mudshrimp #12 [BT]
 
 category: Nymph
 
@@ -4744,7 +5193,7 @@ location: NYMPH Leaf #2, Row 6, Right
 
 ------
 
-description: Tan and Pearl Yellow Mudshrimp #12 [BT]
+## Tan and Pearl Yellow Mudshrimp #12 [BT]
 
 category: Nymph
 
@@ -4766,7 +5215,7 @@ location: NYMPH Leaf #2, Row 6, Middle
 
 ------
 
-description: Tangloppe #10 [UF]
+## Tangloppe #10 [UF]
 
 category: Baltic
 
@@ -4782,7 +5231,7 @@ location: Albatros vliegendoos
 
 ------
 
-description: Teal Blue and Silver #4 [BT]
+## Teal Blue and Silver #4 [BT]
 
 category: Salmon
 
@@ -4806,7 +5255,7 @@ location: Pool12
 
 ------
 
-description: Teal Blue and Silver #8 [BT]
+## Teal Blue and Silver #8 [BT]
 
 category: Wet
 
@@ -4830,7 +5279,7 @@ location: WET Leaf #3, Row 5, Left
 
 ------
 
-description: Teifi-Towy Sea Trout
+## Teifi-Towy Sea Trout
 
 category: Wet
 
@@ -4858,7 +5307,7 @@ location: tying list
 
 ------
 
-description: Teifi-Towy Sea Trout late season
+## Teifi-Towy Sea Trout late season
 
 category: Wet
 
@@ -4886,7 +5335,89 @@ location: tying list
 
 ------
 
-description: Thread Larvae Yellow #12 [BT]
+## The Bredbo Fly #12
+
+category: Wet fly
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=ER3x3qjq3_U)
+
+hook: size #12
+
+threads: Uni-8/0 Yellow and then finish with Black
+
+rib: Small Gold Wire
+
+body: Yellow Floss
+
+change thread.
+
+throat: Brown Partridge Fibres
+
+legs: Golden Pheasant Tippet Fibres
+
+wing: Hen Pheasant
+
+head: black thread
+
+cement:
+
+location: tying list
+
+------
+
+## Top Secret #18-#26
+
+category: Midge
+
+originator: Pat Dorsey
+
+source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=hX0onk3HiyQ)
+
+hook: TMC 2488 size #18–#26
+
+thread:  Dark Brown 8/0
+
+body:  Thread
+
+rib:   White 6/0 Uni White strand
+
+dubbing:  Superfine Dubbing, Rusty Brown
+
+wing: Glamour Madera
+
+location: tying list
+
+------
+
+## The Cutty Sunrise #8 [BT]
+
+categogory: Wet
+
+originator: [North 40 Fly Shop](https://www.youtube.com/watch?v=CMTamUL6P38)
+
+hook: Gamakatsu T10-6H #8
+
+thread: Veevus 8/0 Tan
+
+tail: Ringneck Red Pheasant feather
+
+rib: Ultra-wire Medium Gold
+
+body: Pheasant tail Natural
+
+thorax: UV2 Seal X-dubbing Golden Stone
+
+hackle: Ringneck Gold Pheasant (lower) feather
+
+mfg: Bert Timmerman
+
+location: tying list
+
+------
+
+## Thread Larvae Yellow #12 [BT]
 
 category: Buzzer
 
@@ -4906,7 +5437,7 @@ location: BUZZER Leaf #4, Row 6, Left
 
 ------
 
-description: Thread Larvae Yellow #14 [BT]
+## Thread Larvae Yellow #14 [BT]
 
 category: Buzzer
 
@@ -4926,7 +5457,7 @@ location: BUZZER Leaf #4, Row 6, Middle
 
 ------
 
-description: Thread Larvae Yellow #16 [BT]
+## Thread Larvae Yellow #16 [BT]
 
 category: Buzzer
 
@@ -4946,7 +5477,7 @@ location: BUZZER Leaf #4, Row 6, Right
 
 ------
 
-description: Thunder Stoat #4 [BT]
+## Thunder Stoat #4 [BT]
 
 category: Salmon
 
@@ -4972,7 +5503,7 @@ location: Pool12
 
 ------
 
-description: Too Simple Bloodworm #14 [BT]
+## Too Simple Bloodworm #14 [BT]
 
 category: Nymph
 
@@ -4988,7 +5519,7 @@ location: NYMPH Leaf #2, Row 6, Left
 
 ------
 
-description: Traffic Light buzzer Orange #12 [BT]
+## Traffic Light buzzer Orange #12 [BT]
 
 category: Nymph
 
@@ -5010,7 +5541,7 @@ location: BUZZER
 
 ------
 
-description: Traffic Light buzzer Yellow #10 [BT]
+## Traffic Light buzzer Yellow #10 [BT]
 
 category: Nymph
 
@@ -5032,7 +5563,7 @@ location: BUZZER
 
 ------
 
-description: Traffic Light buzzer Yellow #12 [BT]
+## Traffic Light buzzer Yellow #12 [BT]
 
 category: Nymph
 
@@ -5054,7 +5585,7 @@ location: BUZZER
 
 ------
 
-description Twist of Lemon
+## Twist of Lemon
 
 category: Steelhead
 
@@ -5078,7 +5609,7 @@ location: tying list
 
 ------
 
-description: Undertaker (variant) #6 [BT]
+## Undertaker (variant) #6 [BT]
 
 category: Salmon
 
@@ -5102,7 +5633,7 @@ location: tying list
 
 ------
 
-description: Water Boatman (Silver Corixa) #14 [BT]
+## Water Boatman (Silver Corixa) #14 [BT]
 
 category: Wet
 
@@ -5116,7 +5647,7 @@ location: NYMPH Leaf #1, Row 2, Right
 
 ------
 
-description: White Gull #2 [BT]
+## White Gull #2 [BT]
 
 category: Streamer
 
@@ -5126,7 +5657,7 @@ location: tbd
 
 ------
 
-description: White Moth
+## White Moth
 
 category: Dry Fly
 
@@ -5152,7 +5683,7 @@ location: tying list
 
 ------
 
-description: White Tag #14 [BT]
+## White Tag #14 [BT]
 
 category: Nymph
 
@@ -5170,7 +5701,7 @@ location: NYMPH Leaf #2, Row 2, Left
 
 ------
 
-description: White Zebra Nymph (Tungsten Bead) #12 [BT]
+## White Zebra Nymph (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -5192,7 +5723,7 @@ location: NYMPH Leaf #4, Row 3, Middle
 
 ------
 
-description: White Zonker #2/0 Scierra
+## White Zonker #2/0 Scierra
 
 categroy: Pike
 
@@ -5220,7 +5751,7 @@ location: Tupperware
 
 ------
 
-decription: Winter Glory (variant) #6 [BT]
+## Winter Glory (variant) #6 [BT]
 
 categroy: Streamer
 
@@ -5240,7 +5771,33 @@ location: Pool12
 
 ------
 
-description: Woodcock and Orange (Northern Spider style) #10 [BT]
+## Winter Midge Pupa #20
+
+category: Midge
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=A_IL5zPLyNI)
+
+hook: Fulling Mill Grab Gape #20 FM5027
+
+thread: Uni-8/0 Black
+
+breathers: White Floss
+
+rib: Xtra Small Silver Wire
+
+body: Dyed Black Pheasant Tail
+
+thorax cover: Dyed Black Pheasant Tail Fibres
+
+thorax: Dyed Black Squirrel Dubbing
+
+location: tying list
+
+------
+
+## Woodcock and Orange (Northern Spider style) #10 [BT]
 
 category: Spider
 
@@ -5258,7 +5815,7 @@ location: WET Leaf #4, Row 3, Left
 
 ------
 
-description: Woodcock and Orange (Northern Spider style) #12 [BT]
+## Woodcock and Orange (Northern Spider style) #12 [BT]
 
 category: Spider
 
@@ -5276,7 +5833,7 @@ location: WET Leaf #4, Row 3, Middle
 
 ------
 
-description: Woodcock and Orange (Northern Spider style) #14 [BT]
+## Woodcock and Orange (Northern Spider style) #14 [BT]
 
 category: Spider
 
@@ -5294,7 +5851,7 @@ location: tying list
 
 ------
 
-description: Woodcock and Red (Northern Spider style) #10 [BT]
+## Woodcock and Red (Northern Spider style) #10 [BT]
 
 category: Spider
 
@@ -5312,7 +5869,7 @@ location: tying list
 
 ------
 
-description: Woodcock and Red (Northern Spider style) #12 [BT]
+## Woodcock and Red (Northern Spider style) #12 [BT]
 
 category: Spider
 
@@ -5330,7 +5887,7 @@ location: tying list
 
 ------
 
-description: Woodcock and Red (Northern Spider style) #14 [BT]
+## Woodcock and Red (Northern Spider style) #14 [BT]
 
 category: Spider
 
@@ -5348,7 +5905,7 @@ location: tying list
 
 ------
 
-description: Woodcock and Red Brassie (Northern Spider style) #12 [BT]
+## Woodcock and Red Brassie (Northern Spider style) #12 [BT]
 
 category: Spider
 
@@ -5366,7 +5923,7 @@ location: tying list
 
 ------
 
-description: Woodcock and Red Brassie (Northern Spider style) #14 [BT]
+## Woodcock and Red Brassie (Northern Spider style) #14 [BT]
 
 category: Spider
 
@@ -5380,9 +5937,11 @@ hackle: Woodcock
 
 mfg: Bert Timmerman
 
+location: tying list
+
 ------
 
-description: Woodcock and Red Brassie (Northern Spider style) #16 [BT]
+## Woodcock and Red Brassie (Northern Spider style) #16 [BT]
 
 category: Spider
 
@@ -5396,9 +5955,11 @@ hackle: Woodcock
 
 mfg: Bert Timmerman
 
+location: tying list
+
 ------
 
-description: X-Caddis
+## X-Caddis
 
 originator: Craig Matthew and John Juracek
 
@@ -5422,7 +5983,7 @@ location: tying list
 
 ------
 
-description: Yellow Body Quill buzzer (Tungsten Bead) #12 [BT]
+## Yellow Body Quill buzzer (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -5442,7 +6003,7 @@ location: NYMPH
 
 ------
 
-description: Yellow Isoperla (female variant) #12 [BT]
+## Yellow Isoperla (female variant) #12 [BT]
 
 category: Dry
 
@@ -5462,7 +6023,7 @@ location: DRY Leaf #3, Row 2, Left
 
 ------
 
-description: Yellow Isoperla (female variant) #14 [BT]
+## Yellow Isoperla (female variant) #14 [BT]
 
 category: Dry
 
@@ -5482,7 +6043,7 @@ location: DRY Leaf #3, Row 2, Middle
 
 ------
 
-description: Yellow Isoperla (female variant) #16 [BT]
+## Yellow Isoperla (female variant) #16 [BT]
 
 category: Dry
 
@@ -5502,7 +6063,7 @@ location: DRY Leaf #3, Row 2, Right
 
 ------
 
-description: Yellow Isoperla (male variant) #12 [BT]
+## Yellow Isoperla (male variant) #12 [BT]
 
 category: Dry
 
@@ -5524,7 +6085,7 @@ location: DRY Leaf #3, Row 3, Left
 
 ------
 
-description: Yellow Isoperla (male variant) #14 [BT]
+## Yellow Isoperla (male variant) #14 [BT]
 
 category: Dry
 
@@ -5546,7 +6107,7 @@ location: DRY Leaf #3, Row 3, Middle
 
 ------
 
-description: Yellow Isoperla (male variant) #16 [BT]
+## Yellow Isoperla (male variant) #16 [BT]
 
 category: Dry
 
@@ -5568,7 +6129,7 @@ location: DRY Leaf #3, Row 3, Right
 
 ------
 
-description: Yellow Marabou Streamer #6 [BT]
+## Yellow Marabou Streamer #6 [BT]
 
 category: Streamer
 
@@ -5586,7 +6147,7 @@ mfg: Bert Timmerman
 
 ------
 
-description: Yellow Mayfly Grub #12 [BT]
+## Yellow Mayfly Grub #12 [BT]
 
 category: Nymph
 
@@ -5606,7 +6167,7 @@ location: NYMPH Leaf #2, Row 5, Middle
 
 ------
 
-description: Yellow Sinker #2/0 Scierra
+## Yellow Sinker #2/0 Scierra
 
 category: Pike
 
@@ -5638,7 +6199,7 @@ location: Tupperware
 
 ------
 
-description: Yellow Zebra Nymph (Tungsten Bead) #12 [BT]
+## Yellow Zebra Nymph (Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -5660,7 +6221,7 @@ location: NYMPH Leaf #4, Row 3, Right
 
 ------
 
-description: (fly brown/grey/gold) # [RS]
+## (fly brown/grey/gold) # [RS]
 
 category: Dry
 
@@ -5672,7 +6233,7 @@ location:
 
 ------
 
-description: (vlieg bruin/grijs/wit) # [RS]
+## (vlieg bruin/grijs/wit) # [RS]
 
 category: Dry
 

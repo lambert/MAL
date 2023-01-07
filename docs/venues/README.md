@@ -80,6 +80,24 @@
 
 #### Kent
 
+##### Deal
+
+##### Dover
+
+##### Folkestone
+
+##### Herne Bay
+
+##### Hythe
+
+##### New Romney
+
+##### Ramsgate
+
+##### Sandwich
+
+##### Walmer
+
 ### Scotland
 
 #### Dumfries and Galloway

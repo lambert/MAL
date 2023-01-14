@@ -6,9 +6,9 @@ Below is a list of fly pattern recipes in alphabetical order.
 
 ## Aqua tag #14 [BT]
 
-originator: unknown
-
 category: Nymph
+
+originator: unknown
 
 hook: Grey Matzo Dry fly BL #14
 
@@ -296,7 +296,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Bibio #14 [BT]
 
@@ -318,7 +318,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Bibio Marci (variant) #10 [BT]
 
@@ -342,7 +342,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 4, Left
 
-------
+---
 
 ## Bibio Marci (variant) #12 [BT]
 
@@ -366,7 +366,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 4, Middle
 
-------
+---
 
 ## Bibio Marci (variant) #14 [BT]
 
@@ -390,7 +390,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Big Intervale (variant) #6 [BT]
 
@@ -416,7 +416,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Black Adult Midge (Duck Fly)
 
@@ -446,7 +446,7 @@ hackle: Dyed Black Hen.
 
 location: tying list
 
-------
+---
 
 ## Black and Grey Streamer #4 [HP]
 
@@ -462,13 +462,13 @@ seller: Henk Peeters
 
 location: Pool12
 
-------
+---
 
 ## Black and Orange Streamer #4 [HP]
 
 category: Salmon
 
-hook: Salmon haak #4
+hook: Salmon #4
 
 thread: black
 
@@ -482,13 +482,13 @@ seller: Henk Peeters
 
 location: Pool12
 
-------
+---
 
 ## Black and Orange Streamer (winged) #4 [HP]
 
 category: Salmon
 
-hook: Salmon haak #4
+hook: Salmon #4
 
 thread: Black
 
@@ -504,7 +504,31 @@ seller: Henk Peeters
 
 loaction: Pool12
 
-------
+---
+
+## Black Bead Head Red Copper Nymph #18
+
+category: Nymph
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=m--3W8aHRyg)
+
+hook: AF3671 #18
+
+thread: UNI - 6/0W Red
+
+bead: Black Bead 2 mm
+
+rib: Red Copper wire Small
+
+body: two layers of thread
+
+thorax: Peacock Herl
+
+location tying list
+
+---
 
 ## Black Hairwing #8 [BT]
 
@@ -522,7 +546,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 4, Left
 
-------
+---
 
 ## Black Hairwing #10 [BT]
 
@@ -544,7 +568,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 4, Middle
 
-------
+---
 
 ## Black Sheep #2 [BT]
 
@@ -574,7 +598,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Black Zebra Midge Pupa (Black Bead) #14 [BT]
 
@@ -596,7 +620,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 3, Right
 
-------
+---
 
 ## Black Pennell (bead head) #8 [BT]
 
@@ -622,7 +646,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 1, Left
 
-------
+---
 
 ## Black Pennell #10 [BT]
 
@@ -646,7 +670,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 5, Middle
 
-------
+---
 
 ## Black Stonefly #14 [HA]
 
@@ -658,7 +682,7 @@ seller: Hengelsport Amstelveen
 
 location: NYMPH Leaf #4, Row 3, Left
 
-------
+---
 
 ## Black Streamer # [HF]
 
@@ -672,7 +696,7 @@ seller: Handy Fish
 
 location: unknown
 
-------
+---
 
 ## Black Zebra Midge Pupa (Gold Bead) #14 [BT]
 
@@ -694,7 +718,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 3, Left
 
-------
+---
 
 ## Black Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
@@ -716,7 +740,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 3, Middle
 
-------
+---
 
 ## Blue and White Sandeel Surf Candy #2 [HP]
 
@@ -738,7 +762,7 @@ seller: Henk Peeters
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Blue and White tail and Purple UV #6 [BT]
 
@@ -756,7 +780,7 @@ mfg: Bert Timmerman
 
 location: 
 
-------
+---
 
 ## Blue Charm #6 [BT]
 
@@ -782,7 +806,35 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
+
+## Blue Flash Damsel #10
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=u-2XkFsnHrk)
+
+category: Nymph/Woolly Bugger
+
+hook: size #10 Lure
+
+thread: Uni-8/0 Olive
+
+tail: Olive Marabou (twice the length of the shank) and Blue Holographic Flash (4 strands on both sides, twice the length of the shank)
+
+rib: Blue Mylar Tinsel and UTC Chartreuse Wire (3 turns or so)
+
+body: Olive Chenille
+
+body hackle: Olive Hen or Cock
+
+dubbing: black glinster dubbing
+
+head: 3 mm Gold Bead / 3 mm Tungsten Bead
+
+location: tying list
+
+---
 
 ## Blue Stoat #4 [BT]
 
@@ -808,7 +860,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Borsteormen Olive/Brown #6 [UF]
 
@@ -824,7 +876,7 @@ seller: Ribe Jagt & Fiskeri
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Brown and Yellow Matuka #12 [HA]
 
@@ -846,7 +898,7 @@ seller: Hengelsport Amstelveen
 
 location: WET Leaf #2, Row 5, Left
 
-------
+---
 
 ## Brown Corixa (variant) # [RS]
 
@@ -858,7 +910,7 @@ mfg: Rolf Solli
 
 location: unknown
 
-------
+---
 
 ## Brown Hairwing #10 [BT]
 
@@ -876,7 +928,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 5, Middle
 
-------
+---
 
 ## Brown Hen (palmered) #6 [BT]
 
@@ -892,7 +944,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Brown Hen (palmered) #14 [BT]
 
@@ -908,7 +960,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Brown Hen and Claret #10 [BT]
 
@@ -932,7 +984,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 2, Left
 
-------
+---
 
 ## Brown Hen and Orange (palmered) #10 [BT]
 
@@ -950,7 +1002,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 6, Left
 
-------
+---
 
 ## Brown Hen and Orange (palmered) #12 [BT]
 
@@ -968,7 +1020,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 6, Middle
 
-------
+---
 
 ## Brown Hen and Red (Northern Spider style) #10 [BT]
 
@@ -986,7 +1038,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 2, Left
 
-------
+---
 
 desciption: Brown Hen and Red (Northern Spider style) #12 [BT]
 
@@ -1004,7 +1056,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 2, Middle
 
-------
+---
 
 desciption: Brown Hen and Red (Northern Spider style) #14 [BT]
 
@@ -1022,7 +1074,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Brown Hen and Yellow (Northern Spider style) #10 [BT]
 
@@ -1040,7 +1092,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 1, Left
 
-------
+---
 
 ## Brown Hen and Yellow (Northern Spider style) #12 [BT]
 
@@ -1058,7 +1110,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 1, Middle
 
-------
+---
 
 ## Brown Hen and Yellow (Northern Spider style) #14 [BT]
 
@@ -1076,7 +1128,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Brown Pennell (variant) #10 [BT]
 
@@ -1100,7 +1152,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 6, Middle
 
-------
+---
 
 ## Bug (weighted) #14 [BT]
 
@@ -1120,7 +1172,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 4, Left
 
-------
+---
 
 ## Camel Zebra Midge Pupa (Black Bead) #14 [BT]
 
@@ -1142,7 +1194,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 1, Right
 
-------
+---
 
 ## Camel Zebra Midge Pupa (Gold Bead) #14 [BT]
 
@@ -1164,7 +1216,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 1, Left
 
-------
+---
 
 ## Camel Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
@@ -1186,7 +1238,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 1, Middle
 
-------
+---
 
 ## Carrot Nymph (Gold Bead) #12 [BT]
 
@@ -1204,7 +1256,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 1, Middle
 
-------
+---
 
 ## Cassius #6 [BT]
 
@@ -1228,7 +1280,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## CDC Dun Light Yellow #12 [HP]
 
@@ -1250,7 +1302,7 @@ mfg: Henk Peeters
 
 location: wishlist
 
-------
+---
 
 ## CDC Dun Light Yellow #16 [HP]
 
@@ -1272,7 +1324,7 @@ mfg: Henk Peeters
 
 location: wishlist
 
-------
+---
 
 ## CDC F-fly Black #16 [BT]
 
@@ -1294,7 +1346,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 5, Left
 
-------
+---
 
 ## CDC F-fly Black (thin) #16 [BT]
 
@@ -1316,7 +1368,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 5, Right
 
-------
+---
 
 ## CDC F-fly Bordeaux #16 [BT]
 
@@ -1338,7 +1390,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 4, Left
 
-------
+---
 
 ## CDC F-fly Bordeaux (thin) #16 [BT]
 
@@ -1360,7 +1412,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 4, Right
 
-------
+---
 
 ## CDC F-fly Camel #16 [BT]
 
@@ -1382,7 +1434,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 6, Left
 
-------
+---
 
 ## CDC F-fly Camel (thin) #16 [BT]
 
@@ -1404,7 +1456,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 6, Right
 
-------
+---
 
 ## CDC F-fly Olive #16 [BT]
 
@@ -1426,7 +1478,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 3, Right
 
-------
+---
 
 ## CDC F-fly Olive (thin) #16 [BT]
 
@@ -1448,7 +1500,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 3, Right
 
-------
+---
 
 ## CDC Sedge Hatcher (Baetis variant) #12 [BT]
 
@@ -1470,7 +1522,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 6, Left
 
-------
+---
 
 ## CDC Sedge Hatcher (Baetis variant) #14 [BT]
 
@@ -1492,7 +1544,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 6, Center
 
-------
+---
 
 ## CDC Sedge Hatcher (Baetis variant) #16 [BT]
 
@@ -1514,7 +1566,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 6, Right
 
-------
+---
 
 ## CDC Sedge Hatcher (Caddis Green variant) #12 [BT]
 
@@ -1536,7 +1588,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 5, Left
 
-------
+---
 
 ## CDC Sedge Hatcher (Caddis Green variant) #14 [BT]
 
@@ -1558,7 +1610,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 5, Center
 
-------
+---
 
 ## CDC Sedge Hatcher (Caddis Green variant) #16 [BT]
 
@@ -1580,7 +1632,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 5, Right
 
-------
+---
 
 ## CDC Sedge #12 [BT]
 
@@ -1600,7 +1652,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #1, Row 1, Left
 
-------
+---
 
 ## Chantry #10 [BT]
 
@@ -1622,7 +1674,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 1, Middle
 
-------
+---
 
 ## Clynelish (no tail variant) #4 [BT]
 
@@ -1646,7 +1698,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Danish Pastry #2 [BT]
 
@@ -1672,7 +1724,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Den Blå Frede #6 [BT]
 
@@ -1700,7 +1752,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Den Blå Frede (light) #6 [BT]
 
@@ -1724,7 +1776,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Den Grå Frede #6 [BT]
 
@@ -1752,7 +1804,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Disco Magnus #6 [BT]
 
@@ -1780,13 +1832,13 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Double Legs (variant) #10 [BT]
 
-category: Emerger
-
 originator: Erik Andreasson
+
+category: Emerger
 
 hook: TMC 100 #10
 
@@ -1806,7 +1858,31 @@ mfg: Bert Timmerman
 
 location: WET Leaf #2, Row 3, Left
 
-------
+---
+
+## Dry Fly Midge #18
+
+category: Dry
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=AI-Zf0ULwus)
+
+hook: TMC 100 #18
+
+thread: UNI-Thread 40D Trico
+
+tail: 2 Weasel hairs
+
+body: Small Silver Tinsel 
+
+wings: 2 Hen Feather tips
+
+hackle: small Black hackle
+
+location: tying list
+
+---
 
 ## Efterårsfluen #6 [UF]
 
@@ -1834,7 +1910,7 @@ seller: Ribe Jagt & Fiskeri
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Efterårsfluen (Autumn Fly)
 
@@ -1858,7 +1934,7 @@ front hackle: Red golden pheasant breast feather
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## EP Kutling #6 [UF]
 
@@ -1876,7 +1952,7 @@ seller: Lemvig Sport & Natur
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## EZ Nymph #12 [BT]
 
@@ -1894,7 +1970,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 5, Left
 
-------
+---
 
 ## EZ Nymph (Gold Bead) #12 [BT]
 
@@ -1916,7 +1992,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 5, Left
 
-------
+---
 
 ## EZ Nymph (weighted) #12 [BT]
 
@@ -1936,7 +2012,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 5, Right
 
-------
+---
 
 ## Fire Orange Zebra Midge Pupa (Green Bead) #16 [BT]
 
@@ -1958,7 +2034,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 2, Right
 
-------
+---
 
 ## Flash Jujubee #18
 
@@ -1982,7 +2058,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Floating Green Geany #4/0 Scierra
 
@@ -2002,7 +2078,7 @@ barcode: 5_706301_617439
 
 location: Tupperware
 
-------
+---
 
 ## Fluo Green Wooly Bugger (Tungsten Gold Bead) #4 [BT]
 
@@ -2024,7 +2100,7 @@ mfg: Bert Timmerman
 
 location:
 
-------
+---
 
 ## Forårsfluen #6 [UF]
 
@@ -2052,7 +2128,7 @@ seller: Lemvig Sport & Natur / Ribe Jagt & Fiskeri
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Genner Bug (Fire Orange variant) #8 [BT]
 
@@ -2076,7 +2152,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #3, Row 1, Left
 
-------
+---
 
 ## Glödhäck (variant) #6 [BT]
 
@@ -2106,7 +2182,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Golden Olive CDC emerger #12 [BT]
 
@@ -2126,7 +2202,7 @@ wing: CDC natural Puff
 
 mfg: Bert Timmerman
 
-------
+---
 
 ## Golden Olive CDC emerger #14 [BT]
 
@@ -2148,7 +2224,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 1, Middle
 
-------
+---
 
 ## Golden Olive CDC emerger #16 [BT]
 
@@ -2168,7 +2244,7 @@ wing: CDC natural Puff
 
 mfg: Bert Timmerman
 
-------
+---
 
 ## Grannom (Green Highlander variant) #12 [BT]
 
@@ -2192,7 +2268,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 6, Left
 
-------
+---
 
 ## Grannom (Green Highlander variant) #14 [BT]
 
@@ -2216,7 +2292,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 6, Middle
 
-------
+---
 
 ## Grannom (Green Highlander variant) #16 [BT]
 
@@ -2240,7 +2316,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 6, Right
 
-------
+---
 
 ## Grannom (Neon Chartreuse variant) #12 [BT]
 
@@ -2264,7 +2340,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 5, Left
 
-------
+---
 
 ## Grannom (Neon Chartreuse variant) #14 [BT]
 
@@ -2288,7 +2364,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 5, Middle
 
-------
+---
 
 ## Grannom (Neon Chartreuse variant) #16 [BT]
 
@@ -2312,7 +2388,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 5, Right
 
-------
+---
 
 ## Gravel Bed Wet Fly #14
 
@@ -2330,7 +2406,7 @@ hackle: Dyed Black Cock or Hen
 
 location: tying list
 
-------
+---
 
 ## Gravel Bed Wet Fly #16
 
@@ -2348,7 +2424,7 @@ hackle: Dyed Black Cock or Hen
 
 location: tying list
 
-------
+---
 
 ## Gray Marlow #8 [BT]
 
@@ -2370,7 +2446,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Gray Marlow #10 [BT]
 
@@ -2392,7 +2468,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 3, Middle
 
-------
+---
 
 ## Gray Marlow #12 [BT]
 
@@ -2414,7 +2490,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Grayling Nymph Pearl White (Black Bead) #14 [BT]
 
@@ -2434,7 +2510,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 5, Right
 
-------
+---
 
 ## Grayling Nymph Pearl Yellow (Black Bead) #14
 
@@ -2454,7 +2530,35 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 5, Middle
 
-------
+---
+
+## Green Banana Caddis #16-#18
+
+category: Emerger
+
+originator:
+
+source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=-hNyklW_l-U)
+
+hook: Firehole 317 size #16-#18
+
+thread: Uni 8/0, Olive Dun 
+
+bead: Black Brass or Tungsten
+
+wire: UTC small Sculpin Olive or Olive 
+
+body: Hareline Micro Chenille, Pale Olive 
+
+flash: Mirage Flashabou, Opal
+
+legs/buds: Olive Brama Hen or Similar 
+
+dubbing: Any Bushy Dubbing in Brown and Black Haretron for the Head. Combed Out.
+
+location: tying list
+
+---
 
 ## Green Bead Diawl Bach #10 [BT]
 
@@ -2476,7 +2580,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 3, Right
 
-------
+---
 
 ## Green Lantern (variant) #6 [BT]
 
@@ -2506,7 +2610,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Green Sinker #2/0 Scierra
 
@@ -2538,7 +2642,7 @@ barcode: 5_706301_617538
 
 location: Tupperware
 
-------
+---
 
 ## Green Tag (Yellow Bead) #14 [BT]
 
@@ -2558,7 +2662,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 1, Middle
 
-------
+---
 
 ## Green Tag (Green Bead) #14 [??]
 
@@ -2576,7 +2680,7 @@ mfg: ??
 
 location: NYMPH Leaf #3, Row 1, Left-midden
 
-------
+---
 
 ## Green Tag (Green Bead) #14 [BT]
 
@@ -2596,7 +2700,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 1, Left-midden
 
-------
+---
 
 ## Green Tag (hackle) #14 [BT]
 
@@ -2616,7 +2720,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 2, Right
 
-------
+---
 
 ## Green Wolly Chenille #10 [BT]
 
@@ -2628,7 +2732,7 @@ body: Textreme Wolly Chenille 73-Green
 
 mfg: Bert Timmerman
 
-------
+---
 
 ## Green Zonker #2/0 Scierra
 
@@ -2656,7 +2760,7 @@ barcode: 5_706301_617477
 
 location: Tupperware
 
-------
+---
 
 ## Green Zulu # [??]
 
@@ -2670,7 +2774,7 @@ body: Green Ice dubbing
 
 hackle: black hen
 
-------
+---
 
 ## Grey Shrimp # [HF]
 
@@ -2680,7 +2784,7 @@ body: Grey
 
 seller: Handy Fish
 
-------
+---
 
 ## Grizzly CDC Sedge #12 [HP]
 
@@ -2700,7 +2804,7 @@ seller: Henk Peeters
 
 location: DRY Leaf #1, Row 2, Left
 
-------
+---
 
 ## Grizzly CDC Sedge #16 [HP]
 
@@ -2720,7 +2824,7 @@ seller: Henk Peeters
 
 location: DRY Leaf #1, Row 2, Right
 
-------
+---
 
 ## Grizzly Palmer Streamer #6 [BT]
 
@@ -2736,7 +2840,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Grizzly Palmer #12 [BT]
 
@@ -2752,7 +2856,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 1, Left
 
-------
+---
 
 ## Groene Harder #10 [BT]
 
@@ -2772,7 +2876,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Grøn Multe #10 [BT]
 
@@ -2790,7 +2894,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Hairwing Mayfly (Light Olive variant) #10 [BT]
 
@@ -2816,7 +2920,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 2, Left
 
-------
+---
 
 ## Hairwing Mayfly (Light Olive variant) #12 [BT]
 
@@ -2842,7 +2946,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 2, Middle
 
-------
+---
 
 ## HVK Klinkhamer BWO
 
@@ -2862,7 +2966,7 @@ thorax: Semperfli Straggle String SF0050 Black
 
 mfg: The Essential Fly
 
-------
+---
 
 ## HVK Klinkhamer Dark Olive
 
@@ -2882,7 +2986,7 @@ thorax: Semperfli Straggle String SF0050 Black
 
 mfg: The Essential Fly
 
-------
+---
 
 ## HVK Klinkhamer March Brown
 
@@ -2904,7 +3008,7 @@ mfg: The Essential Fly
 
 location: tying list
 
-------
+---
 
 ## Helen's Special #8
 
@@ -2930,7 +3034,7 @@ throat: Orange cock hackle fibers
 
 location: tying list
 
-------
+---
 
 ## Herring Hairwing #12 [BT]
 
@@ -2950,7 +3054,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 2, Left
 
-------
+---
 
 ## Herring Nymph with Chartreuse tail #12 [BT]
 
@@ -2972,7 +3076,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 1, Left
 
-------
+---
 
 ## Hot Orange Nosed Magnus,#6 [BT]
 
@@ -3002,7 +3106,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Hot Pink Copper Jane Jig Nymph (Pink Bead) #12 [BT]
 
@@ -3022,7 +3126,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 6, Left
 
-------
+---
 
 ## Hot Pink Tag Jig Nymph (Tungsten Bead) #12 [BT]
 
@@ -3042,7 +3146,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 5, Left
 
-------
+---
 
 ## Hot Pink Tag Nymph (Tungsten Bead) #14 [BT]
 
@@ -3062,7 +3166,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #?, Row
 
-------
+---
 
 ## Hot Pink Tag Nymph (Tungsten Bead) #16 [BT]
 
@@ -3082,7 +3186,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #?, Row
 
-------
+---
 
 ## Hot Pink Zebra Nymph (Tungsten Bead) #12 [BT]
 
@@ -3104,7 +3208,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 3, Right
 
-------
+---
 
 ## Hot Pink Zebra Nymph (Tungsten Bead) #14 [BT]
 
@@ -3126,7 +3230,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #?, Row
 
-------
+---
 
 ## Hot Pink Zebra Nymph (Tungsten Bead) #16 [BT]
 
@@ -3148,7 +3252,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #?, Row
 
-------
+---
 
 ## Klympen (variant) #6 [BT]
 
@@ -3172,7 +3276,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Lady Caroline (variant) [BT]
 
@@ -3197,7 +3301,7 @@ wings: Two strips of Mallard showing brown points and light roots.
 
 location: tying list
 
-------
+---
 
 ## Low Water Baetis #14 [BT]
 
@@ -3219,7 +3323,7 @@ head: working thread
 
 location: DRY Leaf #3, Row 4, Middle
 
-------
+---
 
 ## Mallard Magnus #6 [UF]
 
@@ -3249,7 +3353,7 @@ seller: Ribe Jagt & Fiskeri
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Martin's Mundane Crazy Dane (GP variant) #6 [BT]
 
@@ -3271,7 +3375,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Martin's Mundane Crazy Dane (PH variant) #6 [BT]
 
@@ -3293,7 +3397,7 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Martini Cadis Emerger #16-#20
 
@@ -3317,7 +3421,7 @@ head:  Dark Brown Dubbing
 
 location: tying list
 
-------
+---
 
 ## Medicine (variant) #6
 
@@ -3341,7 +3445,7 @@ head: tying thread (Uni Fire Orange 8/0)
 
 location: Salmon2
 
-------
+---
 
 ## Mickey Finn #6 [HF]
 
@@ -3363,13 +3467,13 @@ seller: Handy Fish
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Micro Baetis Nymph White (variant) #16 [BT]
 
-originator: Lucian Vasies
-
 category: Nymph
+
+originator: Lucian Vasies
 
 hook: Grey Matzo Shrimp BL #16
 
@@ -3389,13 +3493,13 @@ mfg: Bert Timmerman
 
 location: Nymph Leaf #4, Row 6, Right
 
-------
+---
 
 ## Montana Bucktail
 
-originator: unknown
-
 category: Dry
+
+originator: unknown
 
 hook: #6 - 10 dry fly
 
@@ -3413,13 +3517,15 @@ wing: Deer hair
 
 location: tying list
 
-------
+---
 
 ## Mustard Green Drake Emerger #14
 
-source: [Davie McPhail](https://www.youtube.com/watch?v=ZJWmnmfu908)
-
 category: Emerger
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=ZJWmnmfu908)
 
 hook: Fulling Mill Czech Nymph size 14
 
@@ -3435,15 +3541,15 @@ thorax: Olive Seals Fur or Sub
 
 location: tying list
 
-------
+---
 
 ## Neep #8
+
+category: Salmon
 
 originator: Paul Marshall and Gene Young
 
 source: [Scott Jackson](https://www.youtube.com/watch?v=_UNeSkW2TRI)
-
-category: Salmon
 
 hook: size #8 Double 
 
@@ -3459,13 +3565,13 @@ wing: Yellow arctic fox then grey squirrel dyed black with peacock sword fibres 
 
 throat: Hen hackle fibres dyed brown
 
-------
+---
 
 ## October Caddis
 
-originator: unknown
-
 category: Dry
+
+originator: unknown
 
 hook: #8 - 12 Dry Fly (straight or curved)
 
@@ -3485,15 +3591,15 @@ cement: .
 
 location: tying list
 
-------
+---
 
 ## Olive Adult Midge
+
+category: Wet
 
 originator:
 
 source: [Davy McPhail](https://www.youtube.com/watch?v=GrpUqv8gh5o)
-
-category: Wet
 
 hook: TMC 2487 #14
 
@@ -3515,7 +3621,7 @@ hackle: Whiting Light Dun Hen
 
 location: tying list
 
-------
+---
 
 ## Olive CDC Sedge #16 [HP]
 
@@ -3535,7 +3641,7 @@ seller: Henk Peeters
 
 location: DRY Leaf #1, Row 3, Right
 
-------
+---
 
 ## Olive Zebra Midge Pupa (Black Bead) #14 [BT]
 
@@ -3557,7 +3663,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 2, Right
 
-------
+---
 
 ## Olive Zebra Midge Pupa (Gold Bead) #14 [BT]
 
@@ -3579,7 +3685,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 2, Left
 
-------
+---
 
 ## Olive Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
@@ -3601,7 +3707,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 2, Middle
 
-------
+---
 
 ## Olive and White Sandeel Surf Candy #4 [HP]
 
@@ -3625,7 +3731,7 @@ seller: Henk Peeters
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Olive Yellow Grub (Gold Bead) #12 [BT]
 
@@ -3645,7 +3751,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 6, Right
 
-------
+---
 
 ## Olive Yellow Grub (Gold Bead) #14 [BT]
 
@@ -3665,7 +3771,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 6, Left
 
-------
+---
 
 ## Olive Yellow Mayfly grub #12 [BT]
 
@@ -3685,7 +3791,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 5, Right
 
-------
+---
 
 ## Orange and Blue Nymph (Gold Bead) #14 [BT]
 
@@ -3705,7 +3811,7 @@ body: Hends Gleamy Dubbing GD05
 
 location: NYMPH Leaf #4, Row 1, Right
 
-------
+---
 
 ## Orange and Red Salmon Streamer #4 [HP]
 
@@ -3721,7 +3827,7 @@ seller: Henk Peeters
 
 location: Pool12
 
-------
+---
 
 ## Orange IJssel Nymph (weighted) #12 [BT]
 
@@ -3743,7 +3849,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 1, Right
 
-------
+---
 
 ## Orange Witch #6 [BT]
 
@@ -3771,7 +3877,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Orange Zonker #2/0 Scierra
 
@@ -3799,7 +3905,7 @@ barcode: 5_706301_617507
 
 location: Tupperware
 
-------
+---
 
 ## Pattegrisen Pink #4 [UF]
 
@@ -3817,7 +3923,7 @@ seller: Lemvig Sport & Natur
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Peach Streamer #6 [BT]
 
@@ -3831,13 +3937,13 @@ mfg: Bert Timmerman
 
 location: Groene vliegendoos
 
-------
+---
 
 ## Peacock and Black (variant)
 
-source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
-
 category: Wet
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
 
 hook: Kamasan B175 size 8
 
@@ -3855,7 +3961,7 @@ cheeks: Goose biots dyed lime green
 
 location: tying list
 
-------
+---
 
 ## Peacock and Black (Chinese Red variant) #8 [BT]
 
@@ -3881,7 +3987,7 @@ mfg: Bert Timmerman
 
 location: Wet fly box ?
 
-------
+---
 
 ## Peacock and Black (Neon Chartreuse variant) #8 [BT]
 
@@ -3907,7 +4013,7 @@ mfg: Bert Timmerman
 
 location: Wet fly box ?
 
-------
+---
 
 ## Peacock Herl Grub #14 [BT]
 
@@ -3923,7 +4029,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 5, Left
 
-------
+---
 
 ## Pheasant Tail Nymph #14 [BT]
 
@@ -3943,7 +4049,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 6, Right
 
-------
+---
 
 ## Pheasant Tail Peacock Herl Nymph #12 [BT]
 
@@ -3963,7 +4069,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 6, Left
 
-------
+---
 
 ## Phil White's Adult Midge #14 [BT]
 
@@ -3987,7 +4093,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 1, Left
 
-------
+---
 
 ## Phil White's Adult Midge #16 [BT]
 
@@ -4011,7 +4117,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 1, Middle
 
-------
+---
 
 ## Phil White's Adult Midge #18 [BT]
 
@@ -4035,7 +4141,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #4, Row 1, Right
 
-------
+---
 
 ## Poison Tung #16
 
@@ -4059,7 +4165,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Purple and Fluo Yellow Dog Nobbler (weighted) #6 [BT]
 
@@ -4079,7 +4185,7 @@ mfg: Bert Timmerman
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Purple and Orange Dog Nobbler #8 [HT]
 
@@ -4099,7 +4205,7 @@ mfg: Hessel Timmerman
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Purple and Orange Shrimp
 
@@ -4125,7 +4231,7 @@ front hackle: Purple hen
 
 location: tying list
 
-------
+---
 
 ## Purple and Red Salmon Streamer #4 [HP]
 
@@ -4141,7 +4247,7 @@ seller: Henk Peeters
 
 location: Pool12
 
-------
+---
 
 ## Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #12 [BT]
 
@@ -4163,7 +4269,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 6, Left
 
-------
+---
 
 ## Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #14 [BT]
 
@@ -4185,7 +4291,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 6, Middle
 
-------
+---
 
 ## Quill Body and Peacock Thorax Midge Emerger (Golden Olive) #16 [BT]
 
@@ -4207,7 +4313,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 6, Right
 
-------
+---
 
 ## Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #12 [BT]
 
@@ -4227,7 +4333,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 5, Left
 
-------
+---
 
 ## Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #14 [BT]
 
@@ -4247,7 +4353,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 5, Middle
 
-------
+---
 
 ## Quill Body and Peacock Thorax Midge Emerger (Golden Olive no tail) #16 [BT]
 
@@ -4267,7 +4373,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 5, Right
 
-------
+---
 
 ## Quill Body Midge Emerger (Golden Olive) #12 [BT]
 
@@ -4287,7 +4393,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 4, Left
 
-------
+---
 
 ## Quill Body Midge Emerger (Golden Olive) #14 [BT]
 
@@ -4307,7 +4413,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 4, Middle
 
-------
+---
 
 ## Quill Body Midge Emerger (Golden Olive) #16 [BT]
 
@@ -4327,7 +4433,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 4, Right
 
-------
+---
 
 ## Quill Body Midge Emerger (Golden Olive no tail) #14 [BT]
 
@@ -4345,7 +4451,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 4, Middle
 
-------
+---
 
 ## Quill Body Midge Emerger (Pink no tail) #12 [BT]
 
@@ -4363,7 +4469,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 2, Left
 
-------
+---
 
 ## Quill Body Midge Emerger (Pink no tail) #14 [BT]
 
@@ -4381,7 +4487,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 2, Middle
 
-------
+---
 
 ## Quill Body Midge Emerger (Pink no tail) #16 [BT]
 
@@ -4399,7 +4505,7 @@ mfg: Bert Timmerman
 
 location: DRY Leaf #2, Row 2, Right
 
-------
+---
 
 ## Red Bead Diawl Bach #10 [BT]
 
@@ -4421,7 +4527,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 3, Left
 
-------
+---
 
 ## Red Body Quill buzzer (Gold Bead) #12 [BT]
 
@@ -4441,7 +4547,7 @@ mfg: Bert Timmerman
 
 location: NYMPH
 
-------
+---
 
 ## Red Tag #14 [BT]
 
@@ -4459,7 +4565,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 4, Left
 
-------
+---
 
 ## Red Tag (Gold Bead) #14 [BT]
 
@@ -4477,7 +4583,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 6, Middle
 
-------
+---
 
 ## Red Tag (Gold Bead and weighted) #14 [BT]
 
@@ -4495,7 +4601,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 4, Right
 
-------
+---
 
 ## Red Tag (hackle) #14 [BT]
 
@@ -4515,7 +4621,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 4, Right
 
-------
+---
 
 ## Red Tag (hackle) #14 [HA]
 
@@ -4533,7 +4639,7 @@ seller: Hengelsport Amstelveen
 
 location: NYMPH Leaf #2, Row 4, Right
 
-------
+---
 
 ## Red Tag (hackle and wings) #14 [HA]
 
@@ -4553,7 +4659,7 @@ seller: Hengelsport Amstelveen
 
 location: NYMPH Leaf #4, Row 2, Left
 
-------
+---
 
 ## Red Tag Once and Away #18
 
@@ -4573,7 +4679,7 @@ wing: 3-4 small, natural or brown CDC feathers
 
 location: tying list
 
-------
+---
 
 ## Red Tag Spider #10
 
@@ -4593,7 +4699,7 @@ hackle: Light brown hen hackle
 
 location: tying list
 
-------
+---
 
 ## Red Zebra Midge Pupa (Black Bead) #14 [BT]
 
@@ -4615,7 +4721,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 4, Right
 
-------
+---
 
 ## Red Zebra Midge Pupa (Gold Bead) #14 [BT]
 
@@ -4637,7 +4743,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 4, Left
 
-------
+---
 
 ## Red Zebra Midge Pupa (Yellow Bead) #14 [BT]
 
@@ -4659,7 +4765,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #3, Row 4, Middle
 
-------
+---
 
 ## Red IJssel Nymph (weighted) #10 [BT]
 
@@ -4679,7 +4785,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 3, Right
 
-------
+---
 
 ## Red IJssel Nymph (weighted) #12 [BT]
 
@@ -4699,7 +4805,7 @@ mfg: Bert Timmerman
 
 location: NYMPH  2, Row 3, Middle
 
-------
+---
 
 ## Red IJssel Nymph (weighted) #14 [BT]
 
@@ -4719,7 +4825,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 3, Left
 
-------
+---
 
 ## Roman Moser's Balloon Caddis #10
 
@@ -4737,7 +4843,7 @@ thorax_cover: Yellow Close Cell Foam
 
 thorax: Ginger Caddis Dubbing
 
-------
+---
 
 ## Roman Moser's Balloon Caddis #12
 
@@ -4755,7 +4861,7 @@ thorax_cover: Yellow Close Cell Foam
 
 thorax: Ginger Caddis Dubbing
 
-------
+---
 
 ## Romy's Sand shrimp (Pink variant) #12 [BT]
 
@@ -4779,7 +4885,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 5, Right
 
-------
+---
 
 ## Romy's Sand shrimp (Red-brown variant) #12 [BT]
 
@@ -4803,7 +4909,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 5, Middle
 
-------
+---
 
 ## S&D Grub Czech Nymph Chartreuse (Parrott's) #12 [BT]
 
@@ -4829,7 +4935,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 4, Left
 
-------
+---
 
 ## S&D Grub Czech Nymph Chartreuse (Parrott's) #14 [BT]
 
@@ -4855,7 +4961,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 4, Middle
 
-------
+---
 
 ## Shad Head Red/White #4/0 [Spro]
 
@@ -4875,7 +4981,7 @@ barcode: 8_716851_087634
 
 location: Tupperware
 
-------
+---
 
 ## Shad Head Orange/Green #4/0 [Spro]
 
@@ -4895,7 +5001,7 @@ barcode: 8_716851_087634
 
 location: Tupperware
 
-------
+---
 
 ## Silver Stoat #6  [BT]
 
@@ -4921,7 +5027,7 @@ mfg: Bert Timmerman
 
 location: WET
 
-------
+---
 
 ## Small Olive CDC Jig Head Nymph
 
@@ -4949,7 +5055,7 @@ thorax: Diamond-Brite Hare's Ear Dubbing or Similar.
 
 location: tying list
 
-------
+---
 
 ## Smoke fly (variant) #12
 
@@ -4973,7 +5079,7 @@ head: Peacock Sword Tail (3 strands)
 
 location: tying list
 
-------
+---
 
 ## Soft Hackle Caddis Wet Fly #12
 
@@ -4997,7 +5103,7 @@ head: Black Squirrel Dubbing
 
 location: tying list
 
-------
+---
 
 ## SR-71 Midge #16-#26
 
@@ -5019,7 +5125,7 @@ head:  Black Thread or colored with Marker.
 
 location: tying list
 
-------
+---
 
 ## Stinchar Stoat #4 [BT]
 
@@ -5045,7 +5151,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Stoats Tail #4 [BT]
 
@@ -5071,7 +5177,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Stoats Tail #10 [BT]
 
@@ -5093,7 +5199,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #1, Row 4, Middle
 
-------
+---
 
 ## Stoats Tail #12 [BT]
 
@@ -5115,7 +5221,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Stuck In The Shuck Midge #16-24
 
@@ -5139,7 +5245,7 @@ thorax: Peacock Herl
 
 location: tying list
 
-------
+---
 
 ## Talisker Touchdown (variant) #8 [BT]
 
@@ -5169,7 +5275,7 @@ mfg: Bert Timmerman
 
 location: WET V?R?
 
-------
+---
 
 ## Tan and Pearl White Mudshrimp #12 [BT]
 
@@ -5191,7 +5297,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 6, Right
 
-------
+---
 
 ## Tan and Pearl Yellow Mudshrimp #12 [BT]
 
@@ -5213,7 +5319,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 6, Middle
 
-------
+---
 
 ## Tangloppe #10 [UF]
 
@@ -5229,7 +5335,7 @@ seller: Ribe Jagt & Fiskeri
 
 location: Albatros vliegendoos
 
-------
+---
 
 ## Teal Blue and Silver #4 [BT]
 
@@ -5253,7 +5359,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Teal Blue and Silver #8 [BT]
 
@@ -5277,7 +5383,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #3, Row 5, Left
 
-------
+---
 
 ## Teifi-Towy Sea Trout
 
@@ -5305,7 +5411,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Teifi-Towy Sea Trout late season
 
@@ -5333,7 +5439,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## The Bredbo Fly #12
 
@@ -5365,7 +5471,7 @@ cement:
 
 location: tying list
 
-------
+---
 
 ## Top Secret #18-#26
 
@@ -5389,7 +5495,7 @@ wing: Glamour Madera
 
 location: tying list
 
-------
+---
 
 ## The Cutty Sunrise #8 [BT]
 
@@ -5415,7 +5521,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Thread Larvae Yellow #12 [BT]
 
@@ -5435,7 +5541,7 @@ mfg: Bert Timmerman
 
 location: BUZZER Leaf #4, Row 6, Left
 
-------
+---
 
 ## Thread Larvae Yellow #14 [BT]
 
@@ -5455,7 +5561,7 @@ mfg: Bert Timmerman
 
 location: BUZZER Leaf #4, Row 6, Middle
 
-------
+---
 
 ## Thread Larvae Yellow #16 [BT]
 
@@ -5475,7 +5581,7 @@ mfg: Bert Timmerman
 
 location: BUZZER Leaf #4, Row 6, Right
 
-------
+---
 
 ## Thunder Stoat #4 [BT]
 
@@ -5501,7 +5607,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Too Simple Bloodworm #14 [BT]
 
@@ -5517,7 +5623,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 6, Left
 
-------
+---
 
 ## Traffic Light buzzer Orange #12 [BT]
 
@@ -5539,7 +5645,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 ## Traffic Light buzzer Yellow #10 [BT]
 
@@ -5561,7 +5667,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 ## Traffic Light buzzer Yellow #12 [BT]
 
@@ -5583,7 +5689,7 @@ mfg: Bert Timmerman
 
 location: BUZZER
 
-------
+---
 
 ## Twist of Lemon
 
@@ -5607,7 +5713,7 @@ cement: .
 
 location: tying list
 
-------
+---
 
 ## Undertaker (variant) #6 [BT]
 
@@ -5631,7 +5737,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Water Boatman (Silver Corixa) #14 [BT]
 
@@ -5645,7 +5751,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #1, Row 2, Right
 
-------
+---
 
 ## White Gull #2 [BT]
 
@@ -5655,7 +5761,7 @@ mfg: Bert Timmerman
 
 location: tbd
 
-------
+---
 
 ## White Moth
 
@@ -5681,7 +5787,7 @@ cement: .
 
 location: tying list
 
-------
+---
 
 ## White Tag #14 [BT]
 
@@ -5699,7 +5805,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 2, Left
 
-------
+---
 
 ## White Zebra Nymph (Tungsten Bead) #12 [BT]
 
@@ -5721,7 +5827,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 3, Middle
 
-------
+---
 
 ## White Zonker #2/0 Scierra
 
@@ -5749,7 +5855,7 @@ barcode: 5_706301_617491
 
 location: Tupperware
 
-------
+---
 
 ## Winter Glory (variant) #6 [BT]
 
@@ -5769,7 +5875,7 @@ mfg: Bert Timmerman
 
 location: Pool12
 
-------
+---
 
 ## Winter Midge Pupa #20
 
@@ -5795,7 +5901,7 @@ thorax: Dyed Black Squirrel Dubbing
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Orange (Northern Spider style) #10 [BT]
 
@@ -5813,7 +5919,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 3, Left
 
-------
+---
 
 ## Woodcock and Orange (Northern Spider style) #12 [BT]
 
@@ -5831,7 +5937,7 @@ mfg: Bert Timmerman
 
 location: WET Leaf #4, Row 3, Middle
 
-------
+---
 
 ## Woodcock and Orange (Northern Spider style) #14 [BT]
 
@@ -5849,7 +5955,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Red (Northern Spider style) #10 [BT]
 
@@ -5867,7 +5973,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Red (Northern Spider style) #12 [BT]
 
@@ -5885,7 +5991,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Red (Northern Spider style) #14 [BT]
 
@@ -5903,7 +6009,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Red Brassie (Northern Spider style) #12 [BT]
 
@@ -5921,7 +6027,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Red Brassie (Northern Spider style) #14 [BT]
 
@@ -5939,7 +6045,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## Woodcock and Red Brassie (Northern Spider style) #16 [BT]
 
@@ -5957,7 +6063,7 @@ mfg: Bert Timmerman
 
 location: tying list
 
-------
+---
 
 ## X-Caddis
 
@@ -5981,7 +6087,7 @@ cement: ...
 
 location: tying list
 
-------
+---
 
 ## Yellow Body Quill buzzer (Tungsten Bead) #12 [BT]
 
@@ -6001,7 +6107,7 @@ mfg: Bert Timmerman
 
 location: NYMPH
 
-------
+---
 
 ## Yellow Isoperla (female variant) #12 [BT]
 
@@ -6021,7 +6127,7 @@ head: Golden Olive Hare Dubbing (Davy Wooton SLF)
 
 location: DRY Leaf #3, Row 2, Left
 
-------
+---
 
 ## Yellow Isoperla (female variant) #14 [BT]
 
@@ -6041,7 +6147,7 @@ head: Golden Olive Hare Dubbing (Davy Wooton SLF)
 
 location: DRY Leaf #3, Row 2, Middle
 
-------
+---
 
 ## Yellow Isoperla (female variant) #16 [BT]
 
@@ -6061,7 +6167,7 @@ head: Golden Olive Hare Dubbing (Davy Wooton SLF)
 
 location: DRY Leaf #3, Row 2, Right
 
-------
+---
 
 ## Yellow Isoperla (male variant) #12 [BT]
 
@@ -6083,7 +6189,7 @@ head: Golden Olive Hare Dubbing (Davy Wooton SLF)
 
 location: DRY Leaf #3, Row 3, Left
 
-------
+---
 
 ## Yellow Isoperla (male variant) #14 [BT]
 
@@ -6105,7 +6211,7 @@ head: Golden Olive Hare Dubbing (Davy Wooton SLF)
 
 location: DRY Leaf #3, Row 3, Middle
 
-------
+---
 
 ## Yellow Isoperla (male variant) #16 [BT]
 
@@ -6127,7 +6233,7 @@ head: Golden Olive Hare Dubbing (Davy Wooton SLF)
 
 location: DRY Leaf #3, Row 3, Right
 
-------
+---
 
 ## Yellow Marabou Streamer #6 [BT]
 
@@ -6145,7 +6251,7 @@ ribbing: copper wire
 
 mfg: Bert Timmerman
 
-------
+---
 
 ## Yellow Mayfly Grub #12 [BT]
 
@@ -6165,7 +6271,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 5, Middle
 
-------
+---
 
 ## Yellow Sinker #2/0 Scierra
 
@@ -6197,7 +6303,7 @@ barcode: 5_706301_617545
 
 location: Tupperware
 
-------
+---
 
 ## Yellow Zebra Nymph (Tungsten Bead) #12 [BT]
 
@@ -6219,7 +6325,7 @@ mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 3, Right
 
-------
+---
 
 ## (fly brown/grey/gold) # [RS]
 
@@ -6231,7 +6337,7 @@ mfg: Rolf Solli
 
 location:
 
-------
+---
 
 ## (vlieg bruin/grijs/wit) # [RS]
 

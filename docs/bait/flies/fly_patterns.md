@@ -4963,6 +4963,32 @@ location: NYMPH Leaf #4, Row 4, Middle
 
 ---
 
+## Scott's Sedge pattern #10
+
+category: Dry
+
+originator:
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=np0o5tC-bbY)
+
+hook: size #10 B170
+
+thread: Uni 8/0 grey
+
+horns: Brown turkey feather fibres
+
+rib: Veniard Small silver wire 0.2 mm
+
+body: Mixed pale olive seal's fur with dyed pale olive hare ear a a small bit of flash
+
+wing: Slips of mottled turkey feather
+
+hackle: Metz grade 2 cock saddle hackle
+
+location: tying list
+
+---
+
 ## Shad Head Red/White #4/0 [Spro]
 
 category: Pike

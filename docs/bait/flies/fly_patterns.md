@@ -1282,6 +1282,56 @@ location: Pool12
 
 ---
 
+## Catgut Green Caddis Pupa
+
+category:
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=eKKjiO4kBsk)
+
+hook: Fulling Mill Grub Boss size 14 FM51 20
+
+bead: Tungsten 2.5mm Black Nickel
+
+threads: Uni-8/0 Chartreuse and Black
+
+body: Trout Line  Medium Catgut Caddis Green
+
+legs: Grey Partridge Fibres
+
+thorax: Black Squirrel Dubbing
+
+horns: Grey Mallard
+
+location: tying list
+
+---
+
+## CDC Dry Fly Midge #16
+
+category: Dry
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=lJAqq6furJk)
+
+hook: Gamakatsu S10 #16
+
+thread: Ultra Thread 70 Olive
+
+body: Caddis Dubbing
+
+thorax: Brown dubbing
+
+wing: CDC Pink 
+
+hackle: Grizzly
+
+location: tying list
+
+---
+
 ## CDC Dun Light Yellow #12 [HP]
 
 category: Dry
@@ -1936,6 +1986,33 @@ location: Albatros vliegendoos
 
 ---
 
+## Elk Hair Caddis Fly #12
+
+category: Dry
+
+originator:
+
+source: [whiteopaqe](https://www.youtube.com/watch?v=bMpcNIFDBSM)
+
+hook: AF 5262 #12
+
+thread: Ultra Thread 70 Olive
+
+rib: Small Wire Gold
+
+body: Pheasant Tail
+
+thorax: Peacock Herl
+
+horns: Pheasant tail
+
+wing: Elk Hair
+
+hackle: saddle hackle brown/black
+
+location: tying list
+
+---
 ## EP Kutling #6 [UF]
 
 category: Streamer
@@ -2151,6 +2228,28 @@ head: Fire Orange thread
 mfg: Bert Timmerman
 
 location: WET Leaf #3, Row 1, Left
+
+---
+
+## Gnatinator #18-26
+
+category: Midge emerger
+
+originator:
+
+source: [Charlie Craven](https://www.youtube.com/watch?v=Ns_v1dxMew0)
+
+hook: #18-26 Tiemco 101
+
+thread: Black Veevus 14/0
+
+shuck: Medium Gray EZ Magic Dub Hareline (pointy end)
+
+hackle: Grizzly Rooster Cape or Saddle
+
+body: 4 Peacock Herls (from the eye)
+
+location: tying list
 
 ---
 
@@ -3254,6 +3353,28 @@ location: NYMPH Leaf #?, Row
 
 ---
 
+## Jigged Poison Tung #16-20
+
+category: NYMPH
+
+originator:
+
+source: [Charlie Craven](https://www.youtube.com/watch?v=djIDCtqsJLs)
+
+hook: XC210BL-BN #16-20
+
+bead: 3/32 Tungsten Jig Bomb
+
+thread: Grey Veevus 14/0
+
+rib: Blue Small Wire
+
+thorax: UV Grey or Lavender Ice Dub
+
+location: tying list
+
+---
+
 ## Klympen (variant) #6 [BT]
 
 category: Baltic
@@ -3492,6 +3613,54 @@ varnish: Bug-Bond Lite UV Curing Resin (3-layers)
 mfg: Bert Timmerman
 
 location: Nymph Leaf #4, Row 6, Right
+
+---
+
+## Midge Larva #18
+
+category: Midge
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=YgqioDwOwXc)
+
+hook: AF3671 #18
+
+thread: UNI-Thread 40D Trico
+
+body: Pearl Tinsel
+
+rib: Small Wire Gold
+
+thorax: Peacock Herl
+
+head: thread
+
+location: tying list
+
+---
+
+## Midge Spent Pattern #18
+
+category: Midge
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=m_3RKQhfIXA)
+
+hook: TMC100 #18
+
+thread: UNI-Thread 40D Trico
+
+tail: Weasel hair
+
+body: Foam 1mm Black
+
+hackle: Grizzly 
+
+head: colour with Black marker
+
+location: tying list
 
 ---
 
@@ -5131,6 +5300,54 @@ location: tying list
 
 ---
 
+## Soft Hackle Wet Fly
+
+category: Wet
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=EjPqtRw_LFU)
+
+hook: Fulling Mill All-Purpose Medium size 12
+
+thread: Red Uni-8/0
+
+tag: Red Uni-8/0 Thread
+
+rib: Wine Uni-8/0 or Wine UTC Thread
+
+body: Copper Tinsel or Copper Orvis Sparkle Hair
+
+thorax: Lavender UV Lite-Brite or Ice Dub
+
+hackle: Black Hen
+
+location: tying list
+
+---
+
+## Spent Midge Pattern #16
+
+category: Dry
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=k_fzQeUcMIA)
+
+hook: Gamakatsu S10 #16
+
+thread: Ultra Thread 70 Olive
+
+body: CDC Pink
+
+rib: Small Gold Tinsel
+
+hackle: Cock Saddle
+
+location: tying list
+
+---
+
 ## SR-71 Midge #16-#26
 
 category: Midge
@@ -5499,30 +5716,6 @@ location: tying list
 
 ---
 
-## Top Secret #18-#26
-
-category: Midge
-
-originator: Pat Dorsey
-
-source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=hX0onk3HiyQ)
-
-hook: TMC 2488 size #18–#26
-
-thread:  Dark Brown 8/0
-
-body:  Thread
-
-rib:   White 6/0 Uni White strand
-
-dubbing:  Superfine Dubbing, Rusty Brown
-
-wing: Glamour Madera
-
-location: tying list
-
----
-
 ## The Cutty Sunrise #8 [BT]
 
 categogory: Wet
@@ -5651,6 +5844,52 @@ location: NYMPH Leaf #2, Row 6, Left
 
 ---
 
+## Top Secret #18-#26
+
+category: Midge
+
+originator: Pat Dorsey
+
+source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=hX0onk3HiyQ)
+
+hook: TMC 2488 size #18–#26
+
+thread:  Dark Brown 8/0
+
+body:  Thread
+
+rib:   White 6/0 Uni White strand
+
+dubbing:  Superfine Dubbing, Rusty Brown
+
+wing: Glamour Madera
+
+location: tying list
+
+---
+
+## Top Secret Midge
+
+category: Midge
+
+originator: Pat Dorsey
+
+source: [Charlie Craven](https://www.youtube.com/watch?v=0wSZU1iBkQs)
+
+hook: TMC 2488 #18-24
+
+thread: Dark Brown UNI 8/0
+
+rib: White UNI 6/0
+
+wing: Glamour Madeira 
+
+head: Mahogany Brown Superfine Dubbing
+
+location: tying list
+
+---
+
 ## Traffic Light buzzer Orange #12 [BT]
 
 category: Nymph
@@ -5692,6 +5931,28 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 mfg: Bert Timmerman
 
 location: BUZZER
+
+---
+
+## Triple Wing Spinner
+
+category: Dry
+
+originator: Dave Ellis
+
+source: [Charlie Craven](https://www.youtube.com/watch?v=VrzfDwmivuo)
+
+hook: #14-20 XC110BL-BN
+
+thread: Rusty Brown Veevus 14/0
+
+tail: White Mayfly Tails
+
+body: Rusty Brown Superfine Dubbing
+
+wing: Gray Poly Yarn
+
+location: tying list
 
 ---
 

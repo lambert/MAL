@@ -4,6 +4,28 @@ Below is a list of fly pattern recipes in alphabetical order.
 
 ---
 
+## Adams Hammer #10-20
+
+category: Dry
+
+originator: Andy paschek
+
+description: an effective emerger variation of the famous Adams dry fly. 
+
+hook: HANÁK H 390 BL Klinkhammer (Size 10-20)
+
+thread: Semperfli Nanosilk (18/0)
+
+body: Fly-Rite Extra Fine Poly (Adams Gray)
+
+post: Tiemco Aero Dry Wing (Fluorescent White)
+
+wing: Whiting Pro grade (Grizzly & Brown)
+
+location: tying list
+
+---
+
 ## Aqua tag #14 [BT]
 
 category: Nymph
@@ -91,6 +113,28 @@ thorax: Dark Brown Seals Fur with a UV Dubbing mixed together
 head: tying thread
 
 location: tying list
+
+---
+
+## Balloon Caddis #10-#12
+
+category: Dry
+
+originator: Roman Moser
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=1vyhZAxEgCs)
+
+hook: Kamasan B170 #10-12
+
+thread: Uni-8/0 Tan
+
+body: Ginger Caddis Dubbing
+
+wing: Elk Hair
+
+thorax cover: Yellow Close Cell Foam
+
+thorax: Ginger Caddis Dubbing
 
 ---
 
@@ -229,6 +273,46 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 mfg: Bert Timmerman
 
 location: BUZZER
+
+---
+
+## BHD Garfish Fly #8-#12
+
+category: Cold saltwater fly
+
+source: https://globalflyfisher.com/pattern/bhd-garfish-fly
+
+hook: Kamasan B170 or other wet fly hook size #8-#12
+
+thread: Orange 8/0
+
+tail: Red hackle fibers
+
+body: Narrow silver Mylar tinsel
+
+front hackle: Orange rooster or hen
+
+location: tying list
+
+---
+
+## BHD Garfish Fly (variant) #8 [BT]
+
+category: Cold saltwater fly
+
+source: https://globalflyfisher.com/pattern/bhd-garfish-fly
+
+hook: TMC 800S #8
+
+thread: UNI-Thread Fire Orange 8/0W
+
+tail: 2 tips of a dyed Red noname Indian cape
+
+body: UNI-Mylar Silver 1/69" #16
+
+front hackle: Veniard Hot Orange saddle hackle
+
+location: tying list
 
 ---
 
@@ -392,9 +476,11 @@ location: tying list
 
 ---
 
-## Big Intervale (variant) #6 [BT]
+## Big Intervale Blue (variant) #6 [BT]
 
 category: Salmon
+
+originator: Ken Rich
 
 hook: TMC 7999 #6
 
@@ -414,7 +500,7 @@ head: tying thread
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -516,7 +602,7 @@ source: [whiteopaque](https://www.youtube.com/watch?v=m--3W8aHRyg)
 
 hook: AF3671 #18
 
-thread: UNI - 6/0W Red
+thread: UNI 6/0W Red
 
 bead: Black Bead 2 mm
 
@@ -526,7 +612,7 @@ body: two layers of thread
 
 thorax: Peacock Herl
 
-location tying list
+location: tying list
 
 ---
 
@@ -570,55 +656,69 @@ location: WET Leaf #4, Row 4, Middle
 
 ---
 
-## Black Sheep #2 [BT]
+## Black Peacock Spider #8 [BT]
 
-hook: TMC 7999 #2
+originator:
 
-thread: UNI-Thread Black 6/0
+category: Wet
 
-tag: UNI Silver Medium
+source: [VNV Fly Finder](https://vnv.nu/vliegenzoeker/black-peacock-spider/)
 
-rib: UNI Silver Medium
+hook: TMC 100BL #8
 
-body: 3 layers of black wool
+thread: UNI thread 6/0 black
 
-hackle: Blue schwappen
+rib: twisted thread
 
-wing: Yellow bucktail 1.5x hook length
+body: Peacock herl
 
-wing: Black bucktail 1.5x hook length
+hackle: Black hen
 
-eyes: Jungle cock.
-
-head: thread
-
-cement: .
-
-mfg: Bert Timmerman
-
-location: tying list
+location: WET Leaf 3, Row 3, Right
 
 ---
 
-## Black Zebra Midge Pupa (Black Bead) #14 [BT]
+## Black Peacock Spider #10 [BT]
 
-category: Nymph
+originator:
 
-hook: Grey Matzo Shrimp BL #14
+category: Wet
 
-head: Black bead
+source: [VNV Fly Finder](https://vnv.nu/vliegenzoeker/black-peacock-spider/)
 
-thread: UNI-Thread Black 6/0
+hook: TMC 100BL #10
 
-rib: Silver Oval tinsel
+thread: UNI thread 6/0 black
 
-body: Black thread
+rib: twisted thread
 
-thorax: Peacock herl
+body: Peacock herl
 
-mfg: Bert Timmerman
+hackle: Black hen
 
-location: NYMPH Leaf #3, Row 3, Right
+location: WET Leaf 3, Row 3, Middle
+
+---
+
+## Black Peacock Spider #10-16
+
+originator:
+
+category: Wet
+
+source: [VNV Fly Finder](https://vnv.nu/vliegenzoeker/black-peacock-spider/)
+
+hook: HANAK 200BL, #10-16
+
+thread: UNI thread 6/0 black
+
+rib: twisted thread
+
+body: Peacock herl
+
+hackle: Black hen
+
+location: tying list
 
 ---
 
@@ -672,6 +772,36 @@ location: WET Leaf #1, Row 5, Middle
 
 ---
 
+## Black Sheep #2 [BT]
+
+hook: TMC 7999 #2
+
+thread: UNI-Thread Black 6/0
+
+tag: UNI Silver Medium
+
+rib: UNI Silver Medium
+
+body: 3 layers of black wool
+
+hackle: Blue schwappen
+
+wing: Yellow bucktail 1.5x hook length
+
+wing: Black bucktail 1.5x hook length
+
+eyes: Jungle cock.
+
+head: thread
+
+cement: .
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
 ## Black Stonefly #14 [HA]
 
 category: Dry
@@ -698,6 +828,52 @@ location: unknown
 
 ---
 
+## Black Tungsten Bead Head Red Copper Jig Nymph #14 [BT]
+
+category: Nymph
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=m--3W8aHRyg)
+
+hook: TMC 413J #14 (pinched barb)
+
+thread: UNI 6/0W Red
+
+bead: Black Tungsten Bead 2.8 mm
+
+rib: Red Copper wire Small
+
+body: two layers of thread
+
+thorax: Peacock Herl
+
+location: JIGS, Top, Column 5, Down
+
+---
+
+## Black Zebra Midge Pupa (Black Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Black bead
+
+thread: UNI-Thread Black 6/0
+
+rib: Silver Oval tinsel
+
+body: Black thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 9
+
+---
+
 ## Black Zebra Midge Pupa (Gold Bead) #14 [BT]
 
 category: Nymph
@@ -716,7 +892,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 3, Left
+location: Maxcatch, Down, Column 7
 
 ---
 
@@ -738,7 +914,25 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 3, Middle
+location: Maxcatch, Down, Column 8
+
+---
+
+## Blowtorch Euro Nymph #12
+
+category: Nymph
+
+hook: Kindale WG Barbless Jig #12
+
+head: Slotted Tungsten Bead 4.0 mm
+
+body: Dark Peacock
+
+hackle: Black CDC.
+
+thorax: Pink Ice Dubbing
+
+location: tying list
 
 ---
 
@@ -804,7 +998,7 @@ wing: Grey squirrel hair
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -858,7 +1052,53 @@ wing: Black Goats tail hair
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
+
+---
+
+## Blue Stoat (no tail variant) #4 [BT]
+
+category: Salmon
+
+hook: TMC 7999 #4
+
+thread: UNI-Thread Black 6/0
+
+tag: Silver or Gold fine oval tinsel
+
+rib: Silver or Gold fine oval tinsel
+
+body: Doctor Blue floss
+
+throat: Teal Blue Saddle Hackle
+
+wing: Black Goats tail hair
+
+mfg: Bert Timmerman
+
+location: SALMON2 (green)
+
+---
+
+## Blue Winged caddis #16
+
+category: Dry
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=icxaWK6SZS4)
+
+hook:  AF5212 #16
+
+thread: A/T Sewing Thread 50D
+
+body: Rabbit Dubbing
+
+wing: Duck Wing Feather
+
+hackle: Purple
+
+location: tying list
 
 ---
 
@@ -1192,7 +1432,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 1, Right
+location: Maxcatch, Down, Column 3
 
 ---
 
@@ -1214,7 +1454,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 1, Left
+location: Maxcatch, Down, Column 1
 
 ---
 
@@ -1236,7 +1476,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 1, Middle
+location: Maxcatch, Down, Column 2
 
 ---
 
@@ -1270,7 +1510,7 @@ tag: small oval Silver tinsel
 
 rib: small oval Silver tinsel
 
-body: rear 1/3 Red 25 Anchor embroidery yarn Crimson Red #46 (DMC #321) and front 2/3 Black Floss
+body: rear 1/3 Red 25 Anchor embroidery yarn Crimson Red #46 (DMC #321) and front 2/3 Black UNI-Floss
 
 hackle: Teal Blue Saddle Hackle
 
@@ -1278,7 +1518,7 @@ wing: Black Goats tail hair
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -1744,9 +1984,45 @@ hackle: Hot Orange Saddle hackle
 
 wing: Black Goats tail hair
 
+head: tying thread
+
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
+
+---
+
+## COH! Chenille On a Hook (Fluoro Orange) #8 [BT]
+
+category: Cold saltwater fly
+
+hook: TMC 100 #8
+
+thread: UNI-Thread Fire Orange 8/0W
+
+tail: 2 tips of a dyed Red noname Indian cape
+
+body: 3 layers of Semperfli Ice Straggle Chenille Fuoro Orange
+
+location: tying list
+
+---
+
+## Crazy Turbot2 (Pearl/Pink)
+
+source: https://fiskogfri.dk/pa-fluefiskeri-efter-pighvar/
+
+hook: TMC811S #1 - #1/0
+
+thread: UTC 140 Dernier Fluoro Pink
+
+under wing: Angel Hair pearl + mirage crystal flash
+
+over wing: Flouro pink Litebrite Hanks + sider af mirage Lateralscale Slash #s
+
+head: 5 mm sølv twineyes + tying thread + clear Cure Goo
+
+location: tying list
 
 ---
 
@@ -1884,6 +2160,28 @@ location: Groene vliegendoos
 
 ---
 
+## DOH! Dubbing On a Hook (variant) #8 [BT]
+
+category: Cold saltwater fly
+
+source: https://globalflyfisher.com/pattern/doh
+
+originator: Martin Joergensen
+
+hook: TMC 800S #8
+
+thread: UNI-Thread Fire Orange W8/0
+
+tail: Veniard Saddle Hackles Hot Orange (a pinch of fluffy web, a 3/4 shank length only)
+
+body: Hends Gleamy Dubbing GD05 Hot Orange
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
 ## Double Legs (variant) #10 [BT]
 
 originator: Erik Andreasson
@@ -2017,7 +2315,7 @@ location: tying list
 
 category: Streamer
 
-hook: TMC 8115 #6
+hook: TMC 811S #6
 
 body: Brown
 
@@ -2109,7 +2407,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #4, Row 2, Right
+location: Maxcatch, Up, Column 2
 
 ---
 
@@ -2279,7 +2577,7 @@ head: Black thread and UV cured resin (Bugbond Lite)
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: tying list ?
 
 ---
 
@@ -2342,6 +2640,38 @@ body: Golden Olive hare dubbing
 wing: CDC natural Puff
 
 mfg: Bert Timmerman
+
+---
+
+## Goshawk Hairwing #6
+
+category: Salmon
+
+originator:
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=MJyvjFJZb4c)
+
+hook: Size 6 Double
+
+thread: Uni 8/0 Black
+
+tag: Oval gold tinsel
+
+tail: In two parts GP crest feather then red Iris on top
+
+rib: Flat gold tinsel
+
+body: Black uni floss
+
+hackle: Claret cock
+
+throat: Blue Guinea fowl
+
+wing: Yell Arctic runner with yellow Lite brite
+
+optional: Jungle cock eyes
+
+location: tying list
 
 ---
 
@@ -2486,6 +2816,28 @@ hackle: Metz Brown cock hackle #16
 mfg: Bert Timmerman
 
 location: DRY Leaf #3, Row 5, Right
+
+---
+
+## Grannom/Caddis Soft Hackle #12
+
+category: Wet
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=Sz-30Ya_QDQ)
+
+hook: Fulling Mill Competition Heavyweight size #14
+
+thread: Uni-8/0 Yallow
+
+body: Yellow Thread and Natural Rabbit Fur
+
+hackle: Small Hackle from the top of a Snipes Tail or Wing (alternative Woodcock or hen)
+
+head: Peacock Herl
+
+location: tying list
 
 ---
 
@@ -2681,6 +3033,34 @@ location: NYMPH Leaf #1, Row 3, Right
 
 ---
 
+## Green Blowtorch #16
+
+source: [TCO Fly Shop](https://www.tcoflyfishing.com/blogs/connect/how-to-tie-a-green-blowtorch)
+
+category: Nymph
+
+hook: Fulling Mill Jig Force # 16 
+
+bead: Hareline Slotted Tungsten 3.3 mm silver
+
+thread: UTC 70 Fl. Green
+
+tag/Tail: Glo brite floss #12
+
+rib #1: UTC small sculpin olive wire
+
+rib #2: 1/100 Opal Mirage Micro Flashabou
+
+body: SLF Prism Peacock dubbing
+
+collar: Fulling Mill Cinnamon CDC
+
+hot spot: UTC 70 Fl. Green
+
+location: tying list
+
+---
+
 ## Green Lantern (variant) #6 [BT]
 
 category: Salmon
@@ -2707,7 +3087,7 @@ varnish: BugBond Lite UVCR
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -2872,6 +3252,60 @@ tail: red wool
 body: Green Ice dubbing
 
 hackle: black hen
+
+---
+
+## Greenwells Glory
+
+category: Wet
+
+originator:
+
+source:
+
+hook:  Kamasan B175 size #12 or #14
+
+thread: Uni 8/0 Thread in olive
+
+rib:  French Solid Wire medium gold
+
+body:  Olive Thread
+
+throat hackle: Olive Hen Hackle
+
+wing:  Mallard Duck Wing Quills
+
+location: tying list
+
+---
+
+## Grey Fly #2/0-#4
+
+category: Salmon
+
+originator: Noel Money (BC)
+
+source: [Peter Charles](https://www.youtube.com/watch?v=PdAHD74sdHw)
+
+hook: #2/0-#4
+
+thread: Veevus 8/0 Black
+
+tag: UNI-French Oval Silver Medium
+
+rib: UNI-French Oval Silver Medium
+
+body: UNI-Yarn Gray wool 2X Reg.
+
+hackle: Orange
+
+wing: Bronze Mallard
+
+head: thread
+
+cement: UV resin
+
+location: tying list
 
 ---
 
@@ -3047,6 +3481,36 @@ location: DRY Leaf #4, Row 2, Middle
 
 ---
 
+## Half Back (variation, Orange Hot Spot) #10
+
+category: Wet
+
+source: [Phil Rowley Fly Fishing](https://www.youtube.com/watch?v=99wc7Tw9T1o)
+
+hook: Daiichi 1560 #10
+
+thread: Edo MFC Hot Orange
+
+tail: Pheasant tail fibers (half shank length)
+
+rib: UTC Ultra-wire Copper X-SM (loop, secure both ends)
+
+body: 4..5 strands Peacock herl
+
+wingcase: Pheasant tail fibers (tie in inverted and then after thorax is tied in, fold back tips for legs and fold back for wingcase)
+
+thorax: 3 strand of Peacock herl
+
+legs: tips of Pheasant tail fibers used as wingcase
+
+head: thread
+
+cement: Solaris Bone Dry UV resin
+
+location: tying list
+
+---
+
 ## HVK Klinkhamer BWO
 
 originator: Hans Van Klinken
@@ -3177,6 +3641,32 @@ location: NYMPH Leaf #4, Row 1, Left
 
 ---
 
+## Holographic Buzzer #10
+
+cotegory: Buzzer
+
+source: [Mak](https://www.youtube.com/watch?v=hL_T5zMzlvQ)
+
+hook: #10
+
+thread: UNI-Thread Black 8/0
+
+rib: Red Holo Tinsel
+
+body: UNI-Thread Black 8/0
+
+thorax: UNI-Thread Black 8/0
+
+cheeks: Red Holo Tinsel
+
+thorax shield: Opal mirage Tinsel
+
+cement: body and thorax glazed with UV-resin
+
+location: tying list
+
+---
+
 ## Hot Orange Nosed Magnus,#6 [BT]
 
 category: Baltic
@@ -3207,13 +3697,13 @@ location: Groene vliegendoos
 
 ---
 
-## Hot Pink Copper Jane Jig Nymph (Pink Bead) #12 [BT]
+## Hot Pink Copper Jane Jig Nymph (Pink Brass Bead 2.8 mm) #12 [BT]
 
 category: Nymph
 
 hook: TMC 403BLJ #12
 
-head: Pink Brass bead 2.8 mm
+head: Pink Brass Bead 2.8 mm
 
 thread: UNI-Thread Pink 8/0
 
@@ -3223,133 +3713,153 @@ thorax: 1 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #4, Row 6, Left
+location: JIGS, Bottom, column 2 Up
 
 ---
 
-## Hot Pink Tag Jig Nymph (Tungsten Bead) #12 [BT]
-
-category: Nymph
-
-hook: TMC 403BLJ #12
-
-head: Tungsten bead 2.8 mm
-
-thread: UNI-Thread Pink 8/0
-
-tail: Hot Pink Floss Neon 2-ply (x2x2)
-
-body: 3 strands Peacock herl (natural)
-
-mfg: Bert Timmerman
-
-location: NYMPH Leaf #4, Row 5, Left
-
----
-
-## Hot Pink Tag Nymph (Tungsten Bead) #14 [BT]
+## Hot Pink Copper Jane Jig Nymph (Pink Brass Bead 2.8 mm) #14 [BT]
 
 category: Nymph
 
 hook: TMC 403BLJ #14
 
-head: Tungsten bead ? mm
+head: Pink Brass Bead 2.8 mm
 
 thread: UNI-Thread Pink 8/0
 
-tail: Hot Pink Floss Neon 2-ply
+body: 2 layers of 0.30 mm Pink coloured Copper wire (Salix)
+
+thorax: 1 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## Hot Pink Tag Jig Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #12
+
+head: Black Tungsten bead 2.8 mm
+
+thread: UNI-Thread Pink 8/0
+
+tail: UNI-Floss Hot Pink Floss Neon 2-ply (fold x2 = 4 strands)
+
+body: 3 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: JIGS, Bottom, column 3 Up
+
+---
+
+## Hot Pink Tag Jig Nymph (Black Tungsten Bead 2.4 mm) #14 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #14
+
+head: Black Tungsten bead 2.4 mm
+
+thread: UNI-Thread Pink 8/0
+
+tail: UNI-Floss Hot Pink Floss Neon 2-ply (fold x2 = 4 strands)
 
 body: 2 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #?, Row
+location: JIGS, Top, column 3 Down
 
 ---
 
-## Hot Pink Tag Nymph (Tungsten Bead) #16 [BT]
+## Hot Pink Tag Jig Nymph (Black Tungsten Bead) #16 [BT]
 
 category: Nymph
 
 hook: TMC 403BLJ #16
 
-head: Tungsten bead ? mm
+head: Black Tungsten bead ? mm
 
 thread: UNI-Thread Pink 8/0
 
-tail: Hot Pink Floss Neon 2-ply
+tail: UNI-Floss Hot Pink Floss Neon 2-ply
 
 body: 1 strand Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #?, Row
+location: tying list
 
 ---
 
-## Hot Pink Zebra Nymph (Tungsten Bead) #12 [BT]
+## Hot Pink Zebra Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
 
 category: Nymph
 
 hook: Grey Matzo Shrimp BL #12
 
-head: Tungsten bead 2.8 mm
+head: Black Tungsten bead 2.8 mm
 
 thread: UNI-Thread Pink 8/0
 
 rib: Silver Oval tinsel
 
-body: Hot Pink Floss Neon 2-ply
+body: UNI-Floss Hot Pink Floss Neon 2-ply
 
 varnish: 2 layers head cement
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #4, Row 3, Right
+location: NYMPH #12, Up, Column 1
 
 ---
 
-## Hot Pink Zebra Nymph (Tungsten Bead) #14 [BT]
+## Hot Pink Zebra Nymph (Black Tungsten Bead 2.8 mm) #14 [BT]
 
 category: Nymph
 
 hook: Grey Matzo Shrimp BL #14
 
-head: Tungsten bead 2.8 mm
+head: Black Tungsten bead 2.8 mm
 
 thread: UNI-Thread Pink 8/0
 
 rib: Silver Oval tinsel
 
-body: Hot Pink Floss Neon 2-ply
+body: UNI-Floss Hot Pink Floss Neon 2-ply
 
 varnish: 2 layers head cement
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #?, Row
+location: tying list
 
 ---
 
-## Hot Pink Zebra Nymph (Tungsten Bead) #16 [BT]
+## Hot Pink Zebra Nymph (Black Tungsten Bead 2.8) #16 [BT]
 
 category: Nymph
 
 hook: Grey Matzo Shrimp BL #14
 
-head: Tungsten bead 2.8 mm
+head: Black Tungsten bead 2.8 mm
 
 thread: UNI-Thread Pink 8/0
 
 rib: Silver Oval tinsel
 
-body: Hot Pink Floss Neon 2-ply
+body: UNI-Floss Hot Pink Floss Neon 2-ply
 
 varnish: 2 layers head cement
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #?, Row
+location: tying list
 
 ---
 
@@ -3375,6 +3885,57 @@ location: tying list
 
 ---
 
+## Jydsk Chillimps #12-#16
+
+category: Cold saltwater fly
+
+source: https://globalflyfisher.com/pattern/doh
+
+originator: Rolf Vilhelmsson (Martin Joergensen)
+
+hook: #12-#16 down eye streamer/wet fly
+
+thread: Red or black
+
+tail: Orange hackle fiber or small hackle tips, 2/3 of hook length
+
+body: Orange dubbing
+
+rib: Thin oval gold tinsel
+
+hackle: One orange palmer hackle and one slightly larger orange front hackle
+
+head: tying thread
+
+location: tying list
+
+---
+
+## Kate Mclaren
+
+category: Wet
+
+originator:
+
+source:
+
+hook:  Kamasan B175 size #10 or #12
+
+thread: Uni 8/0 Thread in black
+
+tail:  Golden Pheasant Crest
+
+rib:  French Oval Tinsel Silver
+
+body:  Seals Fur dubbing in black
+
+body hackle:  Cock Saddle Hackle Black
+
+head hackle:  Ginger Hen Hackle
+
+location: tying list
+
+---
 ## Klympen (variant) #6 [BT]
 
 category: Baltic
@@ -3419,6 +3980,24 @@ alongside gold tinsel.
 throat: Golden Pheasant red-breast, two turns.
 
 wings: Two strips of Mallard showing brown points and light roots.
+
+location: tying list
+
+---
+
+## Laerdal Sunray Shadow #2 - #8
+
+category: Salmon
+
+hook: TMC 7999 #2 - #8
+
+thread: Sheer 14/0 Black
+
+under wing: White Fox/Goat hair, Crystal flash and light blue Goat hair
+
+over wing: long black Goat hair
+
+topping: Peacock herl
 
 location: tying list
 
@@ -3473,6 +4052,26 @@ mfgPN: FL11025
 seller: Ribe Jagt & Fiskeri
 
 location: Albatros vliegendoos
+
+---
+
+## March Brown Emerger #14
+
+category: Dry
+
+originator:
+
+source: [Trident Fly Fishing](https://www.youtube.com/watch?v=6zroLT8ITq0)
+
+hook: TMC 200R #14
+
+thread: UNI 6/0 Dark Brown
+
+shuck: Gold Tan Antron
+
+body: Nature Spirit Snowshoe Rabit Foot dubbing Hare's Ear (light tan coloured)
+
+wing: Natural Deer Hair
 
 ---
 
@@ -3544,7 +4143,7 @@ location: tying list
 
 ---
 
-## Medicine (variant) #6
+## Medicine (variant) #6 [BT]
 
 category: Sea trout
 
@@ -3564,7 +4163,7 @@ wing: Bronze Mallard Shoulder
 
 head: tying thread (Uni Fire Orange 8/0)
 
-location: Salmon2
+location: SALMON2 (green)
 
 ---
 
@@ -3664,6 +4263,24 @@ location: tying list
 
 ---
 
+## Mini Evil Baitfish #2
+
+source: https://fiskogfri.dk/pa-fluefiskeri-efter-pighvar/
+
+hook: TMC 800S #2
+
+hale: White EP fiber + pearl Angel Hair + Mirage Crystal Flash
+
+collar: White EP fiber + pearl Angel Hair + Mirage Crystal Flash + Mirage Lateralscale Flash #s – gentag tre gange.
+
+head: 6 mm evil eyes red/silver + clear Cure Goo
+
+andet: Farvelæg ryggen i den ønskede farve med vandfast tusch
+
+location: tying list
+
+---
+
 ## Montana Bucktail
 
 category: Dry
@@ -3712,11 +4329,33 @@ location: tying list
 
 ---
 
+## Natte Patrick #8 [BT]
+
+originator: Patrick Bol
+
+category: Wet
+
+source: De Nederlandse Vliegvisser #144 page 14
+
+hook: TMC 100 BL #8
+
+thread: UNI thread 6/0 Black
+
+tail: two Black cock hackle tippets
+
+body: 2 mm Black Chenille
+
+hackle: Black cock hackle
+
+location: tying list
+
+---
+
 ## Neep #8
 
-category: Salmon
-
 originator: Paul Marshall and Gene Young
+
+category: Salmon
 
 source: [Scott Jackson](https://www.youtube.com/watch?v=_UNeSkW2TRI)
 
@@ -3736,11 +4375,61 @@ throat: Hen hackle fibres dyed brown
 
 ---
 
-## October Caddis
+## New Season Buzzer #14-#16
+
+originator:
+
+source: [Makflies](https://www.youtube.com/watch?v=2yeduFVySM0)
+
+category: Buzzer
+
+hook: Grub #14 - #16
+
+thread: Fluo Yellow UTC 70 Dernier
+
+body: 1 layer of thread, flat, CCW spun to open up the thread
+
+rib: thread, round, CW spun to close the thread
+
+cheeks: Red Spanflex
+
+thorax: Fluo Yellow thread
+
+varnish: UV-resin
+
+location: tying list
+
+---
+
+## No See Um Midge #22
+
+source: [Morgan Nowels Fishing](https://www.youtube.com/watch?v=mxpmOANhg9U)
 
 category: Dry
 
+hook: Daiichi 1110 #22
+
+thread: Veevus 14/0 Black
+
+body: thread
+
+parachute post: 3 windings of thread
+
+hackle: 5 turns of Grizzly saddle hackle around parachute post
+
+thorax: parachute post tied down.
+
+head: thread
+
+location: tying list
+
+---
+
+## October Caddis
+
 originator: unknown
+
+category: Dry
 
 hook: #8 - 12 Dry Fly (straight or curved)
 
@@ -3757,6 +4446,24 @@ hackle: Brown dry fly
 head: tying thread.
 
 cement: .
+
+location: tying list
+
+---
+
+## October Caddis (SJ) #12
+
+source: Shota Jokhadze
+
+hook: #12
+
+body: lead wire, dark yellow dubbing.
+
+side stripes: brown pheasant. 
+
+legs: black pheasant. 
+
+thorax: Black dubbing and UV rubber gel after black biot.
 
 location: tying list
 
@@ -3792,92 +4499,6 @@ location: tying list
 
 ---
 
-## Olive CDC Sedge #16 [HP]
-
-category: Dry
-
-hook: #16
-
-thread: Green
-
-body: Green dubbing
-
-wing: Brown Mallard duck
-
-hackle: Brown hen
-
-seller: Henk Peeters
-
-location: DRY Leaf #1, Row 3, Right
-
----
-
-## Olive Zebra Midge Pupa (Black Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Black bead
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel
-
-body: Olive thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: NYMPH Leaf #3, Row 2, Right
-
----
-
-## Olive Zebra Midge Pupa (Gold Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Gold bead
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel
-
-body: thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: NYMPH Leaf #3, Row 2, Left
-
----
-
-## Olive Zebra Midge Pupa (Yellow Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Yellow fluo bead
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel
-
-body: thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: NYMPH Leaf #3, Row 2, Middle
-
----
-
 ## Olive and White Sandeel Surf Candy #4 [HP]
 
 category: Salt
@@ -3899,6 +4520,26 @@ varnish: Bug-Bond
 seller: Henk Peeters
 
 location: Albatros vliegendoos
+
+---
+
+## Olive CDC Sedge #16 [HP]
+
+category: Dry
+
+hook: #16
+
+thread: Green
+
+body: Green dubbing
+
+wing: Brown Mallard duck
+
+hackle: Brown hen
+
+seller: Henk Peeters
+
+location: DRY Leaf #1, Row 3, Right
 
 ---
 
@@ -3959,6 +4600,125 @@ thorax: Metz Grey Sowbug SLF dubbing
 mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 5, Right
+
+---
+
+## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #10 [BT]
+
+hook: TMC403 BLJ #10
+
+thread: UTC Olive 8/0
+
+rib: UNI-Wire black small
+
+body: UNI-Floss Olive
+
+thorax: Semperfli Straggle String Peacock Green
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #12 [BT]
+
+hook: TMC403 BLJ #12
+
+thread: UTC Olive 8/0
+
+rib: UNI-Wire black small
+
+body: UNI-Floss Olive
+
+thorax: Semperfli Straggle String Peacock Green
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## Olive Straggle String Nymph #10 [BT]
+
+hook: Grey Matzo Shrimp BL #10
+
+thread: UTC Olive 8/0
+
+rib: UNI-Wire black small
+
+body: UNI-Floss Olive
+
+thorax: Semperfli Straggle String Peacock Green
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+## Olive Zebra Midge Pupa (Black Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Black bead
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel
+
+body: Olive thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 6
+
+---
+
+## Olive Zebra Midge Pupa (Gold Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Gold bead
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel
+
+body: thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 4
+
+---
+
+## Olive Zebra Midge Pupa (Yellow Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Yellow fluo bead
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel
+
+body: thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 5
 
 ---
 
@@ -4044,7 +4804,7 @@ varnish: Bugbond Lite
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -4073,6 +4833,22 @@ seller: Van Tol
 barcode: 5_706301_617507
 
 location: Tupperware
+
+---
+
+## Partridge and Yellow #14
+
+category: Northern Country Spider
+
+hook: size 14
+
+body: yellow textream 6/0 
+
+rib: silver flat wire 
+
+thorax: yellow hare dubbing 
+
+hackle: small partridge
 
 ---
 
@@ -4197,6 +4973,78 @@ body: Peacock herl
 mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 5, Left
+
+---
+
+## Pheasant Tail CDC Midge #16
+
+category: DRY
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=251jKU7T2ek)
+
+hook: Gamakatsu S10 #16
+
+thread: Ultra Thread 70 Olive
+
+body: Peacock Herl
+
+underwing: CDC Pink
+
+wing: Pheasant Tail
+
+hackle: Grizzly
+
+location: tying list
+
+---
+
+## Pheasant Tail Chartreuse Jig Nymph (Black Tungsten Bead 2.4) #14 [BT]
+
+category: Nymph
+
+hook: TMC 413J #14 (pinched barb)
+
+bead: Black Tungsten Bead 2.4 mm
+
+thread: UNI-Thread Chartreuse 8/0
+
+tail: Ringneck Cock Pheasant Center Tail (a bit too long)
+
+body: UNI-Mylar Pearl 3/64" #12 on top of UNI-Floss Chartreuse
+
+thorax: Peacock herl Natural (3 turns)
+
+collar: UNI-Thread Chartreuse 8/0
+
+mfg: Bert Timmerman
+
+location: JIGS, Bottom, Column 4, Down
+
+---
+
+## Pheasant Tail Red Jig Nymph (Silver Tungsten Bead 2.4) #14 [BT]
+
+category: Nymph
+
+hook: TMC 413J #14 (pinched barb)
+
+bead: Silver Tungsten Bead 2.4 mm
+
+thread: UNI-Thread Red 6/0
+
+tail: Ringneck Cock Pheasant Center Tail (a bit too long)
+
+body: UNI-Mylar Pearl 3/64" #12 on top of thread body
+
+thorax: Peacock herl Natural (3 turns)
+
+collar: UNI-Thread Red 6/0
+
+mfg: Bert Timmerman
+
+location: JIGS, Bottom, Column 5, Down
 
 ---
 
@@ -4676,6 +5524,58 @@ location: DRY Leaf #2, Row 2, Right
 
 ---
 
+## Red Arrow Wet Fly #12
+
+category: Wet
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=7JD2Nkae83w)
+
+hook: Fulling Mill Competition Heavyweight size 12
+
+thread: Uni-8/0 Black
+
+tail: Golden Pheasant Tippet
+
+rib: Small Silver Tinsel
+
+body: Fulling Mill Voodoo Streamer Dub Bleeding Red and Jet Black UV
+
+hackle: Dyed Blane Hen
+
+eyes: Jungle Cock
+
+location: tying list
+
+---
+
+## Red and Silver Spider #10
+
+category: Wet
+
+originator:
+
+source: [whiteopaque](https://www.youtube.com/watch?v=NMCtSkQpEWg)
+
+hook: AF3769 #10
+
+thread UNI 6/0W Red
+
+body: 2 layers of thread
+
+rib: small gold tinsel
+
+thread: UNI 6/0W Black
+
+thorax: Peacock Herl
+
+hackle: Hen feather 
+
+location: tying list
+
+---
+
 ## Red Bead Diawl Bach #10 [BT]
 
 category: Nymph
@@ -4714,7 +5614,55 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 
 mfg: Bert Timmerman
 
-location: NYMPH
+location: Maxcatch, Up, Column 7
+
+---
+
+## Red Copper Jig Nymph (Black Tungsten Bead 2.8) #14 [BT]
+
+category: Nymph
+
+originator:
+
+hook: TMC 413J #14 (pinched barb)
+
+thread: UNI-Thread Red 6/0
+
+bead: Black Tungsten Bead 2.8 mm
+
+rib: Red Copper wire Small
+
+body: two layers of thread
+
+thorax: Peacock Herl
+
+collar: UNI-Thread Red 6/0
+
+location: JIGS, Top, Column 5, Down
+
+---
+
+## Red Copper Jig Nymph (Gold Tungsten Bead 2.8) #14 [BT]
+
+category: Nymph
+
+originator:
+
+hook: TMC 413J #14 (pinched barb)
+
+thread: UNI-Thread Red 6/0
+
+bead: Gold Tungsten Bead 2.8 mm
+
+rib: Red Copper wire Small
+
+body: two layers of thread
+
+thorax: Peacock Herl
+
+collar: UNI-Thread Red 6/0
+
+location: JIGS, Top, Column 2, Down
 
 ---
 
@@ -4830,6 +5778,106 @@ location: NYMPH Leaf #4, Row 2, Left
 
 ---
 
+## Red Tag Jig Nymph (Black Tungsten Bead 2.8) #12 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #12
+
+head: Black Tungsten bead 2.8 mm
+
+thread: UNI-Thread Red 8/0
+
+tail: UNI-Floss Chinese Red (fold x2 = 4 strands)
+
+body: 3 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: JIGS, Bottom, column 1, Down
+
+---
+
+## Red Tag Jig Nymph (Black Tungsten Bead 2.4) #14 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #14
+
+head: Black Tungsten bead 2.4 mm
+
+thread: UNI-Thread Red 8/0
+
+tail: UNI-Floss Chinese Red (fold x2 = 4 strands)
+
+body: 2 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: JIGS, Top, Column 1, Up
+
+---
+
+## Red Tag Jig Nymph (Black Tungsten Bead) #16 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #16
+
+head: Black Tungsten bead 2.4 mm
+
+thread: UNI-Thread Red 8/0
+
+tail: UNI-Floss Chinese Red (fold x2 = 4 strands)
+
+body: 2 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## Red Tag Jig Nymph (Gold Bead 2.4) #14 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #14
+
+head: Gold bead 2.4 mm
+
+thread: UNI-Thread Red 8/0
+
+tail: UNI-Floss Chinese Red (fold x2 = 4 strands)
+
+body: 2 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: JIGS, Top, Column 4, Up
+
+---
+
+## Red Tag Jig Nymph (Gold Tungsten Bead) #14 [BT]
+
+category: Nymph
+
+hook: TMC 403BLJ #14
+
+head: Gold Tungsten bead 2.8 mm
+
+thread: UNI-Thread Red 8/0
+
+tail: UNI-Floss Chinese Red (fold x2 = 4 strands)
+
+body: 2 strands Peacock herl (natural)
+
+mfg: Bert Timmerman
+
+location: JIGS, Top, Column 4 Down
+
+---
+
 ## Red Tag Once and Away #18
 
 originator: Hans van Klinken
@@ -4888,7 +5936,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 4, Right
+location: Maxcatch, Up, Column 1
 
 ---
 
@@ -4910,7 +5958,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 4, Left
+location: Maxcatch, Down, Column 10
 
 ---
 
@@ -4932,7 +5980,7 @@ thorax: Peacock herl
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #3, Row 4, Middle
+location: Maxcatch, Down, Column 11
 
 ---
 
@@ -5224,6 +6272,61 @@ location: WET
 
 ---
 
+## Silver Tippet Muddler
+
+category: Wet
+
+source: 
+
+hook: Daiichi 1760
+
+thread: Uni 8/0 Black
+
+tip:  Flat silver tinsel
+
+tail: Golden Pheasant Tippets
+
+body: Black wool
+
+rib: Oval Silver
+
+under wing: Golden Pheasant Tippets
+
+wing: Mottled Turkey
+
+head: Black deer hair clipped
+---
+
+## Simple Spring Quill Trout Buzzer
+
+originator:
+
+source: [Makflies](https://www.youtube.com/watch?v=9t-iCi5UDuc)
+
+category: Buzzer
+
+hook: Grub #10
+
+thread: Red 8/0
+
+tag: Red thread
+
+body: 2 layers of thread
+
+rib: Natural Quill
+
+thorax: Black Thread
+
+cheeks: Olive Spanflex
+
+thorax2: Blue Holographic tinsel 
+
+varnish: UV-resin
+
+location: tying list
+
+---
+
 ## Small Olive CDC Jig Head Nymph
 
 originator:
@@ -5392,7 +6495,7 @@ wing: Black Goats tail hair
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -5418,7 +6521,7 @@ wing: Black Goats tail hair
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -5488,6 +6591,179 @@ thorax: Peacock Herl
 
 location: tying list
 
+---
+
+## Sulphur Spinner (female) #14-18
+
+category: Dry
+
+source: Jason Febinger
+
+hook: dry 14-18
+
+thread: 8/0 uni pale yellow
+
+tail: micro fibets
+
+egg sack: Life cycle dubbing orange
+
+body: Super Fine dubbing sulfur yellow
+
+wing: Antron
+
+location: tying list
+
+---
+
+## Sunray Shadow #2 - #8
+
+originator: Ray Brooks
+
+category: Salmon
+
+hook: TMC 7999 #2 - #8
+
+thread: Sheer 14/0 Black
+
+under wing: White Fox/Goat hair and Crystal flash
+
+over wing: long black Goat hair
+
+topping: Peacock herl
+
+location: tying list
+
+---
+
+## Sunray Shadow #2 [BT]
+
+originator: Ray Brooks
+
+category: Salmon
+
+hook: TMC 7999 #2
+
+thread: UNI 6/0 Black
+
+under wing: Hareline Extra Select Craft Fur White and 4 strands (double) Mother of Pearl
+
+over wing: Hareline Extra Select Craft Fur Black
+
+topping: 4 strands of Peacock herl
+
+manufacturer: Bert Timmerman
+
+location: Salmon box
+
+---
+
+## Sunray Shadow (Chartreuse variant) #2 [BT]
+
+originator: Ray Brooks
+
+category: Salmon
+
+hook: TMC 7999 #2
+
+thread: UNI 6/0 Black
+
+under wing: Hareline Extra Select Craft Fur Chartreuse and 4 strands (double) Mother of Pearl
+
+over wing: Hareline Extra Select Craft Fur Black
+
+topping: 4 strands of Peacock herl
+
+manufacturer: Bert Timmerman
+
+location: tying list
+
+---
+
+## Sunray Shadow (Kingfisher Blue Laerdal variant) #2 [BT]
+
+originator: Ray Brooks
+
+category: Salmon
+
+hook: TMC 7999 #2
+
+thread: UNI 6/0 Black
+
+under wing: Hareline Extra Select Craft Fur White and 4 strands (double) Mother of Pearl
+
+over wing: Hareline Extra Select Craft Fur Kingfisher blue and Hareline Extra Select Craft Fur Black
+
+topping: 4 strands of Peacock herl
+
+manufacturer: Bert Timmerman
+
+location: tying list
+
+---
+
+## Sunray Shadow (Olive variant) #2 [BT]
+
+originator: Ray Brooks
+
+category: Salmon
+
+hook: TMC 7999 #2
+
+thread: UNI 6/0 Black
+
+under wing: Hareline Extra Select Craft Fur White and 4 strands (double) Mother of Pearl
+
+over wing: Hareline Extra Select Craft Fur Olive
+
+topping: 4 strands of Peacock herl
+
+manufacturer: Bert Timmerman
+
+location: Salmon box
+
+---
+
+## Sunray Shadow (Orange variant) #2 [BT]
+
+originator: Ray Brooks
+
+category: Salmon
+
+hook: TMC 7999 #2
+
+thread: UNI 6/0 Black
+
+under wing: Hareline Extra Select Craft Fur Orange and 4 strands (double) Mother of Pearl
+
+over wing: Hareline Extra Select Craft Fur Black
+
+topping: 4 strands of Peacock herl
+
+manufacturer: Bert Timmerman
+
+location: tying list
+
+---
+
+## T Midge #16-22
+
+categorie: Nymph
+
+source: [Hans Stephenson](https://www.youtube.com/watch?v=iHEfgwYZFsQ)
+
+hook: TMC 2487, Lightning Strike SE1, or Daiichi 1130 #16-22
+
+bead: Tyer's Glass Beads Pearlescent or Silver Lined
+
+thread: 70 Denier Cream, Olive, Black, or Tan
+
+rib: Small Copper Wire
+
+body: Pearl Krystal Flash
+
+wing: White Antron Yarn
+
+location: tying list
 ---
 
 ## Talisker Touchdown (variant) #8 [BT]
@@ -5600,7 +6876,7 @@ wing: Teal Duck flank (Veniard)
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -5802,6 +7078,32 @@ location: BUZZER Leaf #4, Row 6, Right
 
 ---
 
+## Thunder & Lightning
+
+category: Salmon
+
+source: [Mark Molloy](https://www.youtube.com/watch?v=EYYcPogUcT0)
+
+hook: Size 8 Daiichi 2421 Salmon Hook
+
+tag: Flat Gold Tinsel
+
+butt: Uni Bright Yellow Floss
+
+tail: Golden Pheasant Crest
+
+ribbing: Small Gold Tinsel (Veevus)
+
+body: Black Floss
+
+throat: Blue hackle over Orange
+
+wing: Dark Moose Hair
+
+location: tying list
+
+---
+
 ## Thunder Stoat #4 [BT]
 
 category: Salmon
@@ -5824,7 +7126,7 @@ wing: Black Goats tail hair
 
 mfg: Bert Timmerman
 
-location: Pool12
+location: SALMON2 (green)
 
 ---
 
@@ -5934,6 +7236,28 @@ location: BUZZER
 
 ---
 
+## Traffic Light buzzer Yellow #12 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #12
+
+thread: UNI-Thread Black 8/0
+
+body: tying thread
+
+rib: Silver flat tinsel small
+
+thorax: Yellow Goose biots (Veniard)
+
+varnish: Bug-Bond Lite UV Curing Resin (2 layers)
+
+mfg: Bert Timmerman
+
+location: BUZZER
+
+---
+
 ## Triple Wing Spinner
 
 category: Dry
@@ -5956,25 +7280,29 @@ location: tying list
 
 ---
 
-## Traffic Light buzzer Yellow #12 [BT]
+## Trude Fly #8=#16
 
-category: Nymph
+category: Dry
 
-hook: Grey Matzo Shrimp BL #12
+originator:
 
-thread: UNI-Thread Black 8/0
+source: [InTheRiffle](https://www.youtube.com/watch?v=KIwWUA4rBQo)
 
-body: tying thread
+hook: Tiemco 100 #8-#16
 
-rib: Silver flat tinsel small
+thread: Black UTC 70
 
-thorax: Yellow Goose biots (Veniard)
+tail: Golden Pheasant Tippets
 
-varnish: Bug-Bond Lite UV Curing Resin (2 layers)
+butt: Peacock Herl
 
-mfg: Bert Timmerman
+body: Red or Chartreuse Floss and Peacock Herl
 
-location: BUZZER
+wing: White Calf Tail
+
+hackle: Brown Whiting Rooster Cape
+
+location: tying list
 
 ---
 
@@ -6040,6 +7368,72 @@ location: NYMPH Leaf #1, Row 2, Right
 
 ---
 
+## Waterhen Bloa #12
+
+category: Wet
+
+originator:
+
+source: [Davie McPhail](https://www.youtube.com/watch?v=mYi59Tsbgkg)
+
+hook: Fulling Mill All-Purpose Medium #12
+
+thread: Yli Silk Colour Code 214 Yellow
+
+body: Mole Fur
+
+hackle: Waterhen
+
+location: tying list
+
+---
+
+## Waterhen Bloa #14
+
+category: Wet
+
+originator:
+
+source: Ally Mcmahon
+
+hook: Kamasan B130 #14
+
+thread: Yellow textreme 6/0
+
+body: Natural mole fur sparse 
+
+hackle: Water hen
+
+location: tying list
+
+---
+
+## Wet Hen #2-#4
+
+category: Baltic
+
+source: [GlobalFlyFisher](https://globalflyfisher.com/patterns-tie-better/intruder-conversions)
+
+hook: Tiemco TMC 7999 #2-#4
+
+thread: Uni Red 8/0
+
+tail: Red webby barbs or Marabou
+
+tag: flat medium silver tinsel
+
+body: Peacock herl (4-5 strands)
+
+hackle: Mallard or Wood duck feather with fairly long barbs (4-5 turns)
+
+head: tying thread
+
+cement: 2 layers of UV-resin
+
+location: tying list
+
+---
+
 ## White Gull #2 [BT]
 
 category: Streamer
@@ -6094,13 +7488,13 @@ location: NYMPH Leaf #2, Row 2, Left
 
 ---
 
-## White Zebra Nymph (Tungsten Bead) #12 [BT]
+## White Zebra Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
 
 category: Nymph
 
 hook: Grey Matzo Shrimp BL #12
 
-head: Tungsten bead 2.8 mm
+head: Black Tungsten bead 2.8 mm
 
 thread: UNI-Thread White 8/0
 
@@ -6112,7 +7506,7 @@ varnish: 2 layers head cement
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #4, Row 3, Middle
+location: NYMPH #12, Up, Column 2
 
 ---
 
@@ -6185,6 +7579,28 @@ body: Dyed Black Pheasant Tail
 thorax cover: Dyed Black Pheasant Tail Fibres
 
 thorax: Dyed Black Squirrel Dubbing
+
+location: tying list
+
+---
+
+## Wood Duck Minnow #8-#14
+
+source: [Brent Jones Fly Tying](https://www.youtube.com/watch?v=vQHhJoRv6bc)
+
+category: Wet
+
+hook: Umpaqua U203 #8=#14
+
+thread: UTC Ultra Thread 70 Black
+
+body: UTC Pearl Flat Tinsel Medium
+
+hackle: Barred Wood Duck flank
+
+head: thread
+
+cement: UV-resin
 
 location: tying list
 
@@ -6376,7 +7792,31 @@ location: tying list
 
 ---
 
-## Yellow Body Quill buzzer (Tungsten Bead) #12 [BT]
+## X-Caddis (variant)
+
+category: Dry fly
+
+source: Thomas Sneen @ FB Fly Tying Only
+
+hook: Firehole 419 size 14
+
+thread: Semperfli Nano silk 30D Grey
+
+shuck: Zelon Mayfly brown
+
+body: twisted CDC
+
+underwing: CDC
+
+wing: Deer
+
+head: Troutline natural dubbing mixed with SLF Brown Stone
+
+location: tying list
+
+---
+
+## Yellow Body Quill buzzer (Black Tungsten Bead) #12 [BT]
 
 category: Nymph
 
@@ -6392,7 +7832,7 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 
 mfg: Bert Timmerman
 
-location: NYMPH
+location: Nymph #12, Up, Column 6
 
 ---
 
@@ -6560,6 +8000,30 @@ location: NYMPH Leaf #2, Row 5, Middle
 
 ---
 
+## Yellow Owl Sedgehog
+
+category:
+
+originator:
+
+source:
+
+hook:  Kamasan B160 size #10 or #12
+
+thread: Uni 8/0 Light Cahill Thead
+
+tag:  Glo Brite Floss No.5
+
+rib:  Flybox Micro Wire Black
+
+body:  UTC Ultra Thread 140 Yellow
+
+wings:  Deer Short & Fine
+
+location: tying list
+
+---
+
 ## Yellow Sinker #2/0 Scierra
 
 category: Pike
@@ -6592,13 +8056,13 @@ location: Tupperware
 
 ---
 
-## Yellow Zebra Nymph (Tungsten Bead) #12 [BT]
+## Yellow Zebra Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
 
 category: Nymph
 
 hook: Grey Matzo Shrimp BL #12
 
-head: Tungsten bead 2.8 mm
+head: Black Tungsten bead 2.8 mm
 
 thread: UNI-Thread White 8/0
 
@@ -6610,7 +8074,7 @@ varnish: 2 layers head cement
 
 mfg: Bert Timmerman
 
-location: NYMPH Leaf #4, Row 3, Right
+location: NYMPH #12, Up, Column 3
 
 ---
 

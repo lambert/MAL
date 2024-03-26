@@ -33,3 +33,4 @@
 [2021](reports/year/2021.md)
 [2022](reports/year/2022.md)
 [2023](reports/year/2023.md)
+[2024](reports/year/2024.md)
